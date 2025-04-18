@@ -1,0 +1,2520 @@
+effect,category,hazard_sys_norm,type,n_clinset1,n_clinset2,n_clinsetnon
+ alkaline phosphatase increase,NA,hepatic,clinical,1,NA,NA
+ cardiovascular events,NA,cardiovascular,clinical,1,NA,NA
+ increased creatinine phosphokinase,NA,musculoskeletal,clinical,1,NA,NA
+ lipase increase,NA,gastrointestinal,clinical,1,NA,NA
+ speech disorder,NA,nervous,clinical,1,NA,NA
+% patients discontinuing due to adverse events,NA,no category,clinical,NA,1,NA
+% patients reporting serious events,NA,no category,clinical,NA,1,NA
+>8 x uln,NA,no category,clinical,NA,NA,NA
+abdomen girth increased,NA,gastrointestinal,nonclinical,NA,NA,1
+abdomen swellings,NA,gastrointestinal,nonclinical,NA,NA,17
+abdominal adhesions,NA,gastrointestinal,nonclinical,NA,NA,2
+abdominal discomfort/abdominal pain upper,incidental,gastrointestinal,clinical,NA,NA,NA
+abdominal discomfort and pain,incidental,gastrointestinal,clinical,NA,1,NA
+abdominal distension,incidental,gastrointestinal,clinical,1,NA,NA
+abdominal distention,incidental,gastrointestinal,clinical,NA,1,51
+abdominal distention,NA,gastrointestinal,nonclinical,NA,1,51
+abdominal liver function test lft,NA,hepatic,clinical,1,NA,NA
+abdominal pain,incidental,gastrointestinal,clinical,24,14,NA
+abdominal pain (1),incidental,gastrointestinal,clinical,NA,NA,NA
+abdominal pain (a),incidental,gastrointestinal,clinical,NA,NA,NA
+abdominal pain (c),incidental,gastrointestinal,clinical,NA,NA,NA
+abdominal pain †,incidental,gastrointestinal,clinical,NA,1,NA
+abdominal pain upper,incidental,gastrointestinal,clinical,4,1,NA
+abdominal pain upper (b),incidental,gastrointestinal,clinical,NA,NA,NA
+abdominal pain**,incidental,gastrointestinal,clinical,NA,3,NA
+abdominal pain/discomfort,incidental,gastrointestinal,clinical,1,1,NA
+abdominal pain nos,incidental,gastrointestinal,clinical,NA,2,NA
+abdominal pain†,incidental,gastrointestinal,clinical,NA,2,NA
+aberrant crypt foci,NA,no category,nonclinical,NA,NA,2
+abnormal abdominal wall morphology,NA,gastrointestinal,nonclinical,NA,NA,1
+abnormal adrenal cortex morphology,NA,endocrine,nonclinical,NA,NA,2
+abnormal adrenal gland morphology,NA,endocrine,nonclinical,NA,NA,26
+abnormal adrenal gland weight,NA,endocrine,nonclinical,NA,NA,11
+abnormal albumin level,NA,metabolic,nonclinical,NA,NA,7
+abnormal alveolar macrophage morphology,NA,hematologic,nonclinical,NA,NA,3
+abnormal alveolar macrophage number,NA,hematologic,nonclinical,NA,NA,12
+abnormal anus morphology,NA,gastrointestinal,nonclinical,NA,NA,1
+abnormal artery morphology,NA,cardiovascular,nonclinical,NA,NA,1
+abnormal atrial thrombosis,NA,hematologic,nonclinical,NA,NA,2
+abnormal behavior,NA,nervous,nonclinical,NA,NA,13
+abnormal behaviour,NA,nervous,clinical,NA,NA,NA
+abnormal bile duct epithelium morphology,NA,hepatic,nonclinical,NA,NA,1
+abnormal bile duct morphology,NA,hepatic,nonclinical,NA,NA,3
+abnormal bile duct physiology,NA,hepatic,nonclinical,NA,NA,1
+abnormal bile secretion,NA,hepatic,nonclinical,NA,NA,1
+abnormal bleeding,NA,hematologic,nonclinical,NA,NA,3
+abnormal blood coagulation,NA,hematologic,nonclinical,NA,NA,4
+abnormal blood ion concentration,NA,hematologic,nonclinical,NA,NA,1
+abnormal blood vessel morphology,NA,cardiovascular,nonclinical,NA,NA,9
+abnormal blood volume,NA,hematologic,nonclinical,NA,NA,1
+abnormal body weight,NA,metabolic,nonclinical,NA,NA,11
+abnormal bone marrow cell morphology/development,NA,musculoskeletal,nonclinical,NA,NA,9
+abnormal bone marrow cell number,NA,hematologic,nonclinical,NA,NA,10
+abnormal bone marrow hematopoietic cell morphology,NA,hematologic,nonclinical,NA,NA,1
+abnormal bone marrow morphology,NA,musculoskeletal,nonclinical,NA,NA,9
+abnormal brain morphology,NA,nervous,nonclinical,NA,NA,3
+abnormal brain ventricle morphology,NA,nervous,nonclinical,NA,NA,2
+abnormal brain weight,NA,nervous,nonclinical,NA,NA,1
+abnormal breathing pattern,NA,respiratory,nonclinical,NA,NA,46
+abnormal brown fat cell morphology,NA,metabolic,nonclinical,NA,NA,2
+abnormal cardiovascular system morphology,NA,cardiovascular,nonclinical,NA,NA,8
+abnormal cartilage morphology,NA,musculoskeletal,nonclinical,NA,NA,6
+abnormal cecum morphology,NA,gastrointestinal,nonclinical,NA,NA,8
+abnormal cervical lymph node morphology,NA,reproductive,nonclinical,NA,NA,7
+abnormal choriocapillaris morphology,NA,ocular,nonclinical,NA,NA,1
+abnormal circulating alkaline phosphatase level,NA,hepatic,nonclinical,NA,NA,6
+abnormal circulating amylase level,NA,metabolic,nonclinical,NA,NA,2
+abnormal circulating bilirubin level,NA,hepatic,nonclinical,NA,NA,4
+abnormal circulating chloride level,NA,metabolic,nonclinical,NA,NA,3
+abnormal circulating cholesterol level,NA,metabolic,nonclinical,NA,NA,8
+abnormal circulating creatinine concentration,NA,renal,nonclinical,NA,NA,6
+abnormal circulating dihydrotestosterone level,NA,endocrine,nonclinical,NA,NA,1
+abnormal circulating enzyme level,NA,no category,nonclinical,NA,NA,31
+abnormal circulating estradiol level,NA,endocrine,nonclinical,NA,NA,1
+abnormal circulating glucose level,NA,metabolic,nonclinical,NA,NA,6
+abnormal circulating gonadotropin level,NA,endocrine,nonclinical,NA,NA,1
+abnormal circulating lactate dehydrogenase level,NA,metabolic,nonclinical,NA,NA,1
+abnormal circulating lipase level,NA,metabolic,nonclinical,NA,NA,1
+abnormal circulating phosphate level,NA,metabolic,nonclinical,NA,NA,4
+abnormal circulating phospholipid concentration,NA,metabolic,nonclinical,NA,NA,5
+abnormal circulating renin level,NA,endocrine,nonclinical,NA,NA,1
+abnormal circulating sodium level,NA,metabolic,nonclinical,NA,NA,2
+abnormal circulating testosterone level,NA,endocrine,nonclinical,NA,NA,2
+abnormal circulating thyroxine level,NA,endocrine,nonclinical,NA,NA,1
+abnormal circulating total protein level,NA,metabolic,nonclinical,NA,NA,6
+abnormal circulating triglyceride level,NA,metabolic,nonclinical,NA,NA,8
+abnormal cns myelination,NA,nervous,nonclinical,NA,NA,1
+abnormal coat appearance,NA,dermal,nonclinical,NA,NA,128
+abnormal coat/ hair morphology,NA,dermal,nonclinical,NA,NA,2
+abnormal colon morphology,NA,gastrointestinal,nonclinical,NA,NA,5
+abnormal compensatory feeding amount,NA,metabolic,nonclinical,NA,NA,2
+abnormal corpus luteum morphology,NA,reproductive,nonclinical,NA,NA,4
+abnormal defecation,NA,gastrointestinal,nonclinical,NA,NA,2
+abnormal definitive hematopoiesis,NA,hematologic,nonclinical,NA,NA,2
+abnormal dermis papillary layer morphology,NA,dermal,nonclinical,NA,NA,1
+abnormal diestrus,NA,reproductive,nonclinical,NA,NA,4
+abnormal dreams,incidental,nervous,clinical,2,4,NA
+abnormal duodenum morphology,NA,gastrointestinal,nonclinical,NA,NA,12
+abnormal ejaculation,NA,reproductive,clinical,NA,1,NA
+abnormal endoplasmic reticulum morphology,NA,no category,nonclinical,NA,NA,3
+abnormal epididymis epithelium morphology,NA,reproductive,nonclinical,NA,NA,2
+abnormal epididymis morphology,NA,reproductive,nonclinical,NA,NA,10
+abnormal epiphyseal plate morphology,NA,musculoskeletal,nonclinical,NA,NA,2
+abnormal epithelial cell morphology,NA,no category,nonclinical,NA,NA,2
+abnormal erythrocyte morphology,NA,hematologic,nonclinical,NA,NA,2
+abnormal erythropoiesis,NA,hematologic,nonclinical,NA,NA,9
+abnormal esophagus morphology,NA,respiratory,nonclinical,NA,NA,4
+abnormal estrous cycle,NA,reproductive,nonclinical,NA,NA,10
+abnormal extrahepatic bile duct morphology,NA,hepatic,nonclinical,NA,NA,1
+abnormal eye size,NA,ocular,nonclinical,NA,NA,1
+abnormal eyelid morphology,NA,ocular,nonclinical,NA,NA,1
+abnormal facial skin morphology,NA,dermal,nonclinical,NA,NA,2
+abnormal fatty acids level,NA,metabolic,nonclinical,NA,NA,1
+abnormal feces composition,NA,gastrointestinal,nonclinical,NA,NA,81
+abnormal femur compact bone thickness,NA,musculoskeletal,nonclinical,NA,NA,3
+abnormal femur morphology,NA,musculoskeletal,nonclinical,NA,NA,8
+abnormal follicle stimulating hormone level,NA,endocrine,nonclinical,NA,NA,2
+abnormal food intake,NA,metabolic,nonclinical,NA,NA,10
+abnormal forestomach morphology,NA,gastrointestinal,nonclinical,NA,NA,16
+abnormal gait,NA,nervous,clinical,NA,NA,31
+abnormal gait,NA,nervous,nonclinical,NA,NA,31
+abnormal gastric chief cell morphology,NA,gastrointestinal,nonclinical,NA,NA,8
+abnormal gastric gland morphology,NA,gastrointestinal,nonclinical,NA,NA,6
+abnormal gastrointestinal motility,NA,gastrointestinal,nonclinical,NA,NA,3
+abnormal gonad weight,NA,reproductive,nonclinical,NA,NA,1
+abnormal granulocyte count,NA,hematologic,nonclinical,NA,NA,3
+abnormal gut-associated lymphoid tissue morphology,NA,gastrointestinal,nonclinical,NA,NA,1
+abnormal hair growth,NA,dermal,nonclinical,NA,NA,3
+abnormal harderian gland morphology,NA,endocrine,nonclinical,NA,NA,3
+abnormal harderian gland physiology,NA,endocrine,nonclinical,NA,NA,3
+abnormal harderian gland pigmentation,NA,endocrine,nonclinical,NA,NA,3
+abnormal head movements,NA,nervous,nonclinical,NA,NA,3
+abnormal heart atrium auricular region morphology,NA,cardiovascular,nonclinical,NA,NA,1
+abnormal heart weight,NA,cardiovascular,nonclinical,NA,NA,5
+abnormal hemopoiesis,NA,hematologic,nonclinical,NA,NA,12
+abnormal hepatic glycogen storage,NA,hepatic,nonclinical,NA,NA,1
+abnormal hepatocyte morphology,NA,hepatic,nonclinical,NA,NA,37
+abnormal hepatocyte physiology,NA,hepatic,nonclinical,NA,NA,5
+abnormal ileum morphology,NA,gastrointestinal,nonclinical,NA,NA,4
+abnormal incisor morphology,NA,dermal,nonclinical,NA,NA,13
+abnormal intestine morphology,NA,gastrointestinal,nonclinical,NA,NA,15
+abnormal jejunum morphology,NA,gastrointestinal,nonclinical,NA,NA,10
+abnormal jeujunal goblet cell morphology,NA,gastrointestinal,nonclinical,NA,NA,1
+abnormal kidney arterial blood vessel morphology,NA,renal,nonclinical,NA,NA,1
+abnormal kidney morphology,NA,renal,nonclinical,NA,NA,25
+abnormal kidney weight,NA,renal,nonclinical,NA,NA,10
+abnormal kupffer cell morphology,NA,hepatic,nonclinical,NA,NA,18
+abnormal large intestine morphology,NA,gastrointestinal,nonclinical,NA,NA,3
+abnormal lean body mass,NA,metabolic,nonclinical,NA,NA,2
+abnormal lens fiber morphology,NA,ocular,nonclinical,NA,NA,5
+abnormal leukocyte cell number,NA,hematologic,nonclinical,NA,NA,3
+abnormal lfts,NA,hepatic,clinical,1,NA,NA
+abnormal limb morphology,NA,musculoskeletal,nonclinical,NA,NA,11
+abnormal liver lobule morphology,NA,hepatic,nonclinical,NA,NA,24
+abnormal liver morphology,NA,hepatic,nonclinical,NA,NA,66
+abnormal liver physiology,NA,hepatic,nonclinical,NA,NA,14
+abnormal liver sinusoidal endothelial cell morphology,NA,hepatic,nonclinical,NA,NA,1
+abnormal liver weight,NA,hepatic,nonclinical,NA,NA,35
+abnormal long bone internal diameter,NA,musculoskeletal,nonclinical,NA,NA,2
+abnormal luminal closure,NA,reproductive,nonclinical,NA,NA,1
+abnormal lung alveolus development,NA,respiratory,nonclinical,NA,NA,3
+abnormal lung lobation,NA,respiratory,nonclinical,NA,NA,2
+abnormal lung morphology,NA,respiratory,nonclinical,NA,NA,41
+abnormal lung thrombosis,NA,respiratory,nonclinical,NA,NA,2
+abnormal lung weight,NA,respiratory,nonclinical,NA,NA,1
+abnormal lymph node morphology,NA,immune,nonclinical,NA,NA,25
+abnormal lymphocyte count,NA,immune,nonclinical,NA,NA,7
+abnormal macrophage morphology,NA,immune,nonclinical,NA,NA,1
+abnormal magnesium level,NA,metabolic,nonclinical,NA,NA,1
+abnormal male germ cell morphology,NA,reproductive,nonclinical,NA,NA,4
+abnormal mammary gland development,NA,reproductive,nonclinical,NA,NA,4
+abnormal mammary gland morphology,NA,reproductive,nonclinical,NA,NA,12
+abnormal mammary gland pattern,NA,reproductive,nonclinical,NA,NA,8
+abnormal mammary gland physiology,NA,reproductive,nonclinical,NA,NA,7
+abnormal mean corpuscular hemoglobin,NA,hematologic,nonclinical,NA,NA,2
+abnormal medulla morphology,NA,nervous,nonclinical,NA,NA,4
+abnormal mesenteric fat pad morphology,NA,no category,nonclinical,NA,NA,2
+abnormal mitosis,NA,no category,nonclinical,NA,NA,2
+abnormal mucosa morphology,NA,gastrointestinal,nonclinical,NA,NA,3
+abnormal muscle tone,NA,musculoskeletal,nonclinical,NA,NA,2
+abnormal myelopoiesis,NA,hematologic,nonclinical,NA,NA,2
+abnormal nasal cavity morphology,NA,respiratory,nonclinical,NA,NA,2
+abnormal neutrophil cell number,NA,hematologic,nonclinical,NA,NA,2
+abnormal nose morphology,NA,no category,nonclinical,NA,NA,4
+abnormal outer ear morphology,NA,no category,nonclinical,NA,NA,1
+abnormal ovarian follicle morphology,NA,reproductive,nonclinical,NA,NA,8
+abnormal ovary morphology,NA,reproductive,nonclinical,NA,NA,4
+abnormal pancreas morphology,NA,endocrine,nonclinical,NA,NA,13
+abnormal parathyroid gland morphology,NA,endocrine,nonclinical,NA,NA,4
+abnormal parotid gland morphology,NA,gastrointestinal,nonclinical,NA,NA,3
+abnormal penis morphology,NA,reproductive,nonclinical,NA,NA,3
+abnormal perineum morphology,NA,no category,nonclinical,NA,NA,1
+abnormal periodontal ligament morphology,NA,no category,nonclinical,NA,NA,1
+abnormal peyer's patch epithelium morphology,NA,gastrointestinal,nonclinical,NA,NA,1
+abnormal posture,NA,nervous,nonclinical,NA,NA,57
+abnormal preputial gland morphology,NA,reproductive,nonclinical,NA,NA,1
+abnormal prostate gland physiology,NA,reproductive,nonclinical,NA,NA,5
+abnormal prostate morphology,NA,reproductive,nonclinical,NA,NA,12
+abnormal proximal convoluted tubule morphology,NA,renal,nonclinical,NA,NA,2
+abnormal pupillary light reflex,NA,ocular,nonclinical,NA,NA,2
+abnormal red blood cell count,NA,hematologic,nonclinical,NA,NA,2
+abnormal renal function,NA,renal,clinical,NA,1,NA
+"abnormal renal function (e.g., creatinine increase)",NA,renal,clinical,NA,NA,NA
+"abnormal renal function (e.g., creatinine increase) leading to drug discontinuation",NA,renal,clinical,NA,NA,NA
+abnormal renal function leading to drug discontinuation,NA,renal,clinical,NA,1,NA
+abnormal renal tubule morphology,NA,renal,nonclinical,NA,NA,32
+abnormal reproductive system morphology,NA,reproductive,nonclinical,NA,NA,2
+abnormal respiratory sounds,NA,respiratory,nonclinical,NA,NA,27
+abnormal response to tactile stimuli,NA,nervous,nonclinical,NA,NA,1
+abnormal reticulocyte cell number,NA,hematologic,nonclinical,NA,NA,1
+abnormal retinal outer nuclear layer morphology,NA,ocular,nonclinical,NA,NA,2
+abnormal retinal vascular morphology,NA,ocular,nonclinical,NA,NA,11
+abnormal righting response,NA,nervous,nonclinical,NA,NA,4
+abnormal salivary gland morphology,NA,gastrointestinal,nonclinical,NA,NA,7
+abnormal salivary gland weight,NA,gastrointestinal,nonclinical,NA,NA,3
+abnormal sciatic nerve morphology,NA,nervous,nonclinical,NA,NA,3
+abnormal scrotum pigmentation,NA,reproductive,nonclinical,NA,NA,2
+abnormal seminal vesicle morphology,NA,reproductive,nonclinical,NA,NA,5
+abnormal seminal vesicle physiology,NA,reproductive,nonclinical,NA,NA,3
+abnormal seminiferous tubule morphology,NA,reproductive,nonclinical,NA,NA,3
+abnormal sex cord morphology,NA,reproductive,nonclinical,NA,NA,1
+abnormal skeletal muscle morphology,NA,musculoskeletal,nonclinical,NA,NA,2
+abnormal skin appearance,NA,dermal,nonclinical,NA,NA,52
+abnormal skin coloration,NA,dermal,nonclinical,NA,NA,23
+abnormal skin condition,NA,dermal,nonclinical,NA,NA,6
+abnormal skin exfoliation,NA,dermal,nonclinical,NA,NA,7
+abnormal small intestine morphology,NA,gastrointestinal,nonclinical,NA,NA,6
+abnormal snout morphology,NA,no category,nonclinical,NA,NA,1
+abnormal sperm morphology,NA,reproductive,nonclinical,NA,NA,14
+abnormal sperm motility,NA,reproductive,nonclinical,NA,NA,1
+abnormal sperm number,NA,reproductive,nonclinical,NA,NA,1
+abnormal spermatid morphology,NA,reproductive,nonclinical,NA,NA,2
+abnormal spermatocyte morphology,NA,reproductive,nonclinical,NA,NA,1
+abnormal spermatogonia morphology,NA,reproductive,nonclinical,NA,NA,1
+abnormal spleen morphology,NA,immune,nonclinical,NA,NA,33
+abnormal spleen weight,NA,immune,nonclinical,NA,NA,4
+abnormal sternum morphology,NA,no category,nonclinical,NA,NA,3
+abnormal stomach glandular region morphology,NA,gastrointestinal,nonclinical,NA,NA,3
+abnormal stomach morphology,NA,gastrointestinal,nonclinical,NA,NA,32
+abnormal stomach mucosa morphology,NA,gastrointestinal,nonclinical,NA,NA,11
+abnormal survival,NA,no category,nonclinical,NA,NA,586
+abnormal synovial joint morphology,NA,musculoskeletal,nonclinical,NA,NA,3
+abnormal t wave,NA,cardiovascular,nonclinical,NA,NA,2
+abnormal tail morphology,NA,no category,nonclinical,NA,NA,10
+abnormal tail pigmentation,NA,dermal,nonclinical,NA,NA,2
+abnormal tail tip morphology,NA,no category,nonclinical,NA,NA,1
+abnormal testis morphology,NA,reproductive,nonclinical,NA,NA,21
+abnormal testis weight,NA,reproductive,nonclinical,NA,NA,6
+abnormal thymus apoptosis,NA,immune,nonclinical,NA,NA,1
+abnormal thymus involution,NA,immune,nonclinical,NA,NA,12
+abnormal thymus morphology,NA,immune,nonclinical,NA,NA,22
+abnormal thymus weight,NA,immune,nonclinical,NA,NA,2
+abnormal thyroid follicle morphology,NA,endocrine,nonclinical,NA,NA,11
+abnormal thyroid gland weight,NA,endocrine,nonclinical,NA,NA,4
+abnormal thyroid hormone level,NA,endocrine,nonclinical,NA,NA,2
+abnormal thyroid-stimulating hormone level,NA,endocrine,nonclinical,NA,NA,1
+abnormal tongue morphology,NA,no category,nonclinical,NA,NA,1
+abnormal tooth color,NA,dermal,nonclinical,NA,NA,3
+abnormal tooth eruption,NA,dermal,nonclinical,NA,NA,3
+abnormal tooth morphology,NA,dermal,nonclinical,NA,NA,53
+abnormal trachea gland morphology,NA,no category,nonclinical,NA,NA,1
+abnormal triiodothyronine level,NA,endocrine,nonclinical,NA,NA,1
+abnormal upper incisor morphology,NA,dermal,nonclinical,NA,NA,4
+abnormal urinary bladder morphology,NA,renal,nonclinical,NA,NA,7
+abnormal urinary bladder mucosa morphology,NA,renal,nonclinical,NA,NA,7
+abnormal urinary mineral level,NA,renal,nonclinical,NA,NA,4
+abnormal urine color,NA,renal,nonclinical,NA,NA,4
+abnormal urine creatinine level,NA,renal,nonclinical,NA,NA,1
+abnormal urine protein level,NA,renal,nonclinical,NA,NA,2
+abnormal urogenital fold morphology,NA,no category,nonclinical,NA,NA,6
+abnormal uterus morphology,NA,reproductive,nonclinical,NA,NA,8
+abnormal uterus weight,NA,reproductive,nonclinical,NA,NA,10
+abnormal vagina epithelium morphology,NA,reproductive,nonclinical,NA,NA,13
+abnormal vagina orifice morphology,NA,reproductive,nonclinical,NA,NA,3
+abnormal vertebral column morphology,NA,musculoskeletal,nonclinical,NA,NA,3
+abnormal vision,NA,ocular,clinical,1,1,NA
+abnormal white fat cell morphology,NA,no category,nonclinical,NA,NA,1
+abnormality of dentin,NA,dermal,nonclinical,NA,NA,4
+abnormality of neutrophils,NA,hematologic,nonclinical,NA,NA,1
+abnormality of salivation,NA,gastrointestinal,nonclinical,NA,NA,3
+abnormality of subcutaneous tissues,NA,no category,nonclinical,NA,NA,1
+abnormality of the abdominal organs,NA,gastrointestinal,nonclinical,NA,NA,1
+abnormality of the gastrointestinal tract,NA,gastrointestinal,nonclinical,NA,NA,21
+abnormality of the gingiva,NA,dermal,nonclinical,NA,NA,1
+abnormality of the lens,NA,ocular,nonclinical,NA,NA,2
+abnormality of the orbital region,NA,ocular,nonclinical,NA,NA,1
+abnormality of the sublingual glands,NA,gastrointestinal,nonclinical,NA,NA,1
+abnormality of the thymus,NA,immune,nonclinical,NA,NA,6
+abnormality of the thyroid gland,NA,endocrine,nonclinical,NA,NA,5
+abnormality of upper lip,NA,no category,nonclinical,NA,NA,1
+abominal pain,incidental,gastrointestinal,clinical,1,NA,NA
+abscess,NA,no category,nonclinical,NA,NA,6
+absent corpus luteum,NA,reproductive,nonclinical,NA,NA,3
+absent estrous cycle,NA,reproductive,nonclinical,NA,NA,3
+absent incisors,NA,dermal,nonclinical,NA,NA,8
+absent tooth root,NA,dermal,nonclinical,NA,NA,1
+acanthosis,NA,dermal,nonclinical,NA,NA,11
+accident household,incidental,no category,clinical,NA,NA,NA
+accidental injury,incidental,no category,clinical,1,2,NA
+accidental trauma,incidental,no category,clinical,NA,NA,NA
+accommodation abnormal,NA,no category,clinical,NA,NA,NA
+aciduria,NA,renal,nonclinical,NA,NA,2
+acne,NA,dermal,clinical,5,NA,NA
+actinic keratosis,NA,dermal,clinical,NA,NA,NA
+activated partial thromboplastin time prolonged,NA,hematologic,clinical,NA,NA,NA
+activated partial thromboplastin time ratio decreased,NA,hematologic,nonclinical,NA,NA,9
+activated partial thromboplastin time ratio increased,NA,hematologic,nonclinical,NA,NA,11
+activated partial thromboplastin time shortened,NA,hematologic,nonclinical,NA,NA,12
+acute coronary syndrome,NA,cardiovascular,clinical,NA,1,NA
+acute gvhd in skin,NA,immune,clinical,2,NA,NA
+acute renal failure,NA,renal,clinical,NA,NA,NA
+adhesion of lung,NA,respiratory,nonclinical,NA,NA,2
+adhesion; liver,NA,hepatic,nonclinical,NA,NA,3
+adhesions of uterus,NA,reproductive,nonclinical,NA,NA,1
+adipose tissue atrophy,NA,metabolic,nonclinical,NA,NA,5
+adipose tissue necrosis,NA,metabolic,nonclinical,NA,NA,1
+adipose tissue of abdominal region,NA,metabolic,nonclinical,NA,NA,1
+adrenal cortex; hypertrophy,NA,endocrine,nonclinical,NA,NA,30
+adrenal degeneration,NA,endocrine,nonclinical,NA,NA,6
+adrenal gland atrophy,NA,endocrine,nonclinical,NA,NA,10
+adrenal gland cyst,NA,endocrine,nonclinical,NA,NA,1
+adrenal gland discoloration,NA,endocrine,nonclinical,NA,NA,16
+adrenal gland hyperplasia,NA,endocrine,nonclinical,NA,NA,40
+adrenal hemorrhage,NA,endocrine,nonclinical,NA,NA,9
+adrenal pigment deposits,NA,endocrine,nonclinical,NA,NA,1
+adrenalitis,NA,endocrine,nonclinical,NA,NA,4
+adrenals necrosis,NA,endocrine,nonclinical,NA,NA,11
+adrenocortical abnormality,NA,endocrine,nonclinical,NA,NA,1
+adverse behavior effect,NA,nervous,clinical,1,NA,NA
+aggravated restlessness,NA,nervous,clinical,1,NA,NA
+aggression,NA,nervous,clinical,NA,NA,NA
+aggressive behavior,NA,nervous,nonclinical,NA,NA,6
+agitation,NA,nervous,clinical,NA,1,1
+agitation,NA,nervous,nonclinical,NA,1,1
+agitation / irritability,NA,nervous,clinical,NA,2,NA
+akathisia,NA,nervous,clinical,6,5,NA
+"akathisia (akathisia, restlessness)",NA,nervous,clinical,NA,NA,NA
+akathisia/agitation/restlessness,NA,nervous,clinical,NA,NA,NA
+akinesia,NA,nervous,clinical,1,NA,NA
+alanine�transaminase increased,NA,hepatic,clinical,NA,NA,NA
+albumin decreased,NA,hematologic,clinical,NA,NA,NA
+albumin globulin ratio decreased,NA,metabolic,nonclinical,NA,NA,65
+albumin globulin ratio increased,NA,metabolic,nonclinical,NA,NA,54
+alkaline phosphase increase,NA,hepatic,clinical,1,NA,NA
+alkaline phosphatase,NA,hepatic,clinical,1,NA,NA
+alkaline phosphatase decrease,NA,hepatic,clinical,1,NA,NA
+alkaline phosphatase increase,NA,hepatic,clinical,2,NA,NA
+allergic reaction,incidental,immune,clinical,NA,NA,NA
+allergy,incidental,immune,clinical,1,NA,NA
+allergy ,incidental,immune,clinical,NA,NA,NA
+alopecia,NA,dermal,clinical,10,6,94
+alopecia,NA,dermal,nonclinical,10,6,94
+ALT increase,NA,hepatic,clinical,49,NA,NA
+alt increase,NA,hepatic,clinical,NA,10,NA
+altered ecg intervals,NA,cardiovascular,clinical,NA,NA,NA
+altered taste,incidental,nervous,clinical,1,NA,NA
+alveolar macrophage,NA,hematologic,nonclinical,NA,NA,11
+alveolitis,NA,respiratory,nonclinical,NA,NA,4
+amblyopia,NA,ocular,clinical,1,NA,NA
+ameloblast degeneration,NA,dermal,nonclinical,NA,NA,8
+amenorrhea,NA,reproductive,clinical,1,NA,NA
+amnesia,NA,nervous,clinical,3,1,NA
+amylase,NA,gastrointestinal,clinical,NA,NA,NA
+amylase change,NA,gastrointestinal,clinical,1,NA,NA
+amylase increased,NA,gastrointestinal,clinical,NA,1,NA
+amylase/lipase elevation,NA,metabolic,clinical,1,NA,NA
+and platelets,NA,hematologic,clinical,1,NA,NA
+anemia,NA,hematologic,clinical,19,13,21
+anemia,NA,hematologic,nonclinical,19,13,21
+anemia (b),NA,hematologic,clinical,NA,NA,NA
+anemia (including laboratory parameters),NA,hematologic,clinical,NA,NA,NA
+anger,NA,nervous,clinical,NA,1,NA
+angiectasis,NA,cardiovascular,nonclinical,NA,NA,6
+angina,NA,cardiovascular,clinical,1,NA,NA
+angina pectoris,NA,cardiovascular,clinical,1,NA,NA
+angioedema mentioned,incidental,dermal,clinical,NA,NA,NA
+anisocytosis,NA,hematologic,nonclinical,NA,NA,2
+anorexia,NA,metabolic,clinical,13,13,NA
+anorexia,NA,metabolic,clinical,13,13,NA
+anorgasmia,NA,nervous,clinical,1,1,NA
+anxiety,NA,nervous,clinical,5,9,NA
+anxiety/anxiety aggravated,NA,nervous,clinical,NA,NA,NA
+any adverse reaction,NA,no category,clinical,NA,1,NA
+any event,NA,no category,clinical,NA,2,NA
+ap >1-2.5x uln,NA,hepatic,clinical,NA,NA,NA
+ap increase,NA,hepatic,clinical,1,NA,NA
+apathy,NA,nervous,clinical,1,NA,NA
+aphasia,NA,nervous,clinical,1,NA,NA
+aplasia/hypoplasia of the lens,NA,ocular,nonclinical,NA,NA,1
+apnea,NA,respiratory,nonclinical,NA,NA,2
+apoptotic process,NA,no category,nonclinical,NA,NA,3
+appetite increase,NA,metabolic,clinical,2,NA,NA
+arrhythmia,NA,cardiovascular,clinical,1,NA,NA
+arteritis,NA,cardiovascular,nonclinical,NA,NA,5
+arthralgia,NA,musculoskeletal,clinical,14,10,NA
+arthralgia & articular rheumatism,NA,musculoskeletal,clinical,1,NA,NA
+arthralgia/musculoskeletal pain,NA,musculoskeletal,clinical,1,NA,NA
+arthralgia/myalgia,NA,musculoskeletal,clinical,NA,1,NA
+arthralgia/myalgia (f),NA,musculoskeletal,clinical,NA,NA,NA
+arthritis,NA,musculoskeletal,clinical,NA,NA,NA
+arthropathy,NA,musculoskeletal,clinical,NA,NA,NA
+ascites,NA,gastrointestinal,clinical,1,NA,2
+ascites,NA,gastrointestinal,nonclinical,1,NA,2
+aspartate�transaminase increased,NA,hepatic,clinical,NA,NA,NA
+AST increase,NA,hepatic,clinical,32,NA,NA
+ast increase,NA,hepatic,clinical,NA,4,NA
+asthenia,incidental,no category,clinical,12,9,NA
+asthenia/fatigue,incidental,no category,clinical,1,2,NA
+asthenic conditions,incidental,no category,clinical,NA,3,NA
+asthenic conditions (4),incidental,no category,clinical,NA,NA,NA
+asthenopia,incidental,no category,clinical,NA,NA,NA
+at least one clinically significant decreased neutrophil count (<1.0 x 109/l).,NA,hematologic,clinical,NA,NA,NA
+at least one clinically significant decreased white blood cell count (<3.0 x 109/l),NA,hematologic,clinical,NA,NA,NA
+ataxia,NA,nervous,clinical,3,11,25
+ataxia,NA,nervous,nonclinical,3,11,25
+athenia,incidental,no category,clinical,1,NA,NA
+"atretic follicles, increased number",NA,reproductive,nonclinical,NA,NA,1
+atrial fibrillation,NA,cardiovascular,clinical,NA,1,NA
+atrophy,NA,no category,nonclinical,NA,NA,23
+atrophy of hair follicle,NA,reproductive,nonclinical,NA,NA,5
+atrophy of liver,NA,hepatic,nonclinical,NA,NA,7
+atrophy of prostate,NA,reproductive,nonclinical,NA,NA,22
+atrophy of salivary gland,NA,gastrointestinal,nonclinical,NA,NA,12
+atrophy of the pituitary,NA,endocrine,nonclinical,NA,NA,2
+atypical sensation,NA,no category,clinical,NA,1,NA
+autolysis,NA,no category,nonclinical,NA,NA,2
+axon degeneration,NA,nervous,nonclinical,NA,NA,3
+azoospermia,NA,reproductive,nonclinical,NA,NA,19
+b lymphocytopenia,NA,immune,nonclinical,NA,NA,1
+back pain,incidental,no category,clinical,10,3,NA
+backpain,incidental,no category,clinical,1,NA,NA
+bacteriuria,NA,no category,nonclinical,NA,NA,4
+balance disorder,NA,nervous,clinical,NA,1,NA
+balance disorders/fall,NA,nervous,clinical,1,NA,NA
+"balance disorders/fall (fall, gait disturbance, dizziness, balance disorder)",NA,nervous,clinical,NA,NA,NA
+basal cell carcinoma,NA,NA,clinical,NA,NA,NA
+bicarbonate�decreased,NA,metabolic,clinical,NA,NA,NA
+big ears,NA,no category,nonclinical,NA,NA,4
+bile duct common dilatation,NA,hepatic,nonclinical,NA,NA,1
+bile duct hyperplasia,NA,hepatic,nonclinical,NA,NA,26
+bile duct inflammation,NA,hepatic,nonclinical,NA,NA,10
+bile duct proliferation,NA,hepatic,nonclinical,NA,NA,5
+bilirubin increase,NA,hepatic,clinical,11,5,NA
+bladder and urethral symptoms,NA,renal,clinical,NA,NA,NA
+bladder hemorrhage,NA,renal,nonclinical,NA,NA,6
+bleeding,NA,no category,clinical,2,NA,NA
+blepharitis,NA,ocular,nonclinical,NA,NA,1
+blepharoptosis,NA,ocular,nonclinical,NA,NA,1
+bloating,incidental,gastrointestinal,clinical,1,NA,NA
+blood clot,NA,hematologic,nonclinical,NA,NA,2
+blood cortisol decreased,NA,endocrine,clinical,NA,1,NA
+blood creatine phosphokinase increase (d),NA,musculoskeletal,clinical,NA,NA,NA
+blood creatinine increase,NA,renal,clinical,3,NA,NA
+blood creatinine increased,NA,renal,clinical,NA,1,NA
+blood creatinine phosphokinase increased,NA,renal,clinical,NA,1,NA
+blood electrolytes increased,NA,hematologic,nonclinical,NA,NA,1
+blood pressure change,NA,cardiovascular,clinical,8,NA,NA
+blood pressure decrease,NA,cardiovascular,clinical,3,NA,NA
+blood pressure increased,NA,cardiovascular,clinical,NA,NA,NA
+blood triglycerides increased,NA,metabolic,clinical,NA,1,NA
+blood urea increase,NA,renal,clinical,1,NA,NA
+blood urea nitrogen change,NA,renal,clinical,8,NA,NA
+blood urea nitrogen/creatinine ratio increased,NA,renal,nonclinical,NA,NA,4
+blood urine,NA,renal,clinical,2,NA,NA
+bloody discharge finding,NA,no category,nonclinical,NA,NA,1
+blurred vision,NA,ocular,clinical,1,4,NA
+blurry vision,NA,ocular,clinical,NA,NA,NA
+body as a whole,NA,no category,clinical,NA,1,NA
+body as a whole - general disorders chest pain,NA,no category,clinical,NA,NA,NA
+body odor,incidental,no category,clinical,NA,NA,NA
+bone degenerative changes,NA,musculoskeletal,nonclinical,NA,NA,9
+bone discoloration,NA,musculoskeletal,nonclinical,NA,NA,2
+bone hypertrophy,NA,musculoskeletal,nonclinical,NA,NA,2
+bone marrow disorders,NA,hematologic,clinical,2,NA,NA
+bone marrow failure,NA,musculoskeletal,nonclinical,NA,NA,10
+bone marrow hemorrhage,NA,musculoskeletal,nonclinical,NA,NA,6
+bone marrow hypercellularity,NA,musculoskeletal,nonclinical,NA,NA,13
+bone marrow hyperplasia,NA,musculoskeletal,nonclinical,NA,NA,6
+bone marrow hypocellularity,NA,musculoskeletal,nonclinical,NA,NA,35
+bone necrosis,NA,musculoskeletal,nonclinical,NA,NA,2
+bone pain,incidental,musculoskeletal,clinical,2,NA,NA
+bone weight decrease,NA,musculoskeletal,nonclinical,NA,NA,2
+both ovaries weight to body weight ratio,NA,reproductive,nonclinical,NA,NA,3
+bradycardia,NA,cardiovascular,clinical,3,3,NA
+brain inflammation,NA,nervous,nonclinical,NA,NA,2
+brain vacuoles,NA,nervous,nonclinical,NA,NA,9
+brain weight to body weight ratio,NA,nervous,nonclinical,NA,NA,1
+breast decrease,NA,reproductive,clinical,1,NA,NA
+breast pain,incidental,reproductive,clinical,NA,NA,NA
+breast pain/tenderness/discomfort,incidental,reproductive,clinical,1,NA,NA
+breast softer,incidental,reproductive,clinical,1,NA,NA
+breathing abnormalities,NA,respiratory,clinical,NA,NA,NA
+"broken, loose, or carious teeth",NA,dermal,nonclinical,NA,NA,4
+bronchitis,incidental,respiratory,clinical,1,3,1
+bruising (b),incidental,hematologic,clinical,NA,NA,NA
+ca++ decreased,NA,metabolic,nonclinical,NA,NA,16
+ca++ increased,NA,metabolic,nonclinical,NA,NA,14
+cachexia,NA,no category,nonclinical,NA,NA,2
+calcium decrease,NA,metabolic,clinical,1,NA,NA
+calcium decreased,NA,metabolic,clinical,NA,2,NA
+candida infection,incidental,no category,clinical,2,NA,NA
+cardiac disorders,NA,cardiovascular,clinical,1,NA,NA
+cardiac edema,NA,cardiovascular,nonclinical,NA,NA,2
+cardiac fibrosis,NA,cardiovascular,nonclinical,NA,NA,12
+cardiac intervention,NA,cardiovascular,clinical,NA,1,NA
+cardiac muscle tissue regeneration,NA,cardiovascular,nonclinical,NA,NA,2
+cardiac terms,NA,cardiovascular,clinical,1,NA,NA
+cardiac troponin i elevated,NA,cardiovascular,clinical,1,NA,NA
+cardiac hypertension,NA,cardiovascular,clinical,NA,NA,NA
+cardial atrophy,NA,cardiovascular,nonclinical,NA,NA,1
+cardiomyocyte degeneration,NA,cardiovascular,nonclinical,NA,NA,3
+cardiomyopathy,NA,cardiovascular,nonclinical,NA,NA,8
+cardiovascular events,NA,cardiovascular,clinical,1,NA,NA
+cardiovascular toxicity,NA,cardiovascular,clinical,NA,16,NA
+carious teeth,NA,dermal,nonclinical,NA,NA,1
+cartilaginous metaplasia,NA,no category,nonclinical,NA,NA,1
+casts in urine sediment,NA,renal,nonclinical,NA,NA,5
+cataract,NA,ocular,nonclinical,NA,NA,17
+cataracts,NA,ocular,clinical,1,NA,NA
+catheter site haematoma,incidental,no category,clinical,1,NA,NA
+catheter site pain,incidental,no category,clinical,1,NA,NA
+cecum discoloration,NA,gastrointestinal,nonclinical,NA,NA,1
+cecum hypertrophy,NA,gastrointestinal,nonclinical,NA,NA,2
+cecum inflammation,NA,gastrointestinal,nonclinical,NA,NA,10
+central nervous system depression (disorder),NA,nervous,nonclinical,NA,NA,1
+cerebellar coordination and balance disturbances*,NA,nervous,clinical,NA,1,NA
+cerebral edema,NA,nervous,nonclinical,NA,NA,1
+change in potassium,NA,metabolic,clinical,1,NA,NA
+change in pr interval,NA,cardiovascular,clinical,2,NA,NA
+change in qt interval,NA,cardiovascular,clinical,1,NA,NA
+change in rbc,NA,hematologic,clinical,1,NA,NA
+changes in organ weight,NA,no category,nonclinical,NA,NA,1
+chest pain,incidental,no category,clinical,3,3,NA
+chest pain,incidental,no category,clinical,3,3,NA
+chills,incidental,no category,clinical,1,2,NA
+cholesterol,NA,metabolic,clinical,1,NA,NA
+cholesterol abnormal,NA,metabolic,clinical,1,NA,NA
+cholesterol increase,NA,metabolic,clinical,2,NA,NA
+cholesterol increased,NA,metabolic,clinical,NA,2,NA
+chromatolysis,NA,no category,nonclinical,NA,NA,1
+chromodacryorrhea,NA,ocular,nonclinical,NA,NA,42
+chronic inflammation,NA,no category,nonclinical,NA,NA,2
+circumoral paraesthesia,NA,no category,clinical,NA,1,NA
+closure,NA,no category,nonclinical,NA,NA,5
+cloudy urine,NA,renal,nonclinical,NA,NA,8
+coagulation time shortened,NA,hematologic,nonclinical,NA,NA,2
+cognitive abnormality,NA,nervous,clinical,1,NA,NA
+cognitive and attention disorders,NA,nervous,clinical,NA,1,NA
+cognitive and attention disorders (3),NA,nervous,clinical,NA,NA,NA
+cognitive problems,NA,nervous,clinical,NA,NA,NA
+colitis,NA,gastrointestinal,clinical,NA,NA,2
+colitis,NA,gastrointestinal,nonclinical,NA,NA,2
+colitis ulcerative,NA,gastrointestinal,clinical,1,NA,NA
+colloid alteration,NA,endocrine,nonclinical,NA,NA,17
+colorless urine,NA,renal,nonclinical,NA,NA,1
+computed tomography of abdomen: thickened wall of duodenum,NA,gastrointestinal,nonclinical,NA,NA,4
+computed tomography of abdomen: thickened wall of stomach,NA,gastrointestinal,nonclinical,NA,NA,2
+conduction disorder,NA,cardiovascular,clinical,1,NA,NA
+condyloma acuminatum,NA,no category,clinical,NA,NA,NA
+confusion,NA,nervous,clinical,1,2,NA
+confusional state,NA,nervous,clinical,NA,1,NA
+congestion,NA,no category,nonclinical,NA,NA,9
+congestion of spleen,NA,immune,nonclinical,NA,NA,8
+conjunctivitis,incidental,ocular,clinical,NA,1,3
+conjunctivitis,NA,ocular,nonclinical,NA,1,3
+constipation,incidental,gastrointestinal,clinical,29,31,5
+constipation,NA,gastrointestinal,nonclinical,29,31,5
+contact dermatitis,incidental,dermal,clinical,NA,NA,NA
+contusion,NA,no category,clinical,NA,NA,NA
+convulsive seizures,NA,nervous,nonclinical,NA,NA,40
+coordination abnormal,NA,nervous,clinical,NA,2,NA
+cornea edema,NA,ocular,nonclinical,NA,NA,1
+corneal abnormalities ß,NA,ocular,clinical,NA,1,NA
+corneal degeneration,NA,ocular,nonclinical,NA,NA,1
+corneal epithelium hyperplasia,NA,ocular,nonclinical,NA,NA,2
+corneal opacity,NA,ocular,nonclinical,NA,NA,13
+corpus luteum cyst,NA,reproductive,nonclinical,NA,NA,1
+cortical and subcortical atrophy,NA,no category,nonclinical,NA,NA,1
+costipation,incidental,gastrointestinal,clinical,2,NA,NA
+cough,incidental,respiratory,clinical,15,4,NA
+cough increased,incidental,respiratory,clinical,NA,1,NA
+cough/productive cough,incidental,respiratory,clinical,NA,1,NA
+coughing,incidental,respiratory,clinical,1,NA,NA
+coughing and associated symptoms,incidental,respiratory,clinical,NA,1,NA
+cpk >1000 u/l,NA,musculoskeletal,clinical,NA,1,NA
+cpk >1000 u/l (high),NA,musculoskeletal,clinical,NA,NA,NA
+cpk decrease,NA,musculoskeletal,clinical,1,NA,NA
+cpk elevation,NA,musculoskeletal,clinical,2,NA,NA
+cpk increase,NA,musculoskeletal,clinical,2,NA,NA
+cr 1.5-<3x baseline,NA,renal,clinical,NA,NA,NA
+cr increase,NA,renal,clinical,1,NA,NA
+crackles,NA,no category,nonclinical,NA,NA,5
+cramps,incidental,no category,clinical,NA,NA,NA
+cranial injury nos,incidental,no category,clinical,NA,NA,NA
+creatine kinase,NA,musculoskeletal,clinical,1,NA,NA
+creatine kinase elevation,NA,musculoskeletal,clinical,1,NA,NA
+creatine phosphokinase > 1.5x upper limit of normal,NA,musculoskeletal,clinical,NA,NA,NA
+creatine phosphokinase increase,NA,musculoskeletal,clinical,2,NA,NA
+creatinine,NA,renal,clinical,3,NA,NA
+creatinine above threshold,NA,renal,clinical,1,NA,NA
+creatinine clearance,NA,renal,clinical,1,NA,NA
+creatinine elevation,NA,musculoskeletal,clinical,2,NA,NA
+creatinine increase,NA,renal,clinical,4,NA,NA
+creatinine increased,NA,renal,clinical,NA,3,NA
+creatinine increase,NA,renal,clinical,NA,1,NA
+crystalluria,NA,renal,nonclinical,NA,NA,18
+cuboidal epithelium,NA,no category,nonclinical,NA,NA,1
+curly tail,NA,no category,nonclinical,NA,NA,2
+cyanosis,NA,no category,nonclinical,NA,NA,2
+cyst,NA,no category,nonclinical,NA,NA,1
+cystolithiasis,NA,renal,nonclinical,NA,NA,6
+cytoplasmic vacuolation,NA,no category,nonclinical,NA,NA,5
+dark urine,NA,renal,nonclinical,NA,NA,2
+dark yellow urine,NA,renal,nonclinical,NA,NA,2
+death,NA,no category,clinical,NA,1,NA
+decidualization,NA,no category,nonclinical,NA,NA,1
+decrease absolute neutrophil count,NA,hematologic,clinical,1,NA,NA
+decrease apetite,NA,metabolic,clinical,1,NA,NA
+decrease hematocrit,NA,hematologic,clinical,1,NA,NA
+decrease in absolute neutrophil count,NA,hematologic,clinical,NA,1,NA
+decrease in blood pressure,NA,cardiovascular,clinical,1,NA,NA
+decrease in calcium,NA,metabolic,clinical,1,NA,NA
+decrease in fasting glucose,NA,metabolic,clinical,2,NA,NA
+decrease in hemoglobin,NA,hematologic,clinical,NA,4,NA
+decrease in hemoglobin to below 10.0 g/dl,NA,hematologic,clinical,NA,1,NA
+decrease in leukocytes,NA,hematologic,clinical,NA,2,NA
+decrease in lymphocytes,NA,hematologic,clinical,NA,4,NA
+decrease in platelets,NA,hematologic,clinical,NA,2,NA
+decrease in rbc,NA,hematologic,clinical,1,NA,NA
+decrease in serum phosphorus,NA,metabolic,clinical,1,NA,NA
+decrease in triglycerides,NA,metabolic,clinical,2,NA,NA
+decrease lymphocyte,NA,hematologic,clinical,3,NA,NA
+decrease lymphocytes,NA,hematologic,clinical,1,NA,NA
+decrease neutrophil,NA,hematologic,clinical,1,NA,NA
+decrease neutrophils,NA,hematologic,clinical,1,NA,NA
+decrease platelet count,NA,hematologic,clinical,1,NA,NA
+decrease red blood cell count,NA,hematologic,clinical,1,NA,NA
+decrease sodium,NA,metabolic,clinical,1,NA,NA
+decrease t4,NA,endocrine,clinical,1,NA,NA
+decrease uric acid,NA,metabolic,clinical,2,NA,NA
+decrease vitamin d,NA,metabolic,clinical,2,NA,NA
+decrease wbc,NA,hematologic,clinical,2,NA,NA
+decrease wbc counts,NA,hematologic,clinical,1,NA,NA
+decreased abdominal fat pad weight,NA,metabolic,nonclinical,NA,NA,2
+decreased accommodation,NA,no category,clinical,1,NA,NA
+decreased activated sperm motility,NA,reproductive,nonclinical,NA,NA,8
+decreased activity of thyroid gland,NA,endocrine,nonclinical,NA,NA,2
+decreased adipose tissue,NA,metabolic,nonclinical,NA,NA,5
+decreased adrenal gland weight,NA,endocrine,nonclinical,NA,NA,49
+decreased alkaline phosphatase activity,NA,hepatic,nonclinical,NA,NA,7
+decreased apetite,NA,metabolic,clinical,1,NA,NA
+decreased appetite,NA,metabolic,clinical,13,13,NA
+decreased appetite + anorexia,NA,metabolic,clinical,2,NA,NA
+decreased appetite and food intake,NA,metabolic,clinical,NA,1,NA
+decreased appetite/anorexia,NA,metabolic,clinical,NA,NA,NA
+decreased appitite,NA,metabolic,clinical,NA,NA,NA
+decreased a-wave amplitude,NA,no category,nonclinical,NA,NA,1
+decreased basophil cell number,NA,hematologic,nonclinical,NA,NA,22
+decreased blood urea nitrogen level,NA,renal,nonclinical,NA,NA,42
+decreased body temperature,NA,no category,nonclinical,NA,NA,79
+decreased body weight,NA,metabolic,nonclinical,NA,NA,576
+decreased bone marrow cell number,NA,musculoskeletal,nonclinical,NA,NA,4
+decreased bone mineral content,NA,musculoskeletal,nonclinical,NA,NA,2
+decreased bone mineral density,NA,musculoskeletal,nonclinical,NA,NA,6
+decreased bone mineral density of femur,NA,musculoskeletal,nonclinical,NA,NA,1
+decreased bone strength,NA,musculoskeletal,nonclinical,NA,NA,2
+decreased brain weight,NA,nervous,nonclinical,NA,NA,22
+decreased brown fat cell lipid droplet size,NA,metabolic,nonclinical,NA,NA,4
+decreased brown fat cell size,NA,metabolic,nonclinical,NA,NA,1
+decreased b-wave amplitude,NA,no category,nonclinical,NA,NA,1
+decreased calcium,NA,metabolic,clinical,1,NA,NA
+decreased cell mass,NA,no category,nonclinical,NA,NA,1
+decreased cellular hemoglobin content,NA,hematologic,nonclinical,NA,NA,8
+decreased choline level,NA,no category,nonclinical,NA,NA,1
+decreased cholinesterase activity,NA,nervous,nonclinical,NA,NA,3
+decreased circulating alanine transaminase level,NA,hepatic,nonclinical,NA,NA,41
+decreased circulating aldosterone level,NA,endocrine,nonclinical,NA,NA,3
+decreased circulating alkaline phosphatase level,NA,hepatic,nonclinical,NA,NA,62
+decreased circulating amylase level,NA,gastrointestinal,nonclinical,NA,NA,2
+decreased circulating aspartate transaminase level,NA,hepatic,nonclinical,NA,NA,45
+decreased circulating bicarbonate level,NA,metabolic,nonclinical,NA,NA,2
+decreased circulating bilirubin level,NA,hepatic,nonclinical,NA,NA,41
+decreased circulating calcium level,NA,metabolic,nonclinical,NA,NA,38
+decreased circulating chloride level,NA,metabolic,nonclinical,NA,NA,50
+decreased circulating cholesterol level,NA,metabolic,nonclinical,NA,NA,105
+decreased circulating creatine kinase level,NA,musculoskeletal,nonclinical,NA,NA,14
+decreased circulating creatinine level,NA,renal,nonclinical,NA,NA,49
+decreased circulating fibrinogen level,NA,hematologic,nonclinical,NA,NA,4
+decreased circulating free fatty acids level,NA,metabolic,nonclinical,NA,NA,2
+decreased circulating globulin level,NA,hematologic,nonclinical,NA,NA,74
+decreased circulating glucose level,NA,metabolic,nonclinical,NA,NA,99
+decreased circulating glutamate dehydrogenase level,NA,metabolic,nonclinical,NA,NA,3
+decreased circulating glycerol level,NA,metabolic,nonclinical,NA,NA,5
+decreased circulating hdl cholesterol level,NA,metabolic,nonclinical,NA,NA,3
+decreased circulating insulin level,NA,metabolic,nonclinical,NA,NA,2
+decreased circulating lactate dehydrogenase level,NA,metabolic,nonclinical,NA,NA,8
+decreased circulating ldl cholesterol level,NA,metabolic,nonclinical,NA,NA,1
+decreased circulating magnesium level,NA,no category,nonclinical,NA,NA,2
+decreased circulating parathyroid hormone level,NA,endocrine,nonclinical,NA,NA,4
+decreased circulating phosphate level,NA,metabolic,nonclinical,NA,NA,31
+decreased circulating phospholipid level,NA,metabolic,nonclinical,NA,NA,17
+decreased circulating potassium level,NA,metabolic,nonclinical,NA,NA,60
+decreased circulating prolactin level,NA,endocrine,nonclinical,NA,NA,2
+decreased circulating serum albumin level,NA,metabolic,nonclinical,NA,NA,141
+decreased circulating sodium level,NA,metabolic,nonclinical,NA,NA,46
+decreased circulating testosterone level,NA,reproductive,nonclinical,NA,NA,5
+decreased circulating thyroxine level,NA,endocrine,nonclinical,NA,NA,13
+decreased circulating total protein level,NA,metabolic,nonclinical,NA,NA,136
+decreased circulating triglyceride level,NA,metabolic,nonclinical,NA,NA,158
+decreased circulating triiodothyronine level,NA,endocrine,nonclinical,NA,NA,11
+decreased corpora lutea number,NA,reproductive,nonclinical,NA,NA,18
+decreased creatinine clearance,NA,renal,nonclinical,NA,NA,1
+decreased defecation amount,NA,gastrointestinal,nonclinical,NA,NA,30
+decreased diastolic blood pressure,NA,cardiovascular,nonclinical,NA,NA,1
+decreased energy expenditure,NA,no category,nonclinical,NA,NA,4
+decreased eosinophil cell number,NA,hematologic,nonclinical,NA,NA,49
+decreased epididymis weight,NA,reproductive,nonclinical,NA,NA,47
+decreased erythrocyte cell number,NA,hematologic,nonclinical,NA,NA,35
+decreased fetal weight,NA,reproductive,nonclinical,NA,NA,1
+decreased fluid intake,NA,no category,nonclinical,NA,NA,18
+decreased food intake,NA,metabolic,nonclinical,NA,NA,419
+decreased germ cell number,NA,reproductive,nonclinical,NA,NA,2
+decreased granulocyte number,NA,no category,nonclinical,NA,NA,1
+decreased grip strength,NA,nervous,nonclinical,NA,NA,4
+decreased grooming behavior,NA,nervous,nonclinical,NA,NA,1
+decreased hair follicle number,NA,reproductive,nonclinical,NA,NA,1
+decreased heart rate,NA,cardiovascular,nonclinical,NA,NA,6
+decreased heart weight,NA,cardiovascular,nonclinical,NA,NA,69
+decreased hematocrit,NA,hematologic,nonclinical,NA,NA,184
+decreased hematopoietic cell number,NA,hematologic,nonclinical,NA,NA,4
+decreased hemoglobin concentration,NA,hematologic,nonclinical,NA,NA,227
+decreased igg level,NA,immune,nonclinical,NA,NA,1
+decreased kidney weight,NA,renal,nonclinical,NA,NA,57
+decreased large unstained cell number,NA,no category,nonclinical,NA,NA,6
+decreased leukocyte cell number,NA,hematologic,nonclinical,NA,NA,26
+decreased libido,NA,reproductive,clinical,NA,NA,NA
+decreased liver glycogen level,NA,hepatic,nonclinical,NA,NA,3
+decreased liver weight,NA,hepatic,nonclinical,NA,NA,72
+decreased lung weight,NA,respiratory,nonclinical,NA,NA,7
+decreased lvef,NA,cardiovascular,clinical,1,NA,NA
+decreased lymph node number,NA,hematologic,nonclinical,NA,NA,5
+"decreased lymphatic tissue (tonsil, thymus, mesenteric nodes, peyer patches)",NA,immune,nonclinical,NA,NA,1
+decreased lymphocyte cell number,NA,hematologic,nonclinical,NA,NA,227
+decreased male germ cell number,NA,reproductive,nonclinical,NA,NA,30
+decreased mast cell number,NA,immune,nonclinical,NA,NA,1
+decreased mean corpuscular hemoglobin,NA,hematologic,nonclinical,NA,NA,53
+decreased mean corpuscular hemoglobin concentration,NA,hematologic,nonclinical,NA,NA,18
+decreased mean corpuscular volume,NA,hematologic,nonclinical,NA,NA,58
+decreased mean platelet volume,NA,hematologic,nonclinical,NA,NA,6
+decreased mean systemic arterial blood pressure,NA,cardiovascular,nonclinical,NA,NA,1
+decreased monocyte cell number,NA,hematologic,nonclinical,NA,NA,34
+decreased myeloid cell number in bone marrow,NA,musculoskeletal,nonclinical,NA,NA,4
+decreased nerve conduction velocity,NA,nervous,nonclinical,NA,NA,1
+decreased neutrophil cell number,NA,hematologic,nonclinical,NA,NA,42
+decreased neutrophil count,NA,hematologic,clinical,NA,NA,NA
+decreased neutrophils,NA,hematologic,clinical,1,NA,NA
+decreased nk cell number,NA,immune,nonclinical,NA,NA,2
+decreased ovary weight,NA,reproductive,nonclinical,NA,NA,39
+decreased pancreas weight,NA,endocrine,nonclinical,NA,NA,7
+decreased pancreatic acinar cell zymogen granule number,NA,endocrine,nonclinical,NA,NA,4
+decreased partial thromboplastin time,NA,hematologic,nonclinical,NA,NA,16
+decreased phosphate,NA,metabolic,clinical,NA,1,NA
+decreased phosphorus,NA,metabolic,clinical,1,NA,NA
+decreased pituitary gland weight,NA,endocrine,nonclinical,NA,NA,63
+decreased platelets,NA,hematologic,clinical,1,NA,NA
+decreased potassium,NA,metabolic,clinical,1,NA,NA
+decreased proportion of cd4-positive t cells,NA,immune,nonclinical,NA,NA,1
+decreased proportion of cd8-positive t cells,NA,immune,nonclinical,NA,NA,1
+decreased prostate gland weight,NA,reproductive,nonclinical,NA,NA,91
+decreased prothrombin time,NA,hematologic,nonclinical,NA,NA,23
+decreased pulmonary respiratory rate,NA,respiratory,nonclinical,NA,NA,9
+decreased pulse rate,NA,cardiovascular,clinical,1,NA,NA
+decreased red blood cell count,NA,hematologic,nonclinical,NA,NA,204
+decreased red blood cell distribution width,NA,hematologic,nonclinical,NA,NA,3
+decreased seminal vesicle weight,NA,reproductive,nonclinical,NA,NA,28
+decreased skin turgor,NA,dermal,nonclinical,NA,NA,2
+decreased sodium,NA,metabolic,clinical,1,NA,NA
+decreased spleen germinal center number,NA,immune,nonclinical,NA,NA,1
+decreased spleen weight,NA,immune,nonclinical,NA,NA,122
+decreased splenocyte number,NA,immune,nonclinical,NA,NA,1
+decreased susceptibility to weight gain,NA,metabolic,nonclinical,NA,NA,283
+decreased systemic arterial systolic blood pressure,NA,cardiovascular,nonclinical,NA,NA,3
+decreased systolic blood pressure,NA,cardiovascular,clinical,1,NA,NA
+decreased t cell number,NA,immune,nonclinical,NA,NA,3
+decreased testis weight,NA,reproductive,nonclinical,NA,NA,79
+"decreased thickness, physis",NA,no category,nonclinical,NA,NA,2
+decreased thymocyte apoptosis,NA,immune,nonclinical,NA,NA,2
+decreased thymus weight,NA,immune,nonclinical,NA,NA,245
+decreased thyroid gland weight,NA,endocrine,nonclinical,NA,NA,33
+decreased thyroid hormone secretion,NA,endocrine,nonclinical,NA,NA,1
+decreased trabecular bone mass,NA,musculoskeletal,nonclinical,NA,NA,5
+decreased urine aldosterone level,NA,renal,nonclinical,NA,NA,1
+decreased urine chloride ion level,NA,renal,nonclinical,NA,NA,6
+decreased urine creatinine level,NA,renal,nonclinical,NA,NA,13
+decreased urine flow rate,NA,renal,nonclinical,NA,NA,46
+decreased urine magnesium level,NA,renal,nonclinical,NA,NA,5
+decreased urine osmolality,NA,renal,nonclinical,NA,NA,15
+decreased urine ph,NA,renal,nonclinical,NA,NA,49
+decreased urine phosphate level,NA,renal,nonclinical,NA,NA,3
+decreased urine potassium level,NA,renal,nonclinical,NA,NA,16
+decreased urine protein level,NA,renal,nonclinical,NA,NA,4
+decreased urine sodium level,NA,renal,nonclinical,NA,NA,17
+decreased uterus weight,NA,reproductive,nonclinical,NA,NA,77
+decreased white adipose tissue amount,NA,metabolic,nonclinical,NA,NA,2
+decreased white blood cells,NA,hematologic,clinical,1,NA,NA
+decreased white fat cell lipid droplet size,NA,metabolic,nonclinical,NA,NA,3
+decreased white fat cell number,NA,metabolic,nonclinical,NA,NA,1
+decreased white fat cell size,NA,metabolic,nonclinical,NA,NA,1
+"decreased, follicle size",NA,reproductive,nonclinical,NA,NA,1
+deep thrombophlebitis,NA,cardiovascular,clinical,1,NA,NA
+deep vein thrombosis,NA,cardiovascular,clinical,NA,2,NA
+degeneration,NA,no category,nonclinical,NA,NA,18
+degeneration of germ cells,NA,reproductive,nonclinical,NA,NA,6
+dehydration,NA,metabolic,clinical,1,1,31
+dehydration,NA,metabolic,nonclinical,1,1,31
+demyelination,NA,nervous,nonclinical,NA,NA,1
+dental and oral infections,incidental,no category,clinical,NA,1,NA
+dental and oral infections (h),incidental,no category,clinical,NA,NA,NA
+dental pulp stones,NA,dermal,nonclinical,NA,NA,3
+dependent edema,incidental,no category,clinical,NA,NA,NA
+depersonalization,NA,nervous,clinical,NA,NA,NA
+depressed mood,NA,nervous,clinical,NA,NA,NA
+depression,NA,nervous,clinical,6,5,NA
+"depression, depressed mood",NA,nervous,clinical,NA,NA,NA
+depression/ dysthymic disorder,NA,nervous,clinical,NA,NA,NA
+depression/psychotic depression,NA,nervous,clinical,1,NA,NA
+dermal atrophy,NA,dermal,nonclinical,NA,NA,9
+dermal papilla,NA,dermal,nonclinical,NA,NA,1
+dermatitis,NA,dermal,nonclinical,NA,NA,8
+dermatitis acneiform,NA,dermal,clinical,2,NA,NA
+dermatitis acneiform/acne,NA,dermal,clinical,NA,1,NA
+dermatitis contact,incidental,dermal,clinical,1,NA,NA
+dermatitis exfoliative,NA,dermal,clinical,1,NA,NA
+dermatitis fungal,NA,dermal,clinical,NA,NA,NA
+dermatitis/rash,NA,dermal,clinical,1,NA,NA
+dermatologic disorders,NA,dermal,nonclinical,NA,NA,2
+dermatological toxicity,NA,dermal,clinical,NA,1,NA
+dermatology rash skin discolouration hand-foot syndrome,NA,dermal,clinical,NA,NA,NA
+device related infection,incidental,no category,clinical,1,NA,NA
+device-related infection,incidental,no category,clinical,NA,1,NA
+diabetes mellitus,NA,metabolic,clinical,NA,2,NA
+dialysis graft occlusion,incidental,no category,clinical,NA,1,NA
+diarrhea,NA,gastrointestinal,clinical,54,30,35
+diarrhea,NA,gastrointestinal,nonclinical,54,30,35
+diarrhea (b),NA,gastrointestinal,clinical,NA,NA,NA
+diarrhea (c),NA,gastrointestinal,clinical,NA,NA,NA
+diarrhea *,NA,gastrointestinal,clinical,NA,2,NA
+diarrhea/colitis,NA,gastrointestinal,clinical,NA,2,NA
+diarrheaa,NA,gastrointestinal,clinical,NA,2,NA
+diarrhea b,NA,gastrointestinal,clinical,NA,1,NA
+diarrhoea,NA,gastrointestinal,clinical,1,4,NA
+diarrhoea nausea mucositis/stomatitis vomiting constipation abdominal pain (c),NA,gastrointestinal,clinical,NA,1,NA
+difficulty concentrating,NA,nervous,clinical,NA,2,NA
+difficulty with concentration/attention,NA,nervous,clinical,NA,3,NA
+difficulty with memory,NA,nervous,clinical,NA,4,NA
+dilatation,NA,no category,nonclinical,NA,NA,5
+dilatation of the renal pelvis,NA,renal,nonclinical,NA,NA,21
+dilated bile duct,NA,hepatic,nonclinical,NA,NA,4
+dilated brain ventricles,NA,nervous,nonclinical,NA,NA,3
+dilated brunner's glands,NA,gastrointestinal,nonclinical,NA,NA,1
+dilated gastric glands,NA,gastrointestinal,nonclinical,NA,NA,13
+dilated gastrointestinal tract,NA,gastrointestinal,nonclinical,NA,NA,13
+dilated hair follicles,NA,reproductive,nonclinical,NA,NA,1
+dilated kidney collecting duct,NA,renal,nonclinical,NA,NA,7
+dilated liver sinusoidal spaces,NA,hepatic,nonclinical,NA,NA,3
+dilated renal tubules,NA,renal,nonclinical,NA,NA,27
+dilated rete testis,NA,reproductive,nonclinical,NA,NA,2
+dilated seminiferous tubules,NA,reproductive,nonclinical,NA,NA,2
+dilated uterus,NA,reproductive,nonclinical,NA,NA,22
+dimethylnitrosamine demethylase activity,NA,no category,nonclinical,NA,NA,1
+diplopia,NA,ocular,clinical,2,6,NA
+discharge around mouth,NA,no category,nonclinical,NA,NA,28
+discoloration of kidney,NA,renal,nonclinical,NA,NA,33
+discoloration of liver,NA,hepatic,nonclinical,NA,NA,46
+discoloration of lung,NA,respiratory,nonclinical,NA,NA,42
+discoloration of multiple teeth,NA,dermal,nonclinical,NA,NA,5
+discoloration of spleen,NA,immune,nonclinical,NA,NA,13
+discolored,NA,no category,nonclinical,NA,NA,14
+discolored thyroid glands,NA,endocrine,nonclinical,NA,NA,5
+discontinuation because of adverse reactions occurred,NA,no category,clinical,NA,1,NA
+discontinuation rates due to adverse events,NA,no category,clinical,NA,2,NA
+discontinuations due to adverse reactions,NA,no category,clinical,NA,1,NA
+discontinuations for hepatic adverse events were,NA,hepatic,clinical,NA,NA,NA
+discontinued because of adverse reactions,NA,no category,clinical,NA,NA,NA
+disheveled coat,NA,nervous,nonclinical,NA,NA,28
+distended cecum,NA,gastrointestinal,nonclinical,NA,NA,15
+distended duodenum,NA,gastrointestinal,nonclinical,NA,NA,7
+distended ileum,NA,gastrointestinal,nonclinical,NA,NA,6
+distended jejunum,NA,gastrointestinal,nonclinical,NA,NA,10
+distended proximal colon,NA,gastrointestinal,nonclinical,NA,NA,2
+distended stomach,NA,gastrointestinal,nonclinical,NA,NA,18
+distended urinary bladder,NA,renal,nonclinical,NA,NA,8
+disturbance in attention,NA,nervous,clinical,1,1,NA
+disturbances in initiating and maintaining sleep,NA,nervous,clinical,NA,NA,NA
+dizziness,incidental,nervous,clinical,50,41,NA
+dizziness (2),incidental,nervous,clinical,NA,NA,NA
+dizziness (c),incidental,nervous,clinical,NA,NA,NA
+dizziness and drowsiness,incidental,nervous,clinical,1,NA,NA
+dizziness/vertigo,incidental,nervous,clinical,NA,NA,NA
+dizziness * *,incidental,nervous,clinical,NA,1,NA
+drooling,NA,gastrointestinal,clinical,NA,NA,NA
+drowsiness,incidental,no category,clinical,3,NA,NA
+dry eyes,incidental,ocular,clinical,NA,1,1
+dry eyes,NA,ocular,nonclinical,NA,1,1
+dry eyes nos,incidental,ocular,clinical,NA,1,NA
+dry mouth,incidental,gastrointestinal,clinical,25,25,NA
+dry skin,NA,dermal,clinical,7,3,6
+dry skin,NA,dermal,nonclinical,7,3,6
+dry skin §§,NA,dermal,clinical,NA,1,NA
+dry skin/xeroderma,NA,dermal,clinical,NA,1,NA
+dry throat,incidental,respiratory,clinical,1,1,NA
+duct ectasia,NA,no category,nonclinical,NA,NA,1
+duodenal atrophy,NA,gastrointestinal,nonclinical,NA,NA,1
+duodenal mucosa,NA,gastrointestinal,nonclinical,NA,NA,1
+duodenal ulcer,NA,gastrointestinal,nonclinical,NA,NA,3
+duodenitis,NA,gastrointestinal,nonclinical,NA,NA,5
+duodenum discoloration,NA,gastrointestinal,nonclinical,NA,NA,12
+duodenum hypertrophy,NA,gastrointestinal,nonclinical,NA,NA,4
+duodenum polyps,NA,gastrointestinal,nonclinical,NA,NA,4
+dysarthria,NA,nervous,clinical,1,2,NA
+dysgeusia,NA,nervous,clinical,5,7,NA
+dysguesia,NA,nervous,clinical,1,NA,NA
+dyskinesia,NA,dermal,clinical,NA,NA,NA
+dysmenorrhea,NA,reproductive,clinical,NA,NA,NA
+dysmenorrhea *,NA,reproductive,clinical,NA,NA,NA
+dysmenorrhoea,NA,reproductive,clinical,NA,NA,NA
+dysmetria,NA,nervous,clinical,NA,NA,NA
+dyspepsia,incidental,gastrointestinal,clinical,15,15,NA
+dyspepsia and gastritis,incidental,gastrointestinal,clinical,NA,1,NA
+dyspepsia/constipation,incidental,gastrointestinal,clinical,3,NA,NA
+dyspepsia/heartburn,incidental,gastrointestinal,clinical,1,NA,NA
+dyspeptic sign and symptoms,incidental,gastrointestinal,clinical,NA,NA,NA
+dyspeptic signs and symptoms,incidental,gastrointestinal,clinical,NA,1,NA
+dysphagia,incidental,gastrointestinal,clinical,NA,NA,NA
+dysphonia,incidental,respiratory,clinical,2,2,NA
+dyspnea,incidental,respiratory,clinical,9,3,NA
+dyspnea exacerbated,incidental,respiratory,clinical,NA,NA,NA
+dyspnea/dyspnea exertional,incidental,respiratory,clinical,NA,1,NA
+dyspnoea,incidental,respiratory,clinical,2,NA,NA
+dystonia,NA,nervous,clinical,NA,NA,NA
+dysuria,incidental,renal,clinical,1,1,NA
+ear pain,incidental,otic,clinical,NA,NA,NA
+early increases in creatinine ≥10%,NA,renal,clinical,NA,1,NA
+ecchymosis,NA,dermal,clinical,3,NA,NA
+ecg qt prolonge dþ,NA,cardiovascular,clinical,NA,1,NA
+ecg qt prolonged,NA,cardiovascular,clinical,1,NA,NA
+echinocytosis,NA,hematologic,nonclinical,NA,NA,2
+ectasia,NA,no category,nonclinical,NA,NA,2
+edema,incidental,no category,clinical,1,2,10
+edema,NA,no category,nonclinical,1,2,10
+edema legs,incidental,no category,clinical,NA,NA,NA
+edema lower limb,incidental,no category,clinical,NA,NA,NA
+edema of stomach,NA,gastrointestinal,nonclinical,NA,NA,15
+edema peripheral,incidental,no category,clinical,4,3,NA
+edema (general and peripheral),incidental,no category,clinical,NA,1,NA
+edema nos,incidental,no category,clinical,NA,NA,NA
+eeg abnormal,NA,cardiovascular,clinical,NA,NA,NA
+ejaculation delayed 4,NA,reproductive,clinical,NA,1,NA
+ejaculation disorder,NA,reproductive,clinical,1,NA,NA
+"ejaculation disorder (2,3)",NA,reproductive,clinical,NA,1,NA
+"ejaculation dysfunction 4,5",NA,reproductive,clinical,NA,1,NA
+ejaculation failure,NA,reproductive,clinical,1,NA,NA
+electrocardiogram qt prolonged,NA,cardiovascular,clinical,NA,1,NA
+elevated aldolase level,NA,no category,nonclinical,NA,NA,2
+elevated cholesterol,NA,metabolic,clinical,1,NA,NA
+elevated cholesterol levels**,NA,metabolic,clinical,NA,2,NA
+elevated cpk,NA,musculoskeletal,clinical,1,NA,NA
+elevated cpk 1,NA,musculoskeletal,clinical,NA,NA,NA
+elevated creatine kinase,NA,musculoskeletal,clinical,1,NA,NA
+elevated hepatic transaminase,NA,hepatic,nonclinical,NA,NA,7
+elevated lipase,NA,gastrointestinal,clinical,1,NA,NA
+elevated triglycerides,NA,metabolic,clinical,1,NA,NA
+elevated uric acid,NA,metabolic,clinical,1,NA,NA
+elevated urine wbc,NA,hematologic,clinical,1,NA,NA
+emotional lability,NA,nervous,clinical,NA,NA,NA
+emotional liability,NA,nervous,clinical,NA,NA,NA
+emphysema,NA,respiratory,nonclinical,NA,NA,2
+endometrial stroma,NA,reproductive,nonclinical,NA,NA,1
+endometrium hyperplasia,NA,reproductive,nonclinical,NA,NA,2
+endometrium inflammation,NA,reproductive,nonclinical,NA,NA,1
+enhanced skeletal muscle regeneration,NA,musculoskeletal,nonclinical,NA,NA,1
+enlarged adrenal glands,NA,endocrine,nonclinical,NA,NA,55
+enlarged axillary lymph nodes,NA,immune,nonclinical,NA,NA,1
+enlarged cecum,NA,gastrointestinal,nonclinical,NA,NA,15
+enlarged epididymides,NA,reproductive,nonclinical,NA,NA,2
+enlarged harderian gland,NA,ocular,nonclinical,NA,NA,1
+enlarged heart,NA,cardiovascular,nonclinical,NA,NA,1
+enlarged kidney,NA,renal,nonclinical,NA,NA,29
+enlarged liver,NA,hepatic,nonclinical,NA,NA,95
+enlarged lung,NA,respiratory,nonclinical,NA,NA,2
+enlarged lymph nodes,NA,immune,nonclinical,NA,NA,48
+enlarged ovaries,NA,reproductive,nonclinical,NA,NA,7
+enlarged pancreas,NA,endocrine,nonclinical,NA,NA,1
+enlarged parathyroid gland,NA,endocrine,nonclinical,NA,NA,6
+enlarged pituitary gland,NA,endocrine,nonclinical,NA,NA,8
+enlarged salivary gland,NA,gastrointestinal,nonclinical,NA,NA,4
+enlarged seminal vesicle,NA,reproductive,nonclinical,NA,NA,2
+enlarged spleen,NA,immune,nonclinical,NA,NA,23
+enlarged stomach,NA,gastrointestinal,nonclinical,NA,NA,20
+enlarged testis,NA,reproductive,nonclinical,NA,NA,2
+enlarged thymus,NA,immune,nonclinical,NA,NA,3
+enlarged thyroid gland,NA,endocrine,nonclinical,NA,NA,19
+enlarged urinary bladder,NA,renal,nonclinical,NA,NA,2
+enlarged uterus,NA,reproductive,nonclinical,NA,NA,7
+enlarged vagina,NA,reproductive,nonclinical,NA,NA,1
+enterochromaffin-like cell,NA,no category,nonclinical,NA,NA,1
+eosinophilia,NA,hematologic,clinical,4,NA,NA
+eosinophilic liver infiltration,NA,hepatic,nonclinical,NA,NA,5
+epidermal hyperplasia,NA,dermal,nonclinical,NA,NA,3
+epidermal necrosis,NA,dermal,nonclinical,NA,NA,6
+epididymal debris,NA,dermal,nonclinical,NA,NA,9
+epididymal inflammation,NA,reproductive,nonclinical,NA,NA,8
+epididymis degeneration,NA,reproductive,nonclinical,NA,NA,6
+epididymis fibrosis,NA,reproductive,nonclinical,NA,NA,1
+epididymis hypoplasia,NA,reproductive,nonclinical,NA,NA,2
+epididymis; atrophy,NA,reproductive,nonclinical,NA,NA,8
+epistaxis,incidental,no category,clinical,7,3,3
+epistaxis,NA,no category,nonclinical,7,3,3
+epithelial cell apoptotic process,NA,no category,nonclinical,NA,NA,1
+epithelium regeneration,NA,no category,nonclinical,NA,NA,1
+erectile dysfunction,NA,reproductive,clinical,NA,NA,NA
+"erectile dysfunction 4,5",NA,reproductive,clinical,NA,1,NA
+erosion lesion,NA,no category,nonclinical,NA,NA,5
+erythema,incidental,dermal,clinical,1,1,NA
+erythrocyte,NA,hematologic,nonclinical,NA,NA,1
+erythrocytes in urine sediment,NA,hematologic,nonclinical,NA,NA,3
+erythrophagocytosis,NA,hematologic,nonclinical,NA,NA,6
+erythruria,NA,renal,nonclinical,NA,NA,1
+esophageal erosions,NA,respiratory,nonclinical,NA,NA,1
+esophageal inflammation,NA,respiratory,nonclinical,NA,NA,4
+esophagus fibrosis,NA,respiratory,nonclinical,NA,NA,1
+euphoria,NA,nervous,clinical,NA,NA,NA
+euphoric mood,NA,nervous,clinical,NA,1,NA
+excessive salivation,NA,gastrointestinal,clinical,NA,NA,NA
+excessive sweating,NA,dermal,clinical,NA,1,NA
+exophthalmos,NA,no category,nonclinical,NA,NA,9
+expressive language disorder,NA,nervous,clinical,NA,NA,NA
+extrahepatic bile duct,NA,hepatic,nonclinical,NA,NA,1
+extramedullary hematopoiesis,NA,hematologic,nonclinical,NA,NA,58
+extrapyramidal disorder,NA,nervous,clinical,1,NA,NA
+extrapyramidal symptoms,NA,nervous,clinical,NA,4,NA
+extrapyramidal symptoms (f),NA,nervous,clinical,NA,NA,NA
+extrapyramidal symptoms *,NA,nervous,clinical,NA,1,NA
+extrapyrimidal disorder,NA,nervous,clinical,1,NA,NA
+extrasystoles,NA,cardiovascular,clinical,NA,NA,NA
+eye abnormality,NA,ocular,clinical,NA,NA,NA
+eye discharge,NA,ocular,nonclinical,NA,NA,18
+eye discoloration,NA,ocular,nonclinical,NA,NA,6
+eye disorder,NA,ocular,clinical,1,NA,NA
+eye disorders vision blurred,NA,ocular,clinical,NA,1,NA
+eye hemorrhage,NA,ocular,nonclinical,NA,NA,5
+eye inflammation,NA,ocular,nonclinical,NA,NA,4
+eye lesions,NA,ocular,nonclinical,NA,NA,4
+eye opacity,NA,ocular,nonclinical,NA,NA,22
+eye pain,incidental,ocular,clinical,NA,NA,NA
+eyelids fail to open,NA,ocular,nonclinical,NA,NA,28
+face edema,incidental,dermal,clinical,NA,NA,NA
+facial edema,incidental,dermal,clinical,1,NA,NA
+facial muscle spasm,NA,no category,nonclinical,NA,NA,4
+fall,incidental,no category,clinical,NA,1,NA
+falling down nos,incidental,no category,clinical,NA,NA,NA
+falls,incidental,no category,clinical,1,1,NA
+fasting total cholesterol,NA,metabolic,clinical,2,NA,NA
+fasting triglyceride level,NA,metabolic,clinical,2,NA,NA
+fatal hepatic failure,NA,hepatic,clinical,NA,NA,NA
+fatigue,incidental,no category,clinical,38,23,NA
+fatigue (e),incidental,no category,clinical,NA,NA,NA
+fatigue (including asthenia),incidental,no category,clinical,NA,NA,NA
+fatigue β,incidental,no category,clinical,NA,NA,NA
+fatigue including asthenia,incidental,no category,clinical,NA,1,NA
+fatigue or asthenia,incidental,no category,clinical,NA,NA,NA
+fatigue/malaise,incidental,no category,clinical,NA,1,NA
+fatigued,incidental,no category,clinical,NA,1,NA
+fatty infiltration,NA,no category,nonclinical,NA,NA,6
+fatty/oily stool,incidental,gastrointestinal,clinical,2,2,NA
+fecal incontinence,incidental,gastrointestinal,clinical,NA,2,NA
+fecal urgency,incidental,gastrointestinal,clinical,2,1,NA
+feces occult blood,NA,gastrointestinal,nonclinical,NA,NA,3
+feeling abnormal,incidental,no category,clinical,NA,NA,NA
+feeling hot,incidental,no category,clinical,1,NA,NA
+feeling jittery,incidental,no category,clinical,NA,2,NA
+female genital mycotic infections,NA,immune,clinical,NA,2,NA
+female genital mycotic infections (b),incidental,no category,clinical,NA,NA,NA
+fever,incidental,no category,clinical,2,4,NA
+"fever adverse event, n (%)",incidental,no category,clinical,NA,NA,NA
+fibroadenoma of the mouse mammary gland,NA,no category,nonclinical,NA,NA,1
+fibrosis,NA,respiratory,nonclinical,NA,NA,21
+flatulence,incidental,gastrointestinal,clinical,7,6,NA
+flatus with discharge,incidental,gastrointestinal,clinical,2,NA,NA
+flatus with discharge,incidental,gastrointestinal,clinical,NA,2,NA
+flu syndrome,incidental,no category,clinical,1,2,NA
+fluid retention/edema,incidental,metabolic,clinical,1,NA,NA
+fluid-filled abdomen,NA,no category,nonclinical,NA,NA,4
+flu-like disorder,incidental,no category,clinical,NA,NA,NA
+flu-like syndrome,incidental,no category,clinical,2,NA,NA
+fluorescein staining of eye,NA,ocular,nonclinical,NA,NA,1
+flushing,incidental,cardiovascular,clinical,6,2,2
+flushing,NA,cardiovascular,nonclinical,6,2,2
+foam cells,NA,no category,nonclinical,NA,NA,16
+focal hepatic necrosis,NA,hepatic,nonclinical,NA,NA,111
+focus,NA,no category,nonclinical,NA,NA,1
+follicular cyst,NA,dermal,nonclinical,NA,NA,6
+folliculitis,NA,dermal,clinical,NA,NA,4
+folliculitis,NA,dermal,nonclinical,NA,NA,4
+fractured denture,NA,dermal,nonclinical,NA,NA,1
+fractures,NA,musculoskeletal,clinical,NA,1,NA
+fractures (5),NA,musculoskeletal,clinical,NA,NA,NA
+fragile teeth,NA,dermal,nonclinical,NA,NA,2
+frequent bowel movements,NA,gastrointestinal,clinical,NA,1,NA
+fungal dermatitis,incidental,dermal,clinical,NA,1,NA
+gait abnormal,NA,nervous,clinical,NA,2,NA
+gait disturbance,NA,nervous,clinical,NA,2,NA
+gamma-glutamyltransferase decreased,NA,hepatic,nonclinical,NA,NA,3
+gamma-glutamyltransferase increased,NA,hepatic,clinical,NA,NA,NA
+gasping for breath,NA,no category,nonclinical,NA,NA,8
+gastric cysts,NA,gastrointestinal,nonclinical,NA,NA,2
+gastric erosion,NA,gastrointestinal,nonclinical,NA,NA,49
+gastric gland atrophy,NA,gastrointestinal,nonclinical,NA,NA,11
+gastric gland degeneration,NA,gastrointestinal,nonclinical,NA,NA,15
+gastric gland hyperplasia,NA,gastrointestinal,nonclinical,NA,NA,8
+gastric hypertrophy,NA,gastrointestinal,nonclinical,NA,NA,6
+gastric metaplasia,NA,gastrointestinal,nonclinical,NA,NA,1
+gastric necrosis,NA,gastrointestinal,nonclinical,NA,NA,11
+gastric ulcer,NA,gastrointestinal,nonclinical,NA,NA,41
+gastritis,NA,gastrointestinal,clinical,NA,NA,NA
+gastroenteritis,NA,gastrointestinal,clinical,1,1,NA
+"gastroenteritis, infectious",NA,gastrointestinal,clinical,NA,1,NA
+gastro-enteropathy,NA,gastrointestinal,nonclinical,NA,NA,2
+gastroesophageal reflux disease,incidental,gastrointestinal,clinical,3,1,NA
+gastro-esophageal reflux disease,incidental,gastrointestinal,clinical,NA,1,NA
+gastrointestinal discoloration,NA,gastrointestinal,nonclinical,NA,NA,52
+gastrointestinal discomfort and pain,incidental,gastrointestinal,clinical,NA,1,NA
+gastrointestinal disorders,NA,gastrointestinal,clinical,1,1,NA
+gastrointestinal effects,NA,gastrointestinal,clinical,NA,NA,NA
+gastrointestinal hemorrhage,NA,gastrointestinal,nonclinical,NA,NA,3
+gastrointestinal inflammation,NA,gastrointestinal,nonclinical,NA,NA,9
+gastrointestinal symptoms,NA,gastrointestinal,clinical,1,NA,NA
+gastrointestinal toxicity,NA,gastrointestinal,clinical,NA,5,NA
+gastrointestinal ulcer,NA,gastrointestinal,nonclinical,NA,NA,12
+general disorders and administration site conditions,NA,no category,clinical,NA,1,NA
+general disorders fatigue,NA,no category,clinical,NA,1,NA
+generalized skin crust,NA,dermal,nonclinical,NA,NA,4
+genital discharge,NA,no category,nonclinical,NA,NA,16
+ggt >300 u/l,NA,hepatic,clinical,NA,1,NA
+ggt >300 u/l (high),NA,hepatic,clinical,NA,NA,NA
+ggt elevation,NA,hepatic,clinical,1,NA,NA
+ggt increased,NA,hepatic,clinical,NA,NA,NA
+gi discomfort,incidental,gastrointestinal,clinical,1,NA,NA
+gi signs and symptoms,NA,gastrointestinal,clinical,1,NA,NA
+giardiasis,incidental,no category,clinical,NA,NA,NA
+gingival bleeding,NA,dermal,nonclinical,NA,NA,1
+gingivitis,incidental,gastrointestinal,clinical,1,NA,NA
+glomerular deposits,NA,renal,nonclinical,NA,NA,3
+glomerular parietal epithelial cell hypertrophy,NA,renal,nonclinical,NA,NA,1
+glomerulonephritis,NA,renal,nonclinical,NA,NA,4
+glomerulopathy,NA,renal,nonclinical,NA,NA,3
+glomerulosclerosis,NA,renal,nonclinical,NA,NA,1
+glucose abnormal,NA,metabolic,clinical,1,NA,NA
+glucose decrease,NA,metabolic,clinical,1,NA,NA
+glucose decreased,NA,metabolic,clinical,NA,1,NA
+glucose increase,NA,metabolic,clinical,4,NA,NA
+glucose increased,NA,metabolic,clinical,NA,1,NA
+glucose�(fasting) increased,NA,metabolic,clinical,NA,NA,NA
+glutamate dehydrogenase increased,NA,metabolic,nonclinical,NA,NA,6
+gonad weight decrease,NA,reproductive,nonclinical,NA,NA,6
+gonad weight increase,NA,reproductive,nonclinical,NA,NA,7
+grade 1 alkaline phosphatase,NA,hepatic,clinical,1,NA,NA
+grade 3 or higher adverse reactions,NA,no category,clinical,NA,1,NA
+granular casts,NA,no category,nonclinical,NA,NA,1
+granular kidney,NA,renal,nonclinical,NA,NA,9
+granulomatous inflammation,NA,no category,nonclinical,NA,NA,4
+greater than upper limit of normal amylase/lipase elevation,NA,gastrointestinal,clinical,NA,NA,NA
+greater than upper limit of normal cpk elevation,NA,musculoskeletal,clinical,NA,NA,NA
+greater than upper limit of normal creatinine elevation,NA,renal,clinical,NA,NA,NA
+greater than upper limit of normal fasting triglyceride level,NA,metabolic,clinical,NA,NA,NA
+grooming behavior,NA,nervous,nonclinical,NA,NA,6
+gut-associated lymphoid tissue,NA,hematologic,nonclinical,NA,NA,3
+gynecomastia,NA,reproductive,clinical,NA,1,NA
+gynecomastia **,NA,reproductive,clinical,NA,NA,NA
+haematology,NA,hematologic,clinical,NA,1,NA
+haematoma,incidental,no category,clinical,1,NA,NA
+haemoglobin abnormality,NA,hematologic,clinical,1,NA,NA
+hair color change,NA,dermal,clinical,1,NA,NA
+hair color changes,NA,dermal,clinical,NA,1,NA
+hair discoloration,NA,dermal,nonclinical,NA,NA,4
+hair follicle degeneration,NA,dermal,nonclinical,NA,NA,2
+hallucination,NA,nervous,clinical,1,NA,NA
+hallucinations,NA,nervous,clinical,NA,NA,NA
+hand-foot skin reaction,incidental,dermal,clinical,1,1,NA
+handwriting change,NA,nervous,clinical,1,NA,NA
+harderian gland discoloration,NA,ocular,nonclinical,NA,NA,9
+hdl,NA,metabolic,clinical,1,NA,NA
+hdl cholesterol increase,NA,metabolic,clinical,2,NA,NA
+head injury,incidental,no category,clinical,NA,NA,NA
+head tremor,NA,no category,nonclinical,NA,NA,3
+headache,incidental,nervous,clinical,64,23,NA
+headache (a),incidental,nervous,clinical,NA,NA,NA
+"headache,",incidental,nervous,clinical,1,NA,NA
+headache/migraine,incidental,nervous,clinical,NA,1,NA
+headaches,incidental,nervous,clinical,2,NA,NA
+hearing decreased,NA,otic,clinical,NA,NA,NA
+hearing impairment,NA,no category,nonclinical,NA,NA,2
+heart discoloration,NA,cardiovascular,nonclinical,NA,NA,6
+heart hypoplasia,NA,cardiovascular,nonclinical,NA,NA,2
+heart inflammation,NA,cardiovascular,nonclinical,NA,NA,25
+heart rate,NA,cardiovascular,clinical,1,NA,NA
+heart rate decrease,NA,cardiovascular,clinical,1,NA,NA
+heart rate increase,NA,cardiovascular,clinical,2,NA,NA
+heart rate increased,NA,cardiovascular,clinical,NA,NA,NA
+hemangiosarcoma,NA,no category,nonclinical,NA,NA,1
+hematocrit,NA,hematologic,clinical,2,NA,NA
+hematocrit decrease,NA,hematologic,clinical,3,NA,NA
+hematological toxicity,NA,hematologic,clinical,NA,2,NA
+hematopoiesis decreased / cytopenias,NA,hematologic,clinical,1,NA,NA
+hematuria,NA,renal,clinical,NA,NA,15
+hematuria,NA,renal,nonclinical,NA,NA,15
+hemoglobin,NA,hematologic,clinical,3,NA,NA
+hemoglobin decrease,NA,hematologic,clinical,13,2,NA
+hemoglobin increase,NA,hematologic,clinical,1,NA,NA
+hemoglobin low,NA,hematologic,nonclinical,NA,NA,2
+hemoglobinuria,NA,hematologic,nonclinical,NA,NA,1
+hemorrhage,NA,no category,clinical,3,1,11
+hemorrhage,NA,no category,nonclinical,3,1,11
+hemorrhage b,NA,no category,clinical,NA,1,NA
+hemorrhage in optic nerve sheaths,NA,ocular,nonclinical,NA,NA,1
+hemorrhoids,incidental,no category,clinical,NA,1,NA
+hemosiderosis,NA,hematologic,nonclinical,NA,NA,20
+hepatic disorders,NA,hepatic,clinical,2,NA,NA
+hepatic granulomatosis,NA,hepatic,nonclinical,NA,NA,1
+hepatic steatosis,NA,hepatic,nonclinical,NA,NA,27
+hepatitis,NA,hepatic,nonclinical,NA,NA,2
+hepatobiliary disorders,NA,hepatic,clinical,1,NA,NA
+hepatocellular vacuolation,NA,hepatic,nonclinical,NA,NA,78
+hepatomegaly,NA,hepatic,nonclinical,NA,NA,6
+hepatotoxicity,NA,hepatic,clinical,NA,8,NA
+herpes infection,incidental,no category,clinical,NA,NA,NA
+herpes simplex infection,incidental,no category,clinical,2,NA,NA
+herpes zoster,incidental,no category,clinical,NA,1,NA
+herpes zoster (f),incidental,no category,clinical,NA,NA,NA
+hfsr/ppe,NA,hematologic,clinical,NA,2,NA
+high cholesterol,NA,metabolic,clinical,1,NA,NA
+high diastolic blood pressure,NA,cardiovascular,clinical,2,NA,NA
+high systolic blood pressure,NA,cardiovascular,clinical,2,NA,NA
+high-stepping gait,NA,no category,nonclinical,NA,NA,3
+hindlimb paresis,NA,no category,nonclinical,NA,NA,4
+histiocytic inflammatory cell infiltrate,NA,no category,nonclinical,NA,NA,1
+histiocytosis,NA,hematologic,nonclinical,NA,NA,36
+hospitalizations for heart failure,NA,cardiovascular,clinical,NA,1,NA
+hostility,NA,nervous,clinical,NA,NA,NA
+hot flashes,incidental,cardiovascular,clinical,2,2,NA
+hot flush,incidental,cardiovascular,clinical,3,1,NA
+hot flush,incidental,cardiovascular,clinical,3,1,NA
+hot flushes,incidental,cardiovascular,clinical,1,NA,NA
+hot flushes,incidental,cardiovascular,clinical,1,NA,NA
+hunched posture,NA,no category,nonclinical,NA,NA,98
+hyaline casts,NA,renal,nonclinical,NA,NA,8
+hydrometra,NA,reproductive,nonclinical,NA,NA,4
+hydronephrosis,NA,renal,nonclinical,NA,NA,5
+hyperactivity,NA,nervous,nonclinical,NA,NA,24
+hypercalcemia,NA,metabolic,clinical,1,NA,NA
+hypercholesteremia,NA,metabolic,clinical,1,NA,NA
+hypercholesterolemia,NA,metabolic,clinical,4,NA,NA
+hyperglycemia,NA,metabolic,clinical,3,1,NA
+"hyperglycemia,",NA,metabolic,clinical,1,NA,NA
+hyperhidrosis,NA,dermal,clinical,1,6,NA
+hyperhydrosis,NA,dermal,clinical,NA,NA,NA
+hyperkalaemia,NA,metabolic,clinical,NA,1,NA
+hyperkalemia,NA,metabolic,clinical,6,1,NA
+hyperkalemia †††,NA,metabolic,clinical,NA,2,NA
+hyperkeratosis,NA,dermal,clinical,1,1,29
+hyperkeratosis,NA,dermal,nonclinical,1,1,29
+hyperkinesia,NA,cardiovascular,clinical,NA,NA,NA
+hyperlipemia,NA,metabolic,clinical,2,NA,NA
+hyperlipidemia,NA,metabolic,clinical,1,NA,NA
+hypermagnesemia,NA,metabolic,clinical,NA,1,NA
+hypernatremia,NA,metabolic,clinical,1,1,NA
+hyperplasia,NA,no category,nonclinical,NA,NA,29
+hyperplasia of kidney,NA,renal,nonclinical,NA,NA,6
+hyperplasia of the leydig cells,NA,reproductive,nonclinical,NA,NA,8
+hyperplastic,NA,no category,nonclinical,NA,NA,19
+hyperreflexia,NA,nervous,nonclinical,NA,NA,3
+hyperresponsive to tactile stimuli,NA,nervous,nonclinical,NA,NA,15
+hypersensitivity,incidental,no category,clinical,1,NA,1
+hypersomnia,NA,nervous,clinical,NA,2,NA
+hypertension,NA,cardiovascular,clinical,16,15,NA
+hypertension (a),NA,cardiovascular,clinical,NA,NA,NA
+hypertension (j),NA,cardiovascular,clinical,NA,NA,NA
+hypertension/hypertensive crisis/accelerated hypertension,NA,cardiovascular,clinical,NA,2,NA
+hypertension nos,NA,cardiovascular,clinical,NA,NA,NA
+hypertrichosis,NA,dermal,clinical,1,NA,NA
+hypertriglyceridemia,NA,metabolic,clinical,1,NA,NA
+hypertrigylceridemia,NA,metabolic,clinical,1,NA,NA
+hypertrophic,NA,no category,nonclinical,NA,NA,35
+"hypertrophy, acinar cell",NA,endocrine,nonclinical,NA,NA,5
+"hypertrophy, follicular cell",NA,no category,nonclinical,NA,NA,17
+"hypertrophy, hepatocyte",NA,hepatic,nonclinical,NA,NA,124
+hyperventilation,NA,no category,nonclinical,NA,NA,1
+hypesthesia,NA,nervous,clinical,1,NA,NA
+hypoactivity,NA,nervous,nonclinical,NA,NA,162
+hypoaesthesia,NA,nervous,clinical,NA,NA,NA
+hypoaesthesia oral,NA,gastrointestinal,clinical,1,NA,NA
+hypoalbuminemia,NA,metabolic,clinical,3,NA,NA
+hypoatremia,NA,metabolic,clinical,1,NA,NA
+hypocalcaemia,NA,metabolic,clinical,1,NA,NA
+hypocalcemia,NA,metabolic,clinical,4,3,NA
+hypochloriduria,NA,no category,nonclinical,NA,NA,1
+hypoglycemia,NA,metabolic,clinical,9,3,NA
+hypokalemia,NA,metabolic,clinical,5,2,NA
+hypomagnesemia,NA,metabolic,clinical,2,NA,NA
+hyponatremia,NA,metabolic,clinical,2,2,NA
+hypophosphataemia,NA,hematologic,clinical,1,NA,NA
+hypophosphatemia,NA,hematologic,clinical,5,2,NA
+hypopnea,NA,no category,nonclinical,NA,NA,1
+hyporeflexia,NA,nervous,clinical,NA,NA,NA
+hypotension,NA,cardiovascular,clinical,5,3,NA
+hypotension ��,NA,cardiovascular,clinical,NA,NA,NA
+hypotension leading to drug discontinuation,NA,cardiovascular,clinical,NA,1,NA
+hypothyroidism,NA,endocrine,clinical,NA,NA,NA
+hypotonia,NA,nervous,nonclinical,NA,NA,11
+ileum discoloration,NA,gastrointestinal,nonclinical,NA,NA,2
+ileum hypertrophy,NA,gastrointestinal,nonclinical,NA,NA,1
+ileum inflammation,NA,gastrointestinal,nonclinical,NA,NA,2
+immune system toxicity,NA,immune,clinical,NA,1,NA
+impaired balance,NA,nervous,nonclinical,NA,NA,1
+impaired concentration,NA,nervous,clinical,NA,NA,NA
+impaired hematopoiesis,NA,hematologic,nonclinical,NA,NA,1
+impaired righting response,NA,nervous,nonclinical,NA,NA,7
+impotence,NA,reproductive,clinical,5,1,NA
+impotence (reproductive male,NA,reproductive,clinical,NA,NA,NA
+impotence (3),NA,reproductive,clinical,NA,1,NA
+"including rashes (generalized, macular, maculo-papular, erythematous), pruritus, eczema, dermatitis, dermatitis allergic",NA,dermal,clinical,NA,NA,NA
+"including rashes, pruritus, eczema, dermatitis, dermatitis allergic",NA,dermal,clinical,NA,1,NA
+incomplete eyelid closure,NA,no category,nonclinical,NA,NA,4
+incontinence,NA,renal,clinical,1,NA,NA
+incoordination,NA,nervous,clinical,NA,NA,NA
+increase alkaline phosphatase,NA,hepatic,clinical,1,NA,NA
+increase blood pressure,NA,cardiovascular,clinical,3,NA,NA
+increase cholesterol,NA,metabolic,clinical,2,NA,NA
+increase in albumin,NA,metabolic,clinical,1,NA,NA
+increase in creatine,NA,musculoskeletal,clinical,1,NA,NA
+increase in creatinine,NA,renal,clinical,1,NA,NA
+increase in eosinophil count,NA,hematologic,clinical,1,NA,NA
+increase in mean corpuscular volume,NA,hematologic,clinical,NA,2,NA
+increase in mean corpuscular volume (b),NA,hematologic,clinical,NA,NA,NA
+increase in parathyroid hormone,NA,endocrine,clinical,2,NA,NA
+increase in serum creatinine,NA,renal,clinical,NA,2,NA
+increase in serum uric acid,NA,metabolic,clinical,1,NA,NA
+increase in total cholesterol,NA,metabolic,clinical,1,NA,NA
+increase in urine concentration,NA,renal,nonclinical,NA,NA,1
+increase ldl cholesterol,NA,metabolic,clinical,1,NA,NA
+increase triglycerides,NA,metabolic,clinical,3,NA,NA
+increased activated partial thromboplastin time,NA,hematologic,clinical,1,1,NA
+increased adrenal gland weight,NA,endocrine,nonclinical,NA,NA,193
+increased aerobic running capacity,NA,cardiovascular,nonclinical,NA,NA,1
+increased alkaline phosphatase,NA,hepatic,clinical,NA,NA,NA
+increased alkaline phosphatase activity,NA,hepatic,nonclinical,NA,NA,11
+increased alveolar macrophage number,NA,hematologic,nonclinical,NA,NA,15
+increased amylase,NA,gastrointestinal,clinical,2,1,NA
+increased antral follicle count,NA,reproductive,nonclinical,NA,NA,4
+increased aorta wall thickness,NA,cardiovascular,nonclinical,NA,NA,2
+increased appetite,NA,metabolic,clinical,NA,NA,NA
+increased basophil cell number,NA,hematologic,nonclinical,NA,NA,18
+increased blood creatine phosphokinase,NA,musculoskeletal,clinical,NA,1,NA
+increased blood pressure,NA,cardiovascular,clinical,2,NA,NA
+increased blood urea nitrogen level,NA,renal,nonclinical,NA,NA,172
+increased blood uric acid level,NA,renal,nonclinical,NA,NA,3
+increased body weight,NA,metabolic,nonclinical,NA,NA,76
+increased bone marrow adipose tissue amount,NA,musculoskeletal,nonclinical,NA,NA,3
+increased brain weight,NA,nervous,nonclinical,NA,NA,48
+increased brown fat cell lipid droplet size,NA,metabolic,nonclinical,NA,NA,1
+increased brown fat cell number,NA,metabolic,nonclinical,NA,NA,2
+increased cellular hemoglobin content,NA,hematologic,nonclinical,NA,NA,4
+increased choline level,NA,no category,nonclinical,NA,NA,3
+increased cholinesterase activity,NA,nervous,nonclinical,NA,NA,5
+increased circulating alanine transaminase level,NA,hepatic,nonclinical,NA,NA,271
+increased circulating aldosterone level,NA,endocrine,nonclinical,NA,NA,1
+increased circulating alkaline phosphatase level,NA,hepatic,nonclinical,NA,NA,161
+increased circulating amylase level,NA,gastrointestinal,nonclinical,NA,NA,10
+increased circulating aspartate transaminase level,NA,hepatic,nonclinical,NA,NA,225
+increased circulating bilirubin level,NA,hepatic,nonclinical,NA,NA,105
+increased circulating calcium level,NA,metabolic,nonclinical,NA,NA,70
+increased circulating chloride level,NA,metabolic,nonclinical,NA,NA,62
+increased circulating cholesterol level,NA,metabolic,nonclinical,NA,NA,235
+increased circulating corticosterone level,NA,endocrine,nonclinical,NA,NA,1
+increased circulating creatine kinase level,NA,musculoskeletal,nonclinical,NA,NA,17
+increased circulating creatinine level,NA,renal,nonclinical,NA,NA,87
+increased circulating dihydrotestosterone level,NA,reproductive,nonclinical,NA,NA,1
+increased circulating fibrinogen level,NA,hematologic,nonclinical,NA,NA,31
+increased circulating free fatty acids level,NA,metabolic,nonclinical,NA,NA,2
+increased circulating gamma-glutamyl transferase level,NA,hepatic,nonclinical,NA,NA,26
+increased circulating gastrin level,NA,metabolic,nonclinical,NA,NA,10
+increased circulating globulin level,NA,hematologic,nonclinical,NA,NA,86
+increased circulating glucose level,NA,metabolic,nonclinical,NA,NA,71
+increased circulating glutamate dehydrogenase level,NA,metabolic,nonclinical,NA,NA,2
+increased circulating hdl cholesterol level,NA,metabolic,nonclinical,NA,NA,4
+increased circulating lactate dehydrogenase level,NA,metabolic,nonclinical,NA,NA,15
+increased circulating ldl cholesterol level,NA,metabolic,nonclinical,NA,NA,2
+increased circulating lipase level,NA,metabolic,nonclinical,NA,NA,3
+increased circulating luteinizing hormone level,NA,reproductive,nonclinical,NA,NA,4
+increased circulating magnesium level,NA,metabolic,nonclinical,NA,NA,12
+increased circulating osteocalcin level,NA,no category,nonclinical,NA,NA,1
+increased circulating parathyroid hormone level,NA,endocrine,nonclinical,NA,NA,2
+increased circulating phosphate level,NA,metabolic,nonclinical,NA,NA,111
+increased circulating phospholipid level,NA,metabolic,nonclinical,NA,NA,18
+increased circulating potassium level,NA,metabolic,nonclinical,NA,NA,84
+increased circulating prolactin level,NA,endocrine,nonclinical,NA,NA,3
+increased circulating serum albumin level,NA,metabolic,nonclinical,NA,NA,86
+increased circulating sodium level,NA,metabolic,nonclinical,NA,NA,42
+increased circulating testosterone level,NA,reproductive,nonclinical,NA,NA,3
+increased circulating thyroxine level,NA,endocrine,nonclinical,NA,NA,12
+increased circulating total protein level,NA,metabolic,nonclinical,NA,NA,124
+increased circulating triglyceride level,NA,metabolic,nonclinical,NA,NA,92
+increased circumference,NA,no category,nonclinical,NA,NA,1
+increased colon length,NA,gastrointestinal,nonclinical,NA,NA,2
+increased corpora lutea number,NA,reproductive,nonclinical,NA,NA,5
+increased cpk,NA,musculoskeletal,clinical,NA,NA,NA
+increased creatine kinase,NA,musculoskeletal,clinical,1,1,NA
+increased creatine phosphokinase,NA,musculoskeletal,clinical,1,NA,NA
+increased creatinine,NA,renal,clinical,NA,1,NA
+increased defecation,incidental,gastrointestinal,clinical,1,2,NA
+increased defecation amount,NA,gastrointestinal,nonclinical,NA,NA,5
+"increased defecation,",incidental,gastrointestinal,clinical,NA,NA,NA
+increased eosinophil cell number,NA,hematologic,nonclinical,NA,NA,31
+increased epididymis weight,NA,reproductive,nonclinical,NA,NA,13
+increased erythrocyte cell number,NA,hematologic,nonclinical,NA,NA,19
+increased fasting glucose,NA,metabolic,clinical,1,NA,NA
+increased fetal weight,NA,reproductive,nonclinical,NA,NA,5
+increased fluid intake,NA,no category,nonclinical,NA,NA,79
+increased follicle stimulating hormone level,NA,reproductive,nonclinical,NA,NA,2
+increased food intake,NA,metabolic,nonclinical,NA,NA,129
+increased ggt,NA,hepatic,clinical,2,NA,NA
+increased gnawing activity,NA,no category,nonclinical,NA,NA,4
+increased granulocyte number,NA,hematologic,nonclinical,NA,NA,6
+increased haptoglobin level,NA,no category,nonclinical,NA,NA,1
+increased heart rate,NA,cardiovascular,clinical,NA,NA,2
+increased heart rate,NA,cardiovascular,nonclinical,NA,NA,2
+increased heart weight,NA,cardiovascular,nonclinical,NA,NA,91
+increased hematocrit,NA,hematologic,nonclinical,NA,NA,56
+increased hematopoiesis [pe],NA,hematologic,nonclinical,NA,NA,5
+increased hemoglobin,NA,hematologic,nonclinical,NA,NA,12
+increased hemoglobin concentration,NA,hematologic,nonclinical,NA,NA,22
+increased hemoglobin concentration distribution width,NA,hematologic,nonclinical,NA,NA,7
+increased hemoglobin content,NA,hematologic,nonclinical,NA,NA,37
+increased hepatocyte number,NA,hepatic,nonclinical,NA,NA,1
+increased igm level,NA,immune,nonclinical,NA,NA,3
+increased incretin,NA,no category,nonclinical,NA,NA,2
+increased inr,NA,hematologic,clinical,1,NA,NA
+increased inr c,NA,hematologic,clinical,NA,1,NA
+increased insulin,NA,metabolic,clinical,1,NA,NA
+increased intestine length,NA,gastrointestinal,nonclinical,NA,NA,3
+increased kidney weight,NA,renal,nonclinical,NA,NA,222
+increased large intestine length,NA,gastrointestinal,nonclinical,NA,NA,11
+increased large unstained cell number,NA,no category,nonclinical,NA,NA,22
+increased leukocyte cell number,NA,hematologic,nonclinical,NA,NA,38
+increased lipase,NA,gastrointestinal,clinical,2,3,NA
+increased lipoprotein lipase activity,NA,no category,nonclinical,NA,NA,1
+increased liver glycogen level,NA,hepatic,nonclinical,NA,NA,4
+increased liver weight,NA,hepatic,nonclinical,NA,NA,524
+increased lung weight,NA,respiratory,nonclinical,NA,NA,80
+increased lymphocyte cell number,NA,immune,nonclinical,NA,NA,80
+increased macrophage cell number,NA,hematologic,nonclinical,NA,NA,2
+increased magnesium,NA,metabolic,clinical,1,NA,NA
+increased mean corpuscular hemoglobin,NA,hematologic,nonclinical,NA,NA,57
+increased mean corpuscular hemoglobin concentration,NA,hematologic,nonclinical,NA,NA,9
+increased mean corpuscular volume,NA,hematologic,nonclinical,NA,NA,64
+increased mean platelet volume,NA,hematologic,nonclinical,NA,NA,7
+increased mitotic index,NA,no category,nonclinical,NA,NA,4
+increased monocyte cell number,NA,hematologic,nonclinical,NA,NA,76
+increased mucification,NA,gastrointestinal,nonclinical,NA,NA,16
+increased mucification present,NA,no category,nonclinical,NA,NA,2
+increased myeloid cell number in bone marrow,NA,musculoskeletal,nonclinical,NA,NA,4
+increased myeloid to erythroid ratio (m:e ratio) 10:1-200:1,NA,hematologic,nonclinical,NA,NA,3
+increased neutrophil cell number,NA,hematologic,nonclinical,NA,NA,143
+increased nitrate level,NA,no category,nonclinical,NA,NA,1
+increased ovary weight,NA,reproductive,nonclinical,NA,NA,34
+increased pancreas apoptosis,NA,endocrine,nonclinical,NA,NA,3
+increased pancreas weight,NA,endocrine,nonclinical,NA,NA,11
+increased partial thromboplastin time,NA,hematologic,nonclinical,NA,NA,40
+increased pituitary gland weight,NA,endocrine,nonclinical,NA,NA,35
+increased plasma cell number,NA,hematologic,nonclinical,NA,NA,3
+increased plasma volume,NA,hematologic,nonclinical,NA,NA,2
+increased prostate gland weight,NA,reproductive,nonclinical,NA,NA,10
+increased prothrombin time,NA,hematologic,nonclinical,NA,NA,56
+increased pulmonary respiratory rate,NA,respiratory,nonclinical,NA,NA,5
+increased rbc distribution width,NA,hematologic,nonclinical,NA,NA,15
+increased red blood cell count,NA,hematologic,nonclinical,NA,NA,66
+increased red blood cell distribution width,NA,hematologic,nonclinical,NA,NA,15
+increased renin activity,NA,endocrine,nonclinical,NA,NA,2
+increased salivation,NA,gastrointestinal,clinical,NA,NA,191
+increased salivation,NA,gastrointestinal,nonclinical,NA,NA,191
+increased seminal vesicle weight,NA,reproductive,nonclinical,NA,NA,6
+increased serum amylase,NA,gastrointestinal,clinical,NA,NA,NA
+increased serum bile acid concentration,NA,metabolic,nonclinical,NA,NA,8
+increased serum potassium,NA,metabolic,clinical,1,NA,NA
+increased skeletal muscle mass,NA,musculoskeletal,nonclinical,NA,NA,1
+increased spleen red pulp amount,NA,immune,nonclinical,NA,NA,3
+increased spleen weight,NA,immune,nonclinical,NA,NA,139
+increased spleen white pulp amount,NA,immune,nonclinical,NA,NA,1
+increased stomach mucosa thickness,NA,gastrointestinal,nonclinical,NA,NA,5
+increased susceptibility to weight gain,NA,metabolic,nonclinical,NA,NA,45
+increased sweating,NA,dermal,clinical,4,NA,NA
+increased testis weight,NA,reproductive,nonclinical,NA,NA,36
+increased thymus weight,NA,immune,nonclinical,NA,NA,21
+increased thyroid gland weight,NA,endocrine,nonclinical,NA,NA,104
+increased thyroid-stimulating hormone level,NA,endocrine,nonclinical,NA,NA,17
+increased trabecular bone mass,NA,musculoskeletal,nonclinical,NA,NA,7
+increased triglycerides,NA,metabolic,clinical,1,NA,NA
+increased triiodothyronine level,NA,endocrine,nonclinical,NA,NA,7
+increased urinary epithelial cell count,NA,renal,nonclinical,NA,NA,6
+increased urinary urate,NA,renal,nonclinical,NA,NA,1
+increased urination,NA,renal,clinical,NA,2,NA
+increased urination (c),NA,renal,clinical,NA,NA,NA
+increased urine calcium level,NA,renal,nonclinical,NA,NA,19
+increased urine chloride ion level,NA,renal,nonclinical,NA,NA,28
+increased urine creatinine level,NA,renal,nonclinical,NA,NA,2
+increased urine flow rate,NA,renal,nonclinical,NA,NA,63
+increased urine glucose level,NA,renal,nonclinical,NA,NA,15
+increased urine nitrite level,NA,renal,nonclinical,NA,NA,2
+increased urine osmolality,NA,renal,nonclinical,NA,NA,4
+increased urine ph,NA,renal,nonclinical,NA,NA,25
+increased urine phosphate level,NA,renal,nonclinical,NA,NA,7
+increased urine potassium level,NA,renal,nonclinical,NA,NA,20
+increased urine protein level,NA,renal,nonclinical,NA,NA,42
+increased urine sodium level,NA,renal,nonclinical,NA,NA,25
+increased urobilinogen level,NA,hepatic,nonclinical,NA,NA,2
+increased uterus weight,NA,reproductive,nonclinical,NA,NA,10
+increased vertical activity,NA,no category,nonclinical,NA,NA,2
+infection,incidental,immune,clinical,4,4,NA
+infection viral,incidental,immune,clinical,NA,NA,NA
+"infection viral,; at patients: dyskinesia",incidental,immune,clinical,1,NA,NA
+infection/sepsis,NA,immune,clinical,NA,1,NA
+infection chest,incidental,immune,clinical,NA,NA,NA
+infections and infestations,incidental,immune,clinical,3,NA,NA
+infections and i nfestations b,incidental,immune,clinical,NA,1,NA
+inflammation,NA,immune,nonclinical,NA,NA,42
+influenza,incidental,no category,clinical,6,3,NA
+"influenza like illness,",incidental,no category,clinical,1,NA,NA
+influenza ,incidental,no category,clinical,NA,NA,NA
+influenza-like illness,incidental,no category,clinical,NA,NA,NA
+influenza-like symptoms,incidental,no category,clinical,NA,NA,NA
+influenze,incidental,no category,clinical,1,NA,NA
+inguinal part of abdomen,NA,gastrointestinal,nonclinical,NA,NA,7
+injection site inflammation,NA,no category,nonclinical,NA,NA,2
+injection site scab,NA,no category,nonclinical,NA,NA,3
+injury,incidental,no category,clinical,1,NA,NA
+insomnia,incidental,nervous,clinical,21,8,NA
+"insomnia, middle insomnia",incidental,nervous,clinical,NA,NA,NA
+insomnia 3,incidental,nervous,clinical,NA,1,NA
+intestinal edema,NA,gastrointestinal,nonclinical,NA,NA,15
+intestinal hemorrhage,NA,gastrointestinal,nonclinical,NA,NA,8
+intestinal hyperplasia,NA,gastrointestinal,nonclinical,NA,NA,15
+intestinal inflammation,NA,gastrointestinal,nonclinical,NA,NA,18
+intestinal necrosis,NA,gastrointestinal,nonclinical,NA,NA,29
+intestinal ulcer,NA,gastrointestinal,nonclinical,NA,NA,13
+intestinal villus,NA,gastrointestinal,nonclinical,NA,NA,2
+intestine atrophy,NA,gastrointestinal,nonclinical,NA,NA,13
+intestine degeneration,NA,gastrointestinal,nonclinical,NA,NA,7
+intestine hypertrophy,NA,gastrointestinal,nonclinical,NA,NA,2
+intestine weight increase,NA,gastrointestinal,nonclinical,NA,NA,8
+intramyelinic edema,NA,nervous,nonclinical,NA,NA,1
+intratubular hyaline casts,NA,renal,nonclinical,NA,NA,15
+invasive endometrial cancer,NA,reproductive,clinical,1,NA,NA
+iris synechia,NA,ocular,nonclinical,NA,NA,2
+irregular menses,NA,reproductive,clinical,NA,1,NA
+irritability,NA,nervous,clinical,2,4,NA
+irritability behavior,NA,nervous,nonclinical,NA,NA,3
+jejunal ulcer,NA,gastrointestinal,nonclinical,NA,NA,3
+jejunum discoloration,NA,gastrointestinal,nonclinical,NA,NA,5
+jejunum hypertrophy,NA,gastrointestinal,nonclinical,NA,NA,2
+joint disorder,NA,musculoskeletal,clinical,NA,1,NA
+joint inflammation,NA,musculoskeletal,nonclinical,NA,NA,3
+joint related signs and symptoms,NA,musculoskeletal,clinical,NA,NA,NA
+joint sprain,incidental,no category,clinical,NA,NA,NA
+juxtaglomerular cell hyperplasia,NA,renal,nonclinical,NA,NA,13
+karyomegaly,NA,no category,nonclinical,NA,NA,6
+keratinized cell of the oral mucosa,NA,gastrointestinal,nonclinical,NA,NA,1
+keratitis,NA,ocular,nonclinical,NA,NA,3
+keratoconjunctivitis sicca,incidental,ocular,clinical,NA,1,NA
+ketonuria,NA,metabolic,nonclinical,NA,NA,23
+kidney atrophy,NA,renal,nonclinical,NA,NA,1
+kidney calculi,NA,renal,nonclinical,NA,NA,7
+kidney congestion,NA,renal,nonclinical,NA,NA,3
+kidney cysts,NA,renal,nonclinical,NA,NA,4
+kidney degeneration,NA,renal,nonclinical,NA,NA,15
+kidney epithelium development,NA,renal,nonclinical,NA,NA,2
+kidney epithelium hyperplasia,NA,renal,nonclinical,NA,NA,9
+kidney finding,NA,renal,nonclinical,NA,NA,3
+kidney hemorrhage,NA,renal,nonclinical,NA,NA,7
+kidney inflammation,NA,renal,nonclinical,NA,NA,54
+kidney; dilatation,NA,renal,nonclinical,NA,NA,5
+kyphosis,NA,musculoskeletal,nonclinical,NA,NA,1
+lack of skin elasticity,NA,dermal,nonclinical,NA,NA,3
+lacrimal gland inflammation,NA,ocular,nonclinical,NA,NA,1
+lactation failure,NA,reproductive,nonclinical,NA,NA,2
+language problems,NA,nervous,clinical,NA,2,NA
+languange problems,NA,nervous,clinical,1,NA,NA
+large intestinal inflammation,NA,gastrointestinal,nonclinical,NA,NA,2
+large intestine hemorrhage,NA,gastrointestinal,nonclinical,NA,NA,2
+lateral orientation,NA,no category,nonclinical,NA,NA,8
+ldh >1170 u/l (high),NA,no category,clinical,NA,NA,NA
+ldh increased,NA,metabolic,clinical,2,NA,NA
+ldl cholesterol,NA,metabolic,clinical,2,NA,NA
+ldl cholesterol increase,NA,metabolic,clinical,1,NA,NA
+ldl shifts,NA,metabolic,clinical,1,NA,NA
+"leg cramps,dehydration",incidental,no category,clinical,1,NA,NA
+leg edema,incidental,no category,clinical,NA,1,NA
+leg pain,incidental,no category,clinical,1,NA,NA
+lemon yellow skin,NA,dermal,nonclinical,NA,NA,4
+lens opacities,NA,ocular,nonclinical,NA,NA,7
+lesion of brain,NA,nervous,nonclinical,NA,NA,1
+lesion of spleen,NA,immune,nonclinical,NA,NA,3
+lesions on foot,NA,no category,nonclinical,NA,NA,2
+lethargy,incidental,nervous,clinical,NA,NA,16
+lethargy,NA,nervous,nonclinical,NA,NA,16
+leucopenia,NA,hematologic,clinical,1,NA,NA
+leukocytes,NA,hematologic,clinical,1,NA,NA
+leukopenia,NA,hematologic,clinical,6,2,NA
+lft abnormal,NA,hepatic,clinical,1,NA,NA
+libido change,NA,nervous,clinical,1,NA,NA
+"libido decrease,impotence",NA,nervous,clinical,1,NA,NA
+libido decreased,NA,nervous,clinical,1,3,NA
+licking,NA,no category,nonclinical,NA,NA,3
+limb injury,incidental,no category,clinical,NA,NA,NA
+limb myoclonus,NA,nervous,nonclinical,NA,NA,1
+limb posture,NA,nervous,nonclinical,NA,NA,1
+lip discoloration,NA,no category,nonclinical,NA,NA,1
+lip dry,incidental,gastrointestinal,clinical,1,NA,NA
+lipase,NA,gastrointestinal,clinical,NA,NA,NA
+lipase change,NA,gastrointestinal,clinical,1,NA,NA
+lipase increase,NA,gastrointestinal,clinical,2,NA,NA
+lipase increased,NA,gastrointestinal,clinical,NA,2,NA
+"lipid accumulation in kidney, especially in proximal convoluted tubules",NA,renal,nonclinical,NA,NA,1
+lipidosis,NA,metabolic,nonclinical,NA,NA,16
+lipodystrophies,NA,metabolic,clinical,NA,NA,NA
+lipofuscin accumulation,NA,no category,nonclinical,NA,NA,1
+liquid stools,NA,gastrointestinal,clinical,1,NA,NA
+liver,NA,hepatic,nonclinical,NA,NA,4
+liver cysts,NA,hepatic,nonclinical,NA,NA,1
+liver degeneration,NA,hepatic,nonclinical,NA,NA,28
+liver dysplastic foci,NA,hepatic,nonclinical,NA,NA,2
+liver enzyme elevation,NA,hepatic,clinical,1,NA,NA
+liver enzyme increase cmq,NA,hepatic,clinical,1,NA,NA
+liver fibrosis,NA,hepatic,nonclinical,NA,NA,7
+liver finding,NA,hepatic,nonclinical,NA,NA,1
+liver function abnormalities,NA,hepatic,clinical,NA,1,NA
+liver function tests multiple abnormalities,NA,hepatic,clinical,NA,NA,NA
+liver hemorrhage,NA,hepatic,nonclinical,NA,NA,4
+liver hyperplasia,NA,hepatic,nonclinical,NA,NA,11
+liver hypoplasia,NA,hepatic,nonclinical,NA,NA,1
+liver inflammation,NA,hepatic,nonclinical,NA,NA,38
+liver mass,NA,hepatic,nonclinical,NA,NA,4
+liver nodules,NA,hepatic,nonclinical,NA,NA,4
+liver transaminase elevations,NA,hepatic,clinical,NA,1,NA
+liver vascular congestion,NA,hepatic,nonclinical,NA,NA,5
+liver; hypertrophy,NA,hepatic,nonclinical,NA,NA,123
+liver-related adverse effects,NA,hepatic,clinical,2,NA,NA
+local throat irritation,incidental,no category,clinical,NA,1,NA
+long limbs,NA,no category,nonclinical,NA,NA,1
+loose stools,NA,gastrointestinal,clinical,NA,NA,NA
+loss of terminal digits,NA,no category,nonclinical,NA,NA,1
+low hematocrit,NA,hematologic,clinical,2,NA,NA
+low lymphocytes,NA,hematologic,clinical,1,NA,NA
+low neutrophils,NA,hematologic,clinical,1,NA,NA
+low reticulocyte count,NA,hematologic,clinical,1,NA,NA
+low wbc,NA,hematologic,clinical,1,NA,NA
+low white blood cell count (≤2.8 x 109/l),NA,hematologic,clinical,NA,NA,NA
+lung cyst,NA,respiratory,nonclinical,NA,NA,1
+lung hemorrhage,NA,respiratory,nonclinical,NA,NA,35
+lung hypertrophy,NA,respiratory,nonclinical,NA,NA,1
+lung inflammation,NA,respiratory,nonclinical,NA,NA,42
+lung weight to body weight ratio,NA,respiratory,nonclinical,NA,NA,4
+lymph node,NA,hematologic,nonclinical,NA,NA,3
+lymph node atrophy,NA,hematologic,nonclinical,NA,NA,29
+lymph node discoloration,NA,hematologic,nonclinical,NA,NA,16
+lymph node hemorrhage,NA,hematologic,nonclinical,NA,NA,10
+lymph node hyperplasia,NA,hematologic,nonclinical,NA,NA,13
+lymph node inflammation,NA,hematologic,nonclinical,NA,NA,18
+lymph node mass,NA,hematologic,nonclinical,NA,NA,1
+lymph node necrosis,NA,hematologic,nonclinical,NA,NA,6
+lymphangiectasis,NA,hematologic,nonclinical,NA,NA,1
+lymphocele,NA,hematologic,clinical,2,NA,NA
+lymphocyte decrease,NA,hematologic,clinical,3,NA,NA
+lymphocytes,NA,hematologic,clinical,NA,1,NA
+lymphocytes decreased,NA,hematologic,clinical,NA,2,NA
+lymphocytosis,NA,hematologic,nonclinical,NA,NA,4
+lymphoid hyperplasia,NA,hematologic,nonclinical,NA,NA,12
+lymphoid hypoplasia,NA,hematologic,nonclinical,NA,NA,5
+lymphoid tissue,NA,hematologic,nonclinical,NA,NA,2
+lymphopenia,NA,hematologic,clinical,5,4,25
+lymphopenia,NA,hematologic,nonclinical,5,4,25
+macrocytosis,NA,no category,nonclinical,NA,NA,2
+macrophage,NA,hematologic,nonclinical,NA,NA,2
+magnesium decrease,NA,metabolic,clinical,1,NA,NA
+magnesium decreased,NA,metabolic,clinical,NA,1,NA
+major leg amputation,NA,no category,clinical,NA,NA,NA
+malaise,incidental,no category,clinical,NA,1,NA
+malaise & fatigue,incidental,no category,clinical,1,NA,NA
+malaise/fatigue,incidental,no category,clinical,NA,NA,NA
+male genital mycotic infections,NA,immune,clinical,NA,2,NA
+male genital mycotic infections (d),incidental,no category,clinical,NA,NA,NA
+maliase/fatigue,incidental,no category,clinical,NA,NA,NA
+malocclusion,NA,no category,nonclinical,NA,NA,19
+mammary gland duct hyperplasia,NA,reproductive,nonclinical,NA,NA,1
+mammary gland epithelial cell proliferation,NA,reproductive,nonclinical,NA,NA,1
+mammary gland fluid/secretion,NA,reproductive,nonclinical,NA,NA,1
+mammary gland hyperplasia,NA,reproductive,nonclinical,NA,NA,26
+mass,NA,no category,nonclinical,NA,NA,2
+mass of skin,NA,dermal,nonclinical,NA,NA,1
+mass of uterus,NA,reproductive,nonclinical,NA,NA,1
+masses and nodules,NA,no category,nonclinical,NA,NA,5
+mastitis,NA,reproductive,nonclinical,NA,NA,1
+material entity,NA,no category,nonclinical,NA,NA,33
+material entity in digestive tract,NA,no category,nonclinical,NA,NA,17
+mch,NA,hematologic,clinical,1,NA,NA
+mch - low,NA,no category,nonclinical,NA,NA,6
+mean corpuscular volume elevation,NA,hematologic,clinical,1,NA,NA
+mean vital sign parameters,NA,cardiovascular,clinical,1,NA,NA
+median duration of treatment,NA,no category,clinical,NA,1,NA
+median duration of treatment (wks),NA,no category,clinical,NA,NA,NA
+melena,NA,no category,nonclinical,NA,NA,5
+memory impairment,NA,nervous,clinical,1,1,NA
+menorrhagia,NA,reproductive,clinical,NA,NA,NA
+menorrhagia (including increased uterine bleeding  (a)),NA,reproductive,clinical,NA,NA,NA
+menstrual disorder,NA,reproductive,clinical,NA,NA,NA
+menstrual irregularity,NA,reproductive,clinical,NA,1,NA
+mental slowing,NA,nervous,clinical,NA,NA,NA
+mesenteric lymph node,NA,hematologic,nonclinical,NA,NA,11
+metabolic and endocrine disorders,NA,metabolic,clinical,NA,NA,NA
+metabolic toxicity,NA,metabolic,clinical,NA,1,NA
+metabolism and nutrition disorders appetite decreased 2,NA,metabolic,clinical,NA,1,NA
+metaplasia,NA,no category,nonclinical,NA,NA,4
+microcytosis,NA,no category,nonclinical,NA,NA,1
+micturition frequency,NA,renal,clinical,NA,NA,NA
+migraine,incidental,nervous,clinical,2,NA,NA
+mineralisation,NA,no category,nonclinical,NA,NA,20
+mineralization of renal cortex,NA,renal,nonclinical,NA,NA,29
+"mineralization, cardiomyocyte or myocardium",NA,cardiovascular,nonclinical,NA,NA,11
+misaligned incisors,NA,no category,nonclinical,NA,NA,2
+mitochondrial swelling,NA,no category,nonclinical,NA,NA,2
+mononuclear cell infiltrates,NA,no category,nonclinical,NA,NA,3
+mood altered,NA,nervous,clinical,NA,NA,NA
+mood problems,NA,nervous,clinical,NA,1,NA
+morbidity - disease rate,NA,no category,nonclinical,NA,NA,1
+moribund,NA,no category,nonclinical,NA,NA,2
+mortality,NA,no category,clinical,NA,NA,NA
+motion sickess,incidental,otic,clinical,1,NA,NA
+motion sickness,incidental,otic,clinical,NA,NA,NA
+mottling of liver,NA,hepatic,nonclinical,NA,NA,6
+mouth movement,NA,no category,nonclinical,NA,NA,5
+mouth ulceration,NA,gastrointestinal,clinical,1,NA,NA
+mucosal inflammation,NA,gastrointestinal,clinical,2,1,NA
+mucosal ulcer,NA,no category,nonclinical,NA,NA,3
+mucositis,NA,gastrointestinal,clinical,1,2,NA
+mucositis/stomatitis,NA,gastrointestinal,clinical,1,NA,NA
+multinucleated giant cell,NA,no category,nonclinical,NA,NA,2
+multinucleated hepatocyte,NA,hepatic,nonclinical,NA,NA,8
+murine forestomach,NA,renal,nonclinical,NA,NA,2
+muscle contraction,NA,musculoskeletal,nonclinical,NA,NA,1
+muscle contractions involuntary,NA,musculoskeletal,clinical,NA,NA,NA
+muscle cramp,NA,musculoskeletal,clinical,NA,NA,NA
+muscle degeneration,NA,musculoskeletal,nonclinical,NA,NA,16
+muscle pains,incidental,musculoskeletal,clinical,NA,NA,NA
+muscle rigidity,NA,musculoskeletal,nonclinical,NA,NA,1
+muscle spasm,NA,musculoskeletal,nonclinical,NA,NA,2
+muscle spasms,NA,musculoskeletal,clinical,6,4,NA
+muscle strain,NA,musculoskeletal,clinical,NA,NA,NA
+muscle tightness,NA,musculoskeletal,clinical,1,NA,NA
+muscle twitching,NA,musculoskeletal,clinical,NA,1,NA
+muscle weakness,NA,musculoskeletal,clinical,NA,NA,NA
+musculoskeletal pain,incidental,musculoskeletal,clinical,1,3,NA
+musculoskeletal pain (a),incidental,musculoskeletal,clinical,NA,NA,NA
+musculoskeletal stiffness,NA,musculoskeletal,clinical,NA,NA,NA
+musculoskeletal toxicity,NA,musculoskeletal,clinical,NA,NA,NA
+musculoskeletal weakness,NA,musculoskeletal,clinical,1,NA,NA
+musculoskeletal arthralgia back pain myalgia/limb pain,incidental,musculoskeletal,clinical,NA,NA,NA
+musculoskeletal trauma,NA,musculoskeletal,clinical,NA,NA,NA
+myalgia,NA,musculoskeletal,clinical,5,6,NA
+"myalgia,cpk increase",NA,musculoskeletal,clinical,1,NA,NA
+myalgia/limb pain,incidental,musculoskeletal,clinical,1,NA,NA
+mydriasis,incidental,ocular,clinical,1,NA,15
+mydriasis,NA,ocular,nonclinical,1,NA,15
+myeloid hyperplasia,NA,musculoskeletal,nonclinical,NA,NA,4
+myeloid to erythroid ratio increase,NA,no category,nonclinical,NA,NA,3
+myocardium degeneration,NA,cardiovascular,nonclinical,NA,NA,18
+myocardium necrosis,NA,cardiovascular,nonclinical,NA,NA,8
+myoclonic spasms,NA,no category,nonclinical,NA,NA,2
+myoclonus,NA,nervous,clinical,NA,NA,NA
+myometrium hypoplasia,NA,reproductive,nonclinical,NA,NA,1
+myopathy,NA,musculoskeletal,clinical,1,NA,11
+myopathy,NA,musculoskeletal,nonclinical,1,NA,11
+myopathy with or without rhabdomyolysis,NA,musculoskeletal,clinical,1,NA,NA
+myositis,NA,musculoskeletal,nonclinical,NA,NA,6
+na,NA,NA,clinical,3,NA,NA
+NA,NA,NA,clinical,NA,NA,18
+NA,NA,NA,nonclinical,NA,NA,18
+nail abnormalities §,NA,dermal,clinical,NA,1,NA
+nail disorder,NA,dermal,clinical,1,NA,NA
+nail disorders,NA,dermal,clinical,NA,1,NA
+nail effects,NA,dermal,clinical,1,NA,NA
+nail toxicity ¶,NA,dermal,clinical,NA,1,NA
+nasal bone hyperplasia,NA,musculoskeletal,nonclinical,NA,NA,2
+nasal congestion,incidental,respiratory,clinical,1,2,NA
+nasal congestion (including sinus congestion),incidental,respiratory,clinical,NA,NA,NA
+nasal inflammation,NA,respiratory,nonclinical,NA,NA,7
+"nasal obstruction,",incidental,respiratory,clinical,1,NA,NA
+nasal signs & symptoms,NA,respiratory,clinical,1,NA,NA
+nasopharyngitis,incidental,respiratory,clinical,10,6,NA
+nasopharyngitis (b),incidental,respiratory,clinical,NA,NA,NA
+nasopharyngitis/pharyngitis,incidental,respiratory,clinical,NA,1,NA
+nasopharyngitis/pharyngitis/uri,incidental,respiratory,clinical,1,NA,NA
+nasopharyngitis/rhinitis/uri,incidental,respiratory,clinical,NA,1,NA
+nause (a),incidental,gastrointestinal,clinical,NA,NA,NA
+nausea,incidental,gastrointestinal,clinical,66,44,NA
+nausea and/or vomiting,incidental,gastrointestinal,clinical,2,NA,NA
+nausea/vomiting,incidental,gastrointestinal,clinical,1,NA,NA
+nausea/vomiting symptoms,incidental,gastrointestinal,clinical,NA,NA,NA
+nauseaa,incidental,gastrointestinal,clinical,NA,2,NA
+neck pain,incidental,musculoskeletal,clinical,NA,NA,NA
+neck rigidity,NA,musculoskeletal,clinical,NA,NA,NA
+necrosis,NA,no category,nonclinical,NA,NA,23
+necrosis of pituitary,NA,endocrine,nonclinical,NA,NA,5
+"necrosis, testis",NA,reproductive,nonclinical,NA,NA,4
+nephritis,NA,renal,nonclinical,NA,NA,10
+nephrocalcinosis,NA,renal,nonclinical,NA,NA,1
+nephrolith (pharmaceutical),NA,no category,nonclinical,NA,NA,1
+nephrolithiasis,NA,renal,nonclinical,NA,NA,2
+nephropathy,NA,renal,nonclinical,NA,NA,55
+nephrotoxicity,NA,renal,clinical,NA,1,NA
+nervous,NA,nervous,clinical,1,NA,NA
+nervous system,NA,nervous,clinical,1,NA,NA
+nervous system disorders,NA,nervous,clinical,4,1,NA
+nervousness,NA,nervous,clinical,4,2,NA
+neurological,NA,nervous,clinical,NA,1,NA
+neurology altered taste headache,NA,nervous,clinical,NA,NA,NA
+neuropathy,NA,nervous,clinical,1,1,NA
+neurotoxicity,NA,nervous,clinical,NA,15,NA
+neutropenia,NA,hematologic,clinical,8,5,NA
+neutrophil decrease,NA,hematologic,clinical,1,NA,NA
+neutrophils >20x10 9 /l,NA,hematologic,clinical,NA,NA,NA
+neutrophils decrease,NA,hematologic,clinical,1,NA,NA
+neutrophils decreased,NA,hematologic,clinical,NA,2,NA
+nightmare,incidental,nervous,clinical,NA,NA,NA
+nightmare/abnormal dream,incidental,nervous,clinical,1,NA,NA
+nightmare/abnormal dreams,incidental,nervous,clinical,NA,NA,NA
+no abnormal phenotype detected,NA,no category,nonclinical,NA,NA,17
+no effects meet criteria,NA,NA,clinical,38,NA,NA
+nocturia,incidental,renal,clinical,1,NA,NA
+non-cardiac chest pain,incidental,cardiovascular,clinical,NA,NA,NA
+non-pathologic fracture,incidental,no category,clinical,1,NA,NA
+non-specific dyspnea,incidental,respiratory,clinical,1,NA,NA
+nose,NA,no category,nonclinical,NA,NA,1
+nystagmus,NA,nervous,clinical,2,2,NA
+obstruction of esophagus,NA,no category,nonclinical,NA,NA,1
+occular toxicity,NA,ocular,clinical,NA,NA,NA
+ocular effects,NA,ocular,clinical,1,NA,NA
+oedema,incidental,no category,clinical,NA,NA,NA
+oedema peripheral,incidental,dermal,clinical,2,NA,NA
+oily evacuation,incidental,gastrointestinal,clinical,2,NA,NA
+"oily evacuation,",incidental,gastrointestinal,clinical,NA,NA,NA
+oily spotting,incidental,gastrointestinal,clinical,2,2,NA
+oily evacuation,incidental,gastrointestinal,clinical,NA,2,NA
+oligospermia,NA,reproductive,nonclinical,NA,NA,14
+oliguria,NA,renal,nonclinical,NA,NA,3
+omnolence,incidental,nervous,clinical,NA,1,NA
+optic neuropathy,NA,ocular,nonclinical,NA,NA,1
+oral moniliasis,NA,immune,clinical,NA,NA,NA
+oral pain,incidental,no category,clinical,NA,1,NA
+oral pain (d),incidental,no category,clinical,NA,NA,NA
+orange urine,NA,renal,nonclinical,NA,NA,3
+oropharyngeal pain,incidental,respiratory,clinical,4,1,NA
+orthostatic hypotension,NA,cardiovascular,clinical,2,NA,NA
+osmotic pressure decreased,NA,no category,nonclinical,NA,NA,3
+osmotic pressure increased,NA,no category,nonclinical,NA,NA,1
+osseous metaplasia,NA,no category,nonclinical,NA,NA,2
+osteoarthritis,NA,musculoskeletal,nonclinical,NA,NA,1
+osteodystrophy,NA,musculoskeletal,nonclinical,NA,NA,6
+ovary atrophy,NA,reproductive,nonclinical,NA,NA,10
+ovary cysts,NA,reproductive,nonclinical,NA,NA,21
+ovary degeneration,NA,reproductive,nonclinical,NA,NA,3
+ovary discoloration,NA,reproductive,nonclinical,NA,NA,6
+ovary hyperplasia,NA,reproductive,nonclinical,NA,NA,8
+overall percentage of patients with eps-related ae,NA,no category,clinical,NA,2,NA
+packed cell volume decreased,NA,hematologic,nonclinical,NA,NA,30
+packed cell volume increased,NA,hematologic,nonclinical,NA,NA,13
+paddling,NA,no category,nonclinical,NA,NA,12
+pain,incidental,no category,clinical,4,2,NA
+pain abdominal,incidental,gastrointestinal,clinical,NA,1,NA
+pain at lesion,incidental,no category,clinical,1,NA,NA
+pain at lesion administration site,incidental,no category,clinical,NA,NA,NA
+pain at lesion of administration site,incidental,no category,clinical,NA,NA,NA
+pain back,incidental,musculoskeletal,clinical,NA,NA,NA
+pain in extremity,incidental,no category,clinical,4,5,NA
+"pain, dental",incidental,no category,clinical,NA,NA,NA
+pain and pressure sensation,incidental,no category,clinical,NA,NA,NA
+pale kidney,NA,renal,nonclinical,NA,NA,15
+pale liver,NA,hepatic,nonclinical,NA,NA,20
+pale lung,NA,respiratory,nonclinical,NA,NA,8
+pallor,NA,no category,nonclinical,NA,NA,26
+palmar plantar erythrodysaethesia syndrome,NA,dermal,clinical,1,NA,NA
+palmar‐plantar erythrodysaesthesia syndrome,NA,dermal,clinical,1,NA,NA
+palmar-plantar erythrodysaesthesia,NA,dermal,clinical,1,NA,NA
+palmar-plantar erythrodysesthesia,NA,dermal,clinical,NA,1,NA
+palmar-plantar erythrodysesthesia syndrome,NA,dermal,clinical,1,1,NA
+palpable mass,NA,no category,nonclinical,NA,NA,4
+palpitations,incidental,cardiovascular,clinical,2,NA,NA
+pancreas atrophy,NA,endocrine,nonclinical,NA,NA,14
+pancreas degeneration,NA,endocrine,nonclinical,NA,NA,6
+pancreas degranulation,NA,endocrine,nonclinical,NA,NA,2
+pancreas discoloration,NA,endocrine,nonclinical,NA,NA,7
+pancreas fibrosis,NA,endocrine,nonclinical,NA,NA,6
+pancreas inflammation,NA,endocrine,nonclinical,NA,NA,14
+pancreas necrosis,NA,endocrine,nonclinical,NA,NA,10
+pancreas; hypertrophy,NA,endocrine,nonclinical,NA,NA,1
+pancreatic acinar cell zymogen granule accumulation,NA,endocrine,nonclinical,NA,NA,8
+pancreatic acinar hyperplasia,NA,endocrine,nonclinical,NA,NA,1
+"pancreatic hemorrhage, ctcae",NA,endocrine,nonclinical,NA,NA,6
+"papilloma, squamous cell",NA,no category,nonclinical,NA,NA,1
+paraesthesia,incidental,nervous,clinical,2,2,NA
+paranasal sinus disorders,NA,respiratory,clinical,NA,NA,NA
+paresis,NA,no category,nonclinical,NA,NA,1
+paresthesia,incidental,nervous,clinical,2,2,NA
+paresthesias,incidental,nervous,clinical,1,NA,NA
+paresthesias and dysesthesias,incidental,nervous,clinical,NA,NA,NA
+parkinsonism,NA,nervous,clinical,NA,1,NA
+paronychia,NA,dermal,clinical,1,NA,NA
+pedal edema,incidental,dermal,clinical,1,NA,NA
+peliosis,NA,no category,nonclinical,NA,NA,1
+penile erection,NA,reproductive,clinical,1,NA,2
+penile erection,NA,reproductive,nonclinical,1,NA,2
+penis inflammation,NA,reproductive,nonclinical,NA,NA,1
+penis prolapse,NA,reproductive,nonclinical,NA,NA,5
+peptic ulcer,NA,gastrointestinal,nonclinical,NA,NA,1
+percent of patients with any adverse event,NA,no category,clinical,NA,1,NA
+perianal ulcer,NA,no category,nonclinical,NA,NA,1
+pericarditis,NA,cardiovascular,nonclinical,NA,NA,4
+perifolliculitis,NA,dermal,nonclinical,NA,NA,2
+perineal muscle,NA,musculoskeletal,nonclinical,NA,NA,1
+periodontal ligament hypercellularity,NA,dermal,nonclinical,NA,NA,2
+periodontium inflammation,NA,dermal,nonclinical,NA,NA,4
+periorbital swelling,NA,ocular,nonclinical,NA,NA,3
+peripheral edema,incidental,no category,clinical,8,3,NA
+peripheral edema,incidental,no category,clinical,8,3,NA
+peripheral ischemia,NA,cardiovascular,clinical,NA,NA,NA
+peripheral neuropathy,NA,nervous,clinical,1,NA,NA
+peripheral oedema,incidental,dermal,clinical,1,NA,NA
+peripheral sensory neuropathy,NA,nervous,clinical,NA,1,NA
+peripheral paraesthesia,incidental,no category,clinical,NA,1,NA
+peritoneal inflammation,NA,gastrointestinal,nonclinical,NA,NA,9
+permanently discontinued treatment because of an adverse event,NA,no category,clinical,NA,1,NA
+petechiae,NA,dermal,clinical,NA,1,NA
+peyer's patch,NA,no category,nonclinical,NA,NA,2
+pharyngitis,incidental,respiratory,clinical,4,5,1
+pharyngolaryngeal pain,incidental,respiratory,clinical,3,1,NA
+phosphate decreased,NA,no category,clinical,NA,2,NA
+phosphate increased,NA,hematologic,nonclinical,NA,NA,8
+"phosphenes, visual brightness",NA,no category,clinical,NA,1,NA
+phosphorus,NA,no category,clinical,NA,1,NA
+phosphorus decreased,NA,no category,clinical,NA,1,NA
+photophobia,NA,ocular,clinical,2,NA,NA
+photosensitivity,NA,ocular,clinical,NA,1,NA
+photosensitivity reaction,NA,ocular,clinical,3,1,NA
+phthisis bulbi,NA,ocular,nonclinical,NA,NA,4
+pigment accumulation,NA,dermal,nonclinical,NA,NA,19
+pigmentation phenotype,NA,dermal,nonclinical,NA,NA,1
+pigmented layer of retina,NA,ocular,nonclinical,NA,NA,1
+pigmented macrophages,NA,hematologic,nonclinical,NA,NA,1
+piloerection,NA,dermal,nonclinical,NA,NA,65
+pituitary adenoma,NA,endocrine,nonclinical,NA,NA,1
+pituitary gland,NA,endocrine,nonclinical,NA,NA,2
+pituitary gland cyst,NA,endocrine,nonclinical,NA,NA,3
+pituitary gland hyperplasia,NA,endocrine,nonclinical,NA,NA,9
+pituitary gland hypertrophy,NA,endocrine,nonclinical,NA,NA,13
+pituitary gland weight to body weight ratio,NA,endocrine,nonclinical,NA,NA,4
+plasmacytosis,NA,hematologic,nonclinical,NA,NA,5
+platelet,NA,hematologic,nonclinical,NA,NA,2
+platelet count decrease,NA,hematologic,clinical,1,NA,NA
+platelet decrease,NA,hematologic,clinical,1,NA,NA
+platelet distribution width decreased,NA,hematologic,nonclinical,NA,NA,2
+platelet distribution width increased,NA,hematologic,nonclinical,NA,NA,1
+platelets,NA,hematologic,clinical,NA,1,NA
+platelets decrease,NA,hematologic,clinical,1,NA,NA
+platelets decreased,NA,hematologic,clinical,NA,3,NA
+pleural fluid,NA,no category,nonclinical,NA,NA,2
+pleuritis,NA,respiratory,nonclinical,NA,NA,4
+pneumonia,incidental,respiratory,clinical,1,NA,NA
+pneumonitis,incidental,respiratory,clinical,1,NA,NA
+pneumonitis c,incidental,respiratory,clinical,NA,2,NA
+poikilocytosis,NA,hematologic,nonclinical,NA,NA,6
+poisoning,incidental,no category,clinical,1,NA,NA
+pollakiuria or polyuria,NA,renal,clinical,NA,1,NA
+pollakuria,NA,renal,clinical,1,NA,NA
+polychromatophilia,NA,no category,nonclinical,NA,NA,1
+polyuria,NA,renal,clinical,1,NA,89
+polyuria,NA,renal,nonclinical,1,NA,89
+porphyrin,NA,no category,nonclinical,NA,NA,1
+postictal state,NA,nervous,clinical,NA,NA,NA
+potassium <3.0 mmol/l (low),NA,no category,clinical,NA,NA,NA
+potassium >6.0 mmol/l  (high),NA,no category,clinical,NA,NA,NA
+potassium abnormality,NA,metabolic,clinical,1,NA,NA
+potassium decreased,NA,no category,clinical,NA,1,NA
+potassium increase,NA,metabolic,clinical,1,NA,NA
+potassium increased,NA,no category,clinical,NA,NA,NA
+ppe,NA,hematologic,clinical,1,NA,NA
+preputial swelling,NA,no category,nonclinical,NA,NA,2
+proestrus,NA,reproductive,nonclinical,NA,NA,1
+prolactin increase,NA,endocrine,clinical,1,NA,NA
+prolonged diestrus,NA,reproductive,nonclinical,NA,NA,3
+prolonged estrous cycle,NA,reproductive,nonclinical,NA,NA,5
+prolonged metestrus,NA,reproductive,nonclinical,NA,NA,1
+prolonged pr interval,NA,cardiovascular,clinical,1,NA,2
+prolonged pr interval,NA,cardiovascular,nonclinical,1,NA,2
+prolonged qtc interval,NA,cardiovascular,nonclinical,NA,NA,2
+prolonged whole-blood clotting time,NA,hematologic,nonclinical,NA,NA,5
+prostate gland inflammation,NA,reproductive,nonclinical,NA,NA,17
+prostatic hyperplasia,NA,no category,nonclinical,NA,NA,3
+proteinosis,NA,no category,nonclinical,NA,NA,4
+proteinuria,NA,renal,clinical,9,4,11
+proteinuria,NA,renal,nonclinical,9,4,11
+pruiritis,incidental,dermal,clinical,1,NA,NA
+pruritis,incidental,dermal,clinical,9,NA,NA
+pruritis/dry skin; table 46: neutrapenia,incidental,dermal,clinical,1,NA,NA
+pruritus,incidental,dermal,clinical,1,5,NA
+pruritus #,incidental,dermal,clinical,NA,1,NA
+pruritus*,incidental,dermal,clinical,NA,2,NA
+pruritus/pruritus generalized,incidental,dermal,clinical,NA,1,NA
+pruritus;   subjects >= 12 years: motion sickness,incidental,dermal,clinical,NA,NA,NA
+pruritus; subjects >= 12 years: motion sickess,incidental,dermal,clinical,NA,NA,NA
+pseudopregnancy,NA,reproductive,nonclinical,NA,NA,1
+psychiatric anxiety,NA,nervous,clinical,NA,1,NA
+psychomotor slowing,NA,nervous,clinical,1,2,NA
+pulmonary alveolar edema,NA,respiratory,nonclinical,NA,NA,1
+pulmonary alveolar proteinosis,NA,respiratory,nonclinical,NA,NA,1
+pulmonary congestion,NA,respiratory,clinical,NA,NA,8
+pulmonary congestion,NA,respiratory,nonclinical,NA,NA,8
+pulmonary edema,NA,respiratory,nonclinical,NA,NA,10
+pulmonary embolism,NA,cardiovascular,clinical,NA,NA,NA
+pulmonary events,NA,respiratory,clinical,1,NA,NA
+pulmonary fibrosis,NA,respiratory,nonclinical,NA,NA,4
+pulmonary hemorrhage,NA,respiratory,nonclinical,NA,NA,3
+pulmonary hyperplasia,NA,respiratory,nonclinical,NA,NA,9
+pulmonary infiltrates,NA,respiratory,nonclinical,NA,NA,15
+pulmonary vascular congestion,NA,respiratory,nonclinical,NA,NA,2
+pulse increase,NA,cardiovascular,clinical,1,NA,NA
+pulse rate change,NA,cardiovascular,clinical,1,NA,NA
+puncture site pain,incidental,no category,clinical,1,NA,NA
+pupil reaction absent,NA,no category,nonclinical,NA,NA,1
+purkinje cell degeneration,NA,nervous,nonclinical,NA,NA,1
+pyelitis,NA,renal,nonclinical,NA,NA,1
+pyelitis; contracted kidney,NA,renal,nonclinical,NA,NA,3
+pyelonephritis,NA,renal,nonclinical,NA,NA,17
+pyometra,NA,reproductive,nonclinical,NA,NA,2
+pyrexia,incidental,no category,clinical,9,1,NA
+pyyrexia,incidental,no category,clinical,NA,NA,NA
+qt interval prolongation,NA,cardiovascular,clinical,1,NA,NA
+qt prolongation,NA,cardiovascular,clinical,2,NA,NA
+qt shortening,NA,cardiovascular,clinical,1,NA,NA
+qtc prolongation,NA,cardiovascular,clinical,1,NA,NA
+qtc prolonged,NA,cardiovascular,clinical,NA,1,NA
+qtcf abnormalities,NA,cardiovascular,clinical,1,NA,NA
+rales,NA,respiratory,nonclinical,NA,NA,15
+rash,incidental,dermal,clinical,20,9,NA
+rash (g),incidental,dermal,clinical,NA,NA,NA
+rash a,incidental,dermal,clinical,NA,2,NA
+rash ‡,incidental,dermal,clinical,NA,1,NA
+rash maculopapular,incidental,dermal,clinical,NA,NA,NA
+"rash,",incidental,dermal,clinical,1,NA,NA
+rash/ desquamation,incidental,dermal,clinical,1,NA,NA
+rash§,incidental,dermal,clinical,NA,1,NA
+rate of discontinuationrate of discontinuation as a result of an adverse reaction,NA,no category,clinical,NA,1,NA
+rbc decrease,NA,hematologic,clinical,1,NA,NA
+rectal pain/discomfort,incidental,no category,clinical,NA,NA,NA
+recumbency,NA,no category,nonclinical,NA,NA,7
+red eye,NA,ocular,nonclinical,NA,NA,7
+red urine,NA,renal,nonclinical,NA,NA,13
+reddish ears,NA,no category,nonclinical,NA,NA,6
+reddish skin,NA,dermal,nonclinical,NA,NA,10
+reduced heart rate,NA,cardiovascular,clinical,3,NA,NA
+reduced oral body temperature,incidental,no category,clinical,3,NA,NA
+regeneration,NA,no category,nonclinical,NA,NA,6
+"regeneration, tubule",NA,renal,nonclinical,NA,NA,4
+regulation of gastric acid secretion,NA,gastrointestinal,nonclinical,NA,NA,1
+regulation of gastric motility,NA,gastrointestinal,nonclinical,NA,NA,1
+regulation of succinate dehydrogenase activity,NA,no category,nonclinical,NA,NA,3
+removed as table 8 shows percent differences of less than 5%,NA,NA,clinical,1,NA,NA
+renal and urinary disorders urinary retention,NA,renal,clinical,NA,NA,NA
+renal cast,NA,renal,nonclinical,NA,NA,3
+renal cortical necrosis,NA,renal,nonclinical,NA,NA,1
+renal events,NA,renal,clinical,1,NA,NA
+renal failure,NA,renal,clinical,2,NA,NA
+renal fibrosis,NA,renal,nonclinical,NA,NA,10
+renal glomerulus hypertrophy,NA,renal,nonclinical,NA,NA,2
+renal impairment �,NA,renal,clinical,NA,NA,NA
+renal insufficiency,NA,renal,clinical,1,NA,NA
+renal insufficiency (a),NA,renal,clinical,NA,NA,NA
+renal interstitial mineralisation,NA,renal,nonclinical,NA,NA,7
+renal interstitial neutrophil infiltration,NA,hematologic,nonclinical,NA,NA,2
+renal intratubular casts,NA,renal,nonclinical,NA,NA,11
+renal ischemia,NA,renal,nonclinical,NA,NA,1
+renal mass,NA,renal,nonclinical,NA,NA,2
+renal necrosis,NA,renal,nonclinical,NA,NA,20
+renal pelvis,NA,renal,nonclinical,NA,NA,1
+renal tubular degeneration,NA,renal,nonclinical,NA,NA,13
+renal tubular disorder,NA,renal,nonclinical,NA,NA,16
+renal tubular dysfunction,NA,renal,nonclinical,NA,NA,6
+renal tubular epithelial cell cytoplasmic vacuolization,NA,renal,nonclinical,NA,NA,14
+renal tubular necrosis,NA,renal,nonclinical,NA,NA,13
+renal tubule atrophy,NA,renal,nonclinical,NA,NA,4
+renal tubule hypertrophy,NA,renal,nonclinical,NA,NA,13
+renal/urinary system inflammation,NA,renal,nonclinical,NA,NA,1
+respiratory distress,NA,respiratory,nonclinical,NA,NA,50
+respiratory infection,incidental,respiratory,clinical,2,NA,NA
+respiratory toxicity,NA,respiratory,clinical,NA,3,NA
+respiratory tract infection,incidental,respiratory,clinical,NA,3,NA
+respiratory tract infection (upper and lower),incidental,respiratory,clinical,NA,NA,NA
+respiratory pharyngitis,incidental,respiratory,clinical,NA,NA,NA
+respiratory pneumonia,incidental,respiratory,clinical,NA,NA,NA
+restlessness,incidental,nervous,clinical,1,4,NA
+reticulocytes,NA,hematologic,clinical,1,NA,NA
+reticulocytopenia,NA,hematologic,nonclinical,NA,NA,68
+reticulocytosis,NA,hematologic,nonclinical,NA,NA,117
+retina,NA,ocular,nonclinical,NA,NA,1
+retinal degeneration,NA,ocular,nonclinical,NA,NA,3
+retinal detachment,NA,ocular,nonclinical,NA,NA,1
+retinal vascular tortuosity,NA,ocular,nonclinical,NA,NA,1
+retinopathy,NA,ocular,nonclinical,NA,NA,4
+retracted,NA,no category,nonclinical,NA,NA,1
+retrograde ejaculation,NA,reproductive,clinical,1,1,1
+retrograde ejaculation,NA,reproductive,nonclinical,1,1,1
+rhabdomyolysis,NA,musculoskeletal,clinical,2,NA,NA
+rhinitis,incidental,respiratory,clinical,5,4,NA
+rhinitis blood creatinine,NA,renal,clinical,1,NA,NA
+rhinorrhea,incidental,respiratory,clinical,1,NA,10
+rhinorrhea,NA,respiratory,nonclinical,1,NA,10
+rigidity,NA,nervous,clinical,1,NA,6
+rigidity,NA,nervous,nonclinical,1,NA,6
+rigors,NA,nervous,clinical,NA,NA,NA
+rolling over,NA,no category,nonclinical,NA,NA,3
+rough coat,NA,dermal,nonclinical,NA,NA,21
+salivary gland degeneration,NA,gastrointestinal,nonclinical,NA,NA,2
+salivary gland inflammation,NA,gastrointestinal,nonclinical,NA,NA,7
+salivary gland weight decrease,NA,gastrointestinal,nonclinical,NA,NA,5
+salivary gland weight increase,NA,gastrointestinal,nonclinical,NA,NA,8
+"salivary gland; hypertrophy, congenital",NA,gastrointestinal,nonclinical,NA,NA,3
+scab,NA,dermal,nonclinical,NA,NA,19
+scab of skin,NA,dermal,nonclinical,NA,NA,11
+scaly skin,NA,dermal,nonclinical,NA,NA,4
+scar tissue,NA,no category,nonclinical,NA,NA,1
+schizophrenic / schizophreniform behavior,NA,nervous,clinical,NA,NA,NA
+scrotum flaccidity,NA,reproductive,nonclinical,NA,NA,8
+seasonal allergy,incidental,no category,clinical,NA,NA,NA
+secual disfunction (males),NA,reproductive,clinical,NA,NA,NA
+sedated state,NA,nervous,nonclinical,NA,NA,18
+sedation,incidental,nervous,clinical,1,NA,NA
+sedation or somnolence,incidental,nervous,clinical,1,NA,NA
+sedation/somnolence,incidental,nervous,clinical,NA,1,NA
+seminal vesicle atrophy,NA,reproductive,nonclinical,NA,NA,28
+seminal vesicle epithelium degeneration,NA,reproductive,nonclinical,NA,NA,1
+seminiferous tubule degeneration,NA,reproductive,nonclinical,NA,NA,30
+seminiferous tubule of testis,NA,reproductive,nonclinical,NA,NA,1
+sensitivity to light,NA,ocular,clinical,1,NA,NA
+sensory abnormalities,NA,nervous,clinical,NA,NA,NA
+sensory disturbance,NA,nervous,clinical,NA,NA,NA
+sensory loss,NA,nervous,clinical,NA,NA,NA
+"serum aminotransferases, abnormal",NA,hepatic,clinical,NA,NA,NA
+serum amylase increase,NA,metabolic,clinical,1,NA,NA
+serum bicarbonate increase,NA,metabolic,clinical,2,NA,NA
+serum chemistry measurement,NA,no category,nonclinical,NA,NA,1
+serum chloride decrease,NA,metabolic,clinical,2,NA,NA
+serum creatinine,NA,renal,clinical,1,NA,NA
+serum creatinine (> 33% increase from baseline and > uln at ≥ 2 consecutive post-baseline values),NA,renal,clinical,NA,NA,NA
+serum creatinine increase,NA,renal,clinical,3,NA,NA
+serum vitamin measurement,NA,no category,nonclinical,NA,NA,2
+severe myelotoxicity,NA,hematologic,clinical,1,NA,NA
+sexual disfunction,NA,reproductive,clinical,NA,3,NA
+sexual disfunction (female),NA,reproductive,clinical,NA,NA,NA
+sexual dysfunction,NA,reproductive,clinical,2,NA,NA
+sexual dysfunction - females,NA,nervous,clinical,NA,NA,NA
+sexual dysfunction - males,NA,nervous,clinical,NA,NA,NA
+sexual function abnormal,NA,reproductive,clinical,NA,1,NA
+sexual function disorders,NA,nervous,clinical,1,NA,NA
+short estrous cycle,NA,reproductive,nonclinical,NA,NA,1
+short fetal femur length,NA,no category,nonclinical,NA,NA,1
+short kidney papilla,NA,renal,nonclinical,NA,NA,1
+sialorrhea,NA,gastrointestinal,nonclinical,NA,NA,7
+sinus headache,incidental,respiratory,clinical,NA,NA,NA
+sinusitis,incidental,respiratory,clinical,6,3,NA
+skeletal muscle atrophy,NA,musculoskeletal,nonclinical,NA,NA,5
+skeletal muscle degeneration,NA,musculoskeletal,nonclinical,NA,NA,5
+skeletal muscle necrosis,NA,musculoskeletal,nonclinical,NA,NA,3
+skeletal pain,incidental,musculoskeletal,clinical,NA,NA,NA
+skin,NA,dermal,clinical,NA,1,NA
+skin abrasion,NA,dermal,nonclinical,NA,NA,4
+skin and subcutaneous tissue disorders,NA,dermal,clinical,1,NA,NA
+skin and subcutaneous tissue disorders sweating increased,NA,dermal,clinical,NA,1,NA
+skin changes,NA,dermal,clinical,NA,1,NA
+skin discoloration,NA,dermal,clinical,1,NA,NA
+skin fissures,NA,dermal,clinical,1,NA,NA
+skin hyperpigmentation,NA,dermal,clinical,1,NA,NA
+skin inflammation,NA,dermal,nonclinical,NA,NA,4
+skin laceration,NA,dermal,clinical,NA,NA,NA
+skin lesions,NA,dermal,nonclinical,NA,NA,8
+skin neoplasms benign,NA,dermal,clinical,NA,NA,NA
+skin nodule,NA,dermal,nonclinical,NA,NA,3
+skin rash,incidental,dermal,clinical,1,NA,NA
+skin ulcer,NA,dermal,nonclinical,NA,NA,5
+sleep disorder,NA,nervous,clinical,2,1,NA
+slow shallow breathing,NA,no category,nonclinical,NA,NA,2
+small adrenal glands,NA,endocrine,nonclinical,NA,NA,3
+small epididymis,NA,reproductive,nonclinical,NA,NA,13
+small intestinal inflammation,NA,gastrointestinal,nonclinical,NA,NA,1
+small intestine,NA,gastrointestinal,nonclinical,NA,NA,1
+small intestine hemorrhage,NA,gastrointestinal,nonclinical,NA,NA,2
+small liver,NA,hepatic,nonclinical,NA,NA,5
+small lymph nodes,NA,immune,nonclinical,NA,NA,4
+small lymphoid organs,NA,immune,nonclinical,NA,NA,2
+small ovary,NA,reproductive,nonclinical,NA,NA,2
+small pancreas,NA,endocrine,nonclinical,NA,NA,1
+small parathyroid gland,NA,endocrine,nonclinical,NA,NA,3
+small salivary gland,NA,gastrointestinal,nonclinical,NA,NA,9
+small seminal vesicle,NA,reproductive,nonclinical,NA,NA,16
+small seminiferous tubules,NA,reproductive,nonclinical,NA,NA,7
+small spleen,NA,immune,nonclinical,NA,NA,26
+small testis,NA,reproductive,nonclinical,NA,NA,37
+small thymus,NA,immune,nonclinical,NA,NA,6
+small thyroid gland,NA,endocrine,nonclinical,NA,NA,3
+small uterus,NA,reproductive,nonclinical,NA,NA,10
+soft stool (finding),NA,gastrointestinal,nonclinical,NA,NA,15
+somnolece by age,incidental,nervous,clinical,1,NA,NA
+somnolence,incidental,nervous,clinical,35,37,NA
+somnolence (h),incidental,nervous,clinical,NA,NA,NA
+"somnolence (somnolence, fatigue, sedation)",incidental,nervous,clinical,NA,NA,NA
+somnolence and sedation,incidental,nervous,clinical,NA,1,NA
+somnolence by sex,incidental,nervous,clinical,1,NA,NA
+"somnolence, lethargy, sedation",incidental,nervous,clinical,NA,1,NA
+somnolence; et patients: asthenia,incidental,nervous,clinical,1,NA,NA
+somnolence or sedation,incidental,nervous,clinical,NA,NA,NA
+sorbitol dehydrogenase,NA,metabolic,nonclinical,NA,NA,6
+sore on skin,NA,dermal,nonclinical,NA,NA,4
+sparse hair,NA,dermal,nonclinical,NA,NA,2
+specific gravity urine decreased,NA,renal,nonclinical,NA,NA,55
+speech abnormalities,NA,nervous,clinical,NA,NA,NA
+speech disorder,NA,nervous,clinical,1,1,NA
+speech disorders/related speech problems,NA,nervous,clinical,NA,2,NA
+sperm retention,NA,reproductive,nonclinical,NA,NA,1
+spermatic granuloma,NA,reproductive,nonclinical,NA,NA,5
+spermatocele,NA,reproductive,nonclinical,NA,NA,1
+spermatogenesis maturation arrest,NA,reproductive,nonclinical,NA,NA,9
+spinal cord degeneration,NA,nervous,nonclinical,NA,NA,1
+spinal cord lesion,NA,nervous,nonclinical,NA,NA,1
+spleen atrophy,NA,immune,nonclinical,NA,NA,36
+spleen fibrosis,NA,immune,nonclinical,NA,NA,3
+spleen hyperplasia,NA,immune,nonclinical,NA,NA,9
+spleen hypoplasia,NA,immune,nonclinical,NA,NA,1
+spleen lymphoid follicle,NA,immune,nonclinical,NA,NA,3
+spleen pigment deposits,NA,immune,nonclinical,NA,NA,2
+spleen; inflammation,NA,immune,nonclinical,NA,NA,9
+splenic adhesion,NA,immune,nonclinical,NA,NA,2
+splenic necrosis,NA,immune,nonclinical,NA,NA,8
+sprains and strains,NA,musculoskeletal,clinical,NA,NA,NA
+squamous cell carcinoma of skin,NA,NA,clinical,NA,1,NA
+squamous papilloma,NA,no category,nonclinical,NA,NA,2
+squatting body position,NA,no category,nonclinical,NA,NA,1
+staggering gait,NA,nervous,nonclinical,NA,NA,6
+staining (finding),NA,no category,nonclinical,NA,NA,75
+staining around eyes,NA,no category,nonclinical,NA,NA,11
+staining around nose,NA,no category,nonclinical,NA,NA,16
+status epilepticus,NA,no category,clinical,NA,NA,NA
+steatorrhea,NA,no category,nonclinical,NA,NA,1
+sternum hypoplasia,NA,no category,nonclinical,NA,NA,1
+stomach cancer,NA,no category,nonclinical,NA,NA,2
+stomach discomfort,incidental,gastrointestinal,clinical,1,NA,NA
+stomach epithelial hyperplasia,NA,gastrointestinal,nonclinical,NA,NA,31
+stomach fibrosis,NA,gastrointestinal,nonclinical,NA,NA,1
+stomach glandular epithelium,NA,gastrointestinal,nonclinical,NA,NA,1
+stomach glandular region mucosa,NA,gastrointestinal,nonclinical,NA,NA,4
+stomach hemorrhage,NA,gastrointestinal,nonclinical,NA,NA,14
+stomach inflammation,NA,gastrointestinal,nonclinical,NA,NA,70
+stomach mineralization,NA,gastrointestinal,nonclinical,NA,NA,6
+stomach mucosa hyperplasia,NA,gastrointestinal,nonclinical,NA,NA,21
+stomach non-glandular epithelium hyperkeratosis,NA,gastrointestinal,nonclinical,NA,NA,9
+stomach pain,incidental,gastrointestinal,clinical,1,NA,NA
+stomach pain or irritation,incidental,gastrointestinal,clinical,1,NA,NA
+stomach weight increase,NA,gastrointestinal,nonclinical,NA,NA,7
+stomatitis,incidental,gastrointestinal,clinical,5,2,NA
+stomatitis (b),incidental,gastrointestinal,clinical,NA,NA,NA
+stomatitis (c),incidental,gastrointestinal,clinical,NA,NA,NA
+stomatitis ‡,incidental,gastrointestinal,clinical,NA,1,NA
+"stomatitis, ulceration",incidental,gastrointestinal,clinical,NA,NA,NA
+stomatitis a,incidental,gastrointestinal,clinical,NA,2,NA
+stooped posture,incidental,nervous,clinical,1,NA,NA
+storage in hepatocytes,NA,hepatic,nonclinical,NA,NA,17
+strabismus,NA,ocular,nonclinical,NA,NA,4
+straub tail,NA,no category,nonclinical,NA,NA,2
+stress,NA,nervous,clinical,NA,NA,NA
+stroke,NA,cardiovascular,clinical,NA,2,NA
+stupor,NA,no category,clinical,NA,NA,NA
+subcutaneous abscess,NA,no category,nonclinical,NA,NA,2
+submissive behavior,NA,nervous,nonclinical,NA,NA,15
+substance in cage,NA,no category,nonclinical,NA,NA,5
+"sudden unexpected death,somnolence",NA,no category,clinical,1,NA,NA
+suicidal thinking or behavior,NA,nervous,clinical,NA,1,NA
+sunken,NA,no category,nonclinical,NA,NA,2
+superficial phlebitis,NA,no category,clinical,NA,NA,NA
+supraventricular tachyarrhythmia,NA,cardiovascular,clinical,1,NA,NA
+sweating,NA,dermal,clinical,4,NA,NA
+sweating increased,NA,dermal,clinical,1,1,NA
+swelling of arm,NA,no category,nonclinical,NA,NA,1
+swelling of face & neck,NA,no category,nonclinical,NA,NA,9
+swelling of limb,NA,no category,nonclinical,NA,NA,6
+swelling of mandibular gingiva,NA,no category,nonclinical,NA,NA,1
+swollen,NA,no category,nonclinical,NA,NA,7
+swollen lip,NA,no category,nonclinical,NA,NA,2
+syncope,NA,cardiovascular,clinical,1,1,NA
+t lymphocytopenia,NA,immune,nonclinical,NA,NA,1
+t wave morphology changes,NA,cardiovascular,clinical,1,NA,NA
+tachycardia,NA,cardiovascular,clinical,7,1,NA
+tachycardia (a),NA,cardiovascular,clinical,NA,NA,NA
+tachypnea,NA,no category,nonclinical,NA,NA,4
+tail necrosis,NA,no category,nonclinical,NA,NA,6
+tail open abrasion,NA,no category,nonclinical,NA,NA,2
+tail wound,NA,no category,nonclinical,NA,NA,4
+taste alteration,incidental,nervous,clinical,1,NA,NA
+taste bud,NA,no category,nonclinical,NA,NA,1
+taste changes,incidental,nervous,clinical,1,NA,NA
+taste perversion,incidental,nervous,clinical,1,2,NA
+telangiectasia,NA,no category,nonclinical,NA,NA,2
+tension headache,incidental,nervous,clinical,NA,1,NA
+teratogenesis,NA,no category,clinical,1,NA,NA
+testes discoloration,NA,reproductive,nonclinical,NA,NA,8
+testicular atrophy,NA,reproductive,nonclinical,NA,NA,56
+testicular fibrosis,NA,reproductive,nonclinical,NA,NA,1
+testicular hyperplasia,NA,reproductive,nonclinical,NA,NA,7
+testicular mass,NA,reproductive,nonclinical,NA,NA,1
+testis degeneration,NA,reproductive,nonclinical,NA,NA,21
+testis hypoplasia,NA,reproductive,nonclinical,NA,NA,1
+therapeutic response unexpected,NA,no category,clinical,NA,NA,NA
+thick lip,NA,no category,nonclinical,NA,NA,1
+thick skin,NA,dermal,nonclinical,NA,NA,1
+thick ventricular wall,NA,cardiovascular,nonclinical,NA,NA,1
+thickened skin,NA,dermal,nonclinical,NA,NA,1
+thickened vaginal epithelium,NA,reproductive,nonclinical,NA,NA,1
+thickening of glomerular capillary wall,NA,renal,nonclinical,NA,NA,3
+thin body,NA,metabolic,nonclinical,NA,NA,43
+thin hair shaft,NA,dermal,nonclinical,NA,NA,10
+thin urinary bladder urothelium,NA,renal,nonclinical,NA,NA,1
+thinking abnormal,NA,nervous,clinical,1,NA,NA
+thinking abnormalities,NA,nervous,clinical,NA,NA,NA
+thirst,incidental,no category,clinical,2,1,NA
+thoracic cavity fluid,NA,no category,nonclinical,NA,NA,3
+throat/neck symptoms,NA,no category,clinical,NA,NA,NA
+thrombocytopenia,NA,hematologic,clinical,12,6,98
+thrombocytopenia,NA,hematologic,nonclinical,12,6,98
+thrombocytosis,NA,hematologic,clinical,1,NA,119
+thrombocytosis,NA,hematologic,nonclinical,1,NA,119
+thromboembolic events,NA,cardiovascular,clinical,1,NA,NA
+thrombosis,NA,hematologic,nonclinical,NA,NA,2
+thrombotic thrombocytopenia purpura,NA,hematologic,clinical,1,NA,NA
+thymitis,NA,immune,nonclinical,NA,NA,1
+thymus,NA,immune,nonclinical,NA,NA,1
+thymus atrophy,NA,immune,nonclinical,NA,NA,81
+thymus discoloration,NA,immune,nonclinical,NA,NA,9
+thymus fibrosis,NA,immune,nonclinical,NA,NA,1
+thymus hemorrhage,NA,immune,nonclinical,NA,NA,18
+thymus mass,NA,immune,nonclinical,NA,NA,1
+thymus weight to body weight ratio,NA,immune,nonclinical,NA,NA,11
+thymus; necrosis,NA,immune,nonclinical,NA,NA,17
+thyroid follicular adenoma,NA,endocrine,nonclinical,NA,NA,3
+thyroid function decreased,NA,endocrine,nonclinical,NA,NA,1
+thyroid gland cyst,NA,endocrine,nonclinical,NA,NA,3
+thyroid gland hyperplasia,NA,endocrine,nonclinical,NA,NA,60
+thyroid gland inflammation,NA,endocrine,nonclinical,NA,NA,1
+thyroid hormone change,NA,endocrine,clinical,1,NA,NA
+tinnitus,NA,otic,clinical,NA,NA,NA
+tip-toe gait,NA,no category,nonclinical,NA,NA,3
+tongue edema,incidental,no category,clinical,NA,NA,3
+tongue edema,NA,no category,nonclinical,NA,NA,3
+tooth disorder,NA,dermal,clinical,NA,NA,NA
+tooth erosion,NA,dermal,nonclinical,NA,NA,9
+tooth loss,NA,dermal,nonclinical,NA,NA,2
+tooth pain,incidental,no category,clinical,NA,NA,NA
+toothache,incidental,no category,clinical,NA,NA,NA
+torsade de pointes,NA,no category,clinical,NA,NA,NA
+total calcium,NA,metabolic,clinical,1,NA,NA
+total cholesterol,NA,metabolic,clinical,1,NA,NA
+total cholesterol >240,NA,metabolic,clinical,NA,NA,NA
+total cholesterol increase,NA,metabolic,clinical,1,NA,NA
+total herpes,incidental,no category,clinical,2,NA,NA
+total percentage of subjects with adverse reactions,NA,no category,clinical,NA,3,NA
+total protein,NA,hematologic,clinical,1,NA,NA
+trachea inflammation,NA,respiratory,nonclinical,NA,NA,8
+trauma,incidental,no category,clinical,1,NA,NA
+tremble or twitch,NA,nervous,nonclinical,NA,NA,4
+tremor,NA,nervous,clinical,9,12,NA
+tremors,NA,nervous,nonclinical,NA,NA,47
+triglyceride,NA,metabolic,clinical,1,NA,NA
+triglyceride elevation,NA,metabolic,clinical,1,NA,NA
+triglyceride increase,NA,metabolic,clinical,1,NA,NA
+triglycerides >16.9 mmol/l,NA,metabolic,clinical,NA,1,NA
+triglycerides >16.9 mmol/l (high),NA,metabolic,clinical,NA,NA,NA
+triglycerides increase,NA,metabolic,clinical,1,NA,NA
+triglycerides increased,NA,metabolic,clinical,NA,2,NA
+triglycerides�fasting >16.9 mmol/l,NA,metabolic,clinical,NA,NA,NA
+triglycerides fasting >16.9 mmol/l (high),NA,metabolic,clinical,NA,NA,NA
+trouble concentrating,NA,nervous,clinical,1,NA,NA
+tsh increase,NA,endocrine,clinical,1,NA,NA
+tubular,NA,no category,nonclinical,NA,NA,2
+tubular; nephrosis,NA,renal,nonclinical,NA,NA,4
+twitching,incidental,nervous,clinical,1,NA,NA
+ulcer of gallbladder,NA,no category,nonclinical,NA,NA,2
+ulcer of penis,NA,reproductive,nonclinical,NA,NA,3
+ulcer or gastritis,NA,gastrointestinal,clinical,1,NA,NA
+ulceration,NA,no category,nonclinical,NA,NA,7
+uncoordinated movements,NA,nervous,nonclinical,NA,NA,5
+undifferentiated (embryonal) sarcoma,NA,no category,nonclinical,NA,NA,1
+unpleasant taste,incidental,nervous,clinical,1,2,NA
+upper respiratory infection,incidental,respiratory,clinical,3,1,NA
+upper respiratory tract disorder,incidental,respiratory,clinical,NA,NA,NA
+upper respiratory tract infection,incidental,respiratory,clinical,6,6,NA
+upper respiratory tract infection (b),incidental,respiratory,clinical,NA,NA,NA
+"upper respiratory tract infection,",incidental,respiratory,clinical,1,NA,NA
+upper respiratory tract infections-pathogen class unspecified,incidental,respiratory,clinical,NA,NA,NA
+upper respiratory tract signs and symptoms,NA,respiratory,clinical,NA,NA,NA
+urea,NA,renal,nonclinical,NA,NA,1
+uremia,NA,renal,nonclinical,NA,NA,36
+ureter urothelium hyperplasia,NA,renal,nonclinical,NA,NA,3
+uri,NA,metabolic,clinical,1,NA,NA
+uric acid,NA,metabolic,clinical,1,NA,NA
+uric acid >0.7 mmol/l,NA,metabolic,clinical,NA,1,NA
+uric acid >0.7 mmol/l (high),NA,metabolic,clinical,NA,NA,NA
+uric acid increase,NA,metabolic,clinical,1,NA,NA
+uricosuria,NA,renal,clinical,1,NA,NA
+urinary bladder inflammation,NA,renal,nonclinical,NA,NA,14
+urinary hesitation,NA,renal,clinical,NA,NA,NA
+urinary retention,NA,renal,clinical,NA,NA,2
+urinary retention,NA,renal,nonclinical,NA,NA,2
+urinary tract infection,incidental,renal,clinical,4,4,NA
+urinary tract infection ¶¶,incidental,renal,clinical,NA,NA,NA
+urinary tract infection nos,incidental,renal,clinical,NA,1,NA
+urinary tract infectionc,incidental,renal,clinical,NA,NA,NA
+urinary tract infections (d),incidental,renal,clinical,NA,NA,NA
+urinary tract signs and symptoms,NA,renal,clinical,NA,NA,NA
+urine abnormal,NA,renal,clinical,NA,NA,NA
+urine bilirubin increased,NA,hepatic,nonclinical,NA,NA,5
+urine discoloration,NA,renal,nonclinical,NA,NA,15
+urine microscopy leukocytes present finding,NA,renal,nonclinical,NA,NA,5
+urine occult blood,NA,renal,nonclinical,NA,NA,11
+urine protein detection (lab test),NA,renal,nonclinical,NA,NA,1
+urine rbc increased,NA,renal,nonclinical,NA,NA,8
+urine specific gravity high,NA,renal,nonclinical,NA,NA,43
+urine specific gravity measurement,NA,renal,nonclinical,NA,NA,1
+urogenital abnormalities,NA,renal,nonclinical,NA,NA,5
+urolithiasis,NA,renal,nonclinical,NA,NA,3
+urticaria,NA,dermal,clinical,1,NA,NA
+uterine cancer adenocarcinoma metastatic,NA,reproductive,nonclinical,NA,NA,1
+uterine cervix inflammation,NA,reproductive,nonclinical,NA,NA,1
+uterine dilation and evacuation,NA,reproductive,nonclinical,NA,NA,1
+uterine hemorrhage,NA,reproductive,nonclinical,NA,NA,1
+uterus,NA,reproductive,nonclinical,NA,NA,1
+uterus atrophy,NA,reproductive,nonclinical,NA,NA,35
+uterus discoloration,NA,reproductive,nonclinical,NA,NA,3
+uterus hyperplasia,NA,reproductive,nonclinical,NA,NA,4
+uterus hypoplasia,NA,reproductive,nonclinical,NA,NA,2
+uterus inflammation,NA,reproductive,nonclinical,NA,NA,10
+uterus; distension,NA,reproductive,nonclinical,NA,NA,8
+uti,incidental,renal,clinical,3,NA,NA
+uveitis,NA,ocular,nonclinical,NA,NA,1
+vacuolated,NA,no category,nonclinical,NA,NA,133
+vacuolated lens,NA,ocular,nonclinical,NA,NA,4
+"vacuolation, acinar cell",NA,endocrine,nonclinical,NA,NA,1
+"vacuolation, cortical, increased, diffuse",NA,no category,nonclinical,NA,NA,15
+"vacuolation, epithelial",NA,no category,nonclinical,NA,NA,8
+"vacuolation, interstitial cell",NA,no category,nonclinical,NA,NA,2
+"vacuolation, islet cell",NA,endocrine,nonclinical,NA,NA,4
+vagina atrophy,NA,reproductive,nonclinical,NA,NA,12
+vagina cysts,NA,reproductive,nonclinical,NA,NA,2
+vaginal discharge,NA,reproductive,clinical,1,1,NA
+vaginal discharges,NA,reproductive,clinical,NA,1,NA
+vascular anomaly,NA,cardiovascular,nonclinical,NA,NA,1
+vascular disorders,NA,cardiovascular,clinical,NA,1,NA
+vascular disorders hot flushes,NA,cardiovascular,clinical,NA,NA,NA
+vascular hypertensive disorders,NA,cardiovascular,clinical,NA,NA,NA
+vasodilation,NA,cardiovascular,clinical,4,NA,1
+vasodilation,NA,cardiovascular,nonclinical,4,NA,1
+ventricular fibrillation,NA,cardiovascular,clinical,NA,NA,NA
+ventricular septal defect,NA,cardiovascular,nonclinical,NA,NA,1
+ventricular thrombosis (old),NA,cardiovascular,nonclinical,NA,NA,1
+vertigo,incidental,otic,clinical,1,8,NA
+vessel puncture site reaction,incidental,no category,clinical,2,NA,NA
+violent behavior,NA,nervous,nonclinical,NA,NA,1
+viral infection,incidental,no category,clinical,NA,1,NA
+visceral epithelial cell hyperplasia,NA,no category,nonclinical,NA,NA,5
+vision abnormal,NA,ocular,clinical,NA,4,NA
+vision abnormalities,NA,ocular,clinical,NA,NA,NA
+"vision abnormality,",NA,ocular,clinical,1,NA,NA
+vision blurred,NA,ocular,clinical,NA,9,NA
+visual disturbance,NA,ocular,clinical,2,NA,NA
+visual disturbances,NA,ocular,clinical,1,NA,NA
+vitreous body hemorrhage,NA,no category,nonclinical,NA,NA,3
+vocalization (finding),NA,nervous,nonclinical,NA,NA,3
+vomiting,NA,gastrointestinal,clinical,33,28,2
+vomiting (a),NA,gastrointestinal,clinical,NA,NA,NA
+vomitting,NA,gastrointestinal,clinical,2,NA,NA
+water consumption,NA,no category,nonclinical,NA,NA,2
+wbc,NA,hematologic,clinical,1,NA,NA
+wbc >25x10 9 /l,NA,hematologic,clinical,NA,NA,NA
+wbc decreased,NA,hematologic,clinical,NA,1,NA
+weakness,NA,nervous,nonclinical,NA,NA,23
+weight change,NA,metabolic,clinical,1,NA,NA
+weight decrease,NA,metabolic,clinical,18,12,NA
+weight increase,NA,metabolic,clinical,19,11,NA
+white blood cell count decreased,NA,hematologic,nonclinical,NA,NA,90
+white blood cell count increased (lab result),NA,hematologic,nonclinical,NA,NA,118
+white blood cell measurement,NA,hematologic,nonclinical,NA,NA,2
+white spots in retina,NA,ocular,nonclinical,NA,NA,1
+worsening of diabetes mellitus,NA,metabolic,clinical,NA,NA,NA
+xerophthalmia,NA,no category,clinical,NA,NA,NA
+yawning,incidental,respiratory,clinical,2,1,NA
+yellow coat color,NA,dermal,nonclinical,NA,NA,22
+yellow-orange colored skin,NA,dermal,nonclinical,NA,NA,9
