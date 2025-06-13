@@ -1,16 +1,10 @@
 # EPA Open Source Reference
 
-## Brief Project Description
+## Description
 
-This repository contains files for teams to reuse when working in and with EPA Open Source projects.
+This repository contains the input files and R scripts used in analyses for the following publication: Chelsea A Weitekamp, Katie Paul Friedman, Alison H Harrill, Scott Auerbach, Omari Bandele, Tara S Barton-Maclaren, Suzanne Fitzpatrick, Roman Mezencev, Michael Santillo, Ulla Simanainen, Doris Smith, Maurice Whelan, Russell S Thomas, Quantitative and qualitative concordance between clinical and nonclinical toxicity data, Toxicological Sciences, 2025;, kfaf071, https://doi.org/10.1093/toxsci/kfaf071.
 
 Also, this repository contains the link to [EPA's System Lifecycle Management Policy and Procedure](https://www.epa.gov/irmpoli8/policy-procedures-and-guidance-system-life-cycle-management-slcm) which lays out EPA's Open Source Software Policy and [EPA's Open Source Code Guidance](https://www.epa.gov/developers/open-source-software-and-epa-code-repository-requirements). 
-
-## For EPA Teams
-
-For EPA Teams, we have guidance on how EPA puts our open source software policies into practice on GitHub. Read [EPA's GitHub Guidance.](https://www.epa.gov/webguide/github-guidance)
-
-[EPA's Open Source Project repo](https://github.com/USEPA/open-source-projects) is for EPA teams to reuse file for properly maintaining their open source project. All projects must include a readme.md, license.md, contributing.md file and the disclaimer below.   
 
 ### Credits
 
