@@ -25,6 +25,23 @@ library(data.table)
 library(xlsx)
 library(bio3d)
 
+####Statistics----
+quant_concordance_stats <- function(x,y,dataset){
+  reg<-lm(log10(y)~log10(x))
+  r2 = summary(reg)$r.squared
+  df = summary(reg)$df[2]
+  rmse = sqrt(mean(reg$residuals^2))
+  r = cor(log10(y), log10(x), method='pearson',use="complete.obs")
+  rho= cor(log10(y), log10(x), method='spearman',use="complete.obs")
+  d<-(log10(y)-log10(x)) %>% na.omit()
+  rmsd = sqrt(mean(d^2))
+  absdif = mean(abs(log10(y)-log10(x)),na.rm=T)
+  mad = median(abs(log10(y)-log10(x)),na.rm=T)
+  signdif = mean(log10(x)-log10(y),na.rm=T)
+  cat(paste("\nn = ", df+2, "\absdif = ", absdif, "\nsigndif = ", signdif, "\nrmsd = ", rmsd, "\nrho = ", rho, "\nr = ", r, "\nrsq = ", r2, "\nrmse = ", rmse))
+}
+
+
 ###Read in data files----
 ####Nonclinical data (dataset #1)----
 #process IUCLID file
@@ -416,33 +433,33 @@ colnames(invitro.dist.subset)
 colnames(invitro.dist.subset) <- c('chemcas','AC50p5')
 
 #non-restrictive clearance
-aed.df=data.frame()
+# aed.df=data.frame()
+# 
+# for (casn in unique(invitro.dist.subset[,'chemcas']))
+# {
+#   aed_50<-(calc_mc_oral_equiv(conc=subset(invitro.dist.subset,chemcas==casn)[['AC50p5']], chem.cas=casn,which.quantile=c(0.5),restrictive.clearance = F,output.units='mgpkgpday',species="Human",model='pbtk',Caco2.options = list(Caco2.Pab.default = 1.6, Caco2.Fabs = TRUE, Caco2.Fgut = TRUE, overwrite.invivo = FALSE, keepit100 = FALSE)))
+#   aed_95<-(calc_mc_oral_equiv(conc=subset(invitro.dist.subset,chemcas==casn)[['AC50p5']], chem.cas=casn,which.quantile=c(0.95),restrictive.clearance = F,output.units='mgpkgpday',species="Human",model='pbtk',Caco2.options = list(Caco2.Pab.default = 1.6, Caco2.Fabs = TRUE, Caco2.Fgut = TRUE, overwrite.invivo = FALSE, keepit100 = FALSE)))
+#   aed.df<-rbind(aed.df,cbind(casn, aed_50,aed_95))
+# }
 
-for (casn in unique(invitro.dist.subset[,'chemcas']))
-{
-  aed_50<-(calc_mc_oral_equiv(conc=subset(invitro.dist.subset,chemcas==casn)[['AC50p5']], chem.cas=casn,which.quantile=c(0.5),restrictive.clearance = F,output.units='mgpkgpday',species="Human",model='pbtk',Caco2.options = list(Caco2.Pab.default = 1.6, Caco2.Fabs = TRUE, Caco2.Fgut = TRUE, overwrite.invivo = FALSE, keepit100 = FALSE)))
-  aed_95<-(calc_mc_oral_equiv(conc=subset(invitro.dist.subset,chemcas==casn)[['AC50p5']], chem.cas=casn,which.quantile=c(0.95),restrictive.clearance = F,output.units='mgpkgpday',species="Human",model='pbtk',Caco2.options = list(Caco2.Pab.default = 1.6, Caco2.Fabs = TRUE, Caco2.Fgut = TRUE, overwrite.invivo = FALSE, keepit100 = FALSE)))
-  aed.df<-rbind(aed.df,cbind(casn, aed_50,aed_95))
-}
-
-colnames(aed.df)<-c('casn','AED50','AED95')
-new<- merge(aed.df,tcdf,by=("casn"))
-names<-read.csv("batchdownload.csv") %>%
-  separate(TOXCAST_NUMBER_OF_ASSAYS.TOTAL, sep = "/", c("positive","tested"))
-colnames(names)<-c('drug','casn','positive','tested')
-btemp<- merge(new,names,by="casn") %>%
-  distinct(casn,.keep_all=T) %>%
-  mutate(drug=tolower(drug))%>%
-  separate(drug, sep = " ", into = c("drug"))
-btemp$positive=as.numeric(btemp$positive)
-btemp$tested=as.numeric(btemp$tested)
-btemp2<- btemp %>%
-  mutate(peract = (positive/tested)*100)%>%
-  mutate(drug=tolower(drug))%>%
-  mutate_at('AED50', as.numeric) %>%
-  mutate_at('AED95', as.numeric)%>%
-  mutate_at('tested',as.numeric)%>%
-  filter(tested>300)
+# colnames(aed.df)<-c('casn','AED50','AED95')
+# new<- merge(aed.df,tcdf,by=("casn"))
+# names<-read.csv("batchdownload.csv") %>%
+#   separate(TOXCAST_NUMBER_OF_ASSAYS.TOTAL, sep = "/", c("positive","tested"))
+# colnames(names)<-c('drug','casn','positive','tested')
+# btemp<- merge(new,names,by="casn") %>%
+#   distinct(casn,.keep_all=T) %>%
+#   mutate(drug=tolower(drug))%>%
+#   separate(drug, sep = " ", into = c("drug"))
+# btemp$positive=as.numeric(btemp$positive)
+# btemp$tested=as.numeric(btemp$tested)
+# btemp2<- btemp %>%
+#   mutate(peract = (positive/tested)*100)%>%
+#   mutate(drug=tolower(drug))%>%
+#   mutate_at('AED50', as.numeric) %>%
+#   mutate_at('AED95', as.numeric)%>%
+#   mutate_at('tested',as.numeric)%>%
+#   filter(tested>300)
 #write.csv(btemp2,"btemp2_20250103.csv")
 btemp2<-read.csv("btemp2_20250103.csv")
 
@@ -657,22 +674,6 @@ quant_concordance_stats(x = clincom_multi$humanmin.x, y =  clincom_multi$humanmi
 
 
 ###Protective quantitative concordance analysis----
-
-####Statistics----
-quant_concordance_stats <- function(x,y,dataset){
-  reg<-lm(log10(y)~log10(x))
-  r2 = summary(reg)$r.squared
-  df = summary(reg)$df[2]
-  rmse = sqrt(mean(reg$residuals^2))
-  r = cor(log10(y), log10(x), method='pearson',use="complete.obs")
-  rho= cor(log10(y), log10(x), method='spearman',use="complete.obs")
-  d<-(log10(y)-log10(x)) %>% na.omit()
-  rmsd = sqrt(mean(d^2))
-  absdif = mean(abs(log10(y)-log10(x)),na.rm=T)
-  mad = median(abs(log10(y)-log10(x)),na.rm=T)
-  signdif = mean(log10(x)-log10(y),na.rm=T)
-  cat(paste("\nn = ", df+2, "\absdif = ", absdif, "\nsigndif = ", signdif, "\nrmsd = ", rmsd, "\nrho = ", rho, "\nr = ", r, "\nrsq = ", r2, "\nrmse = ", rmse))
-}
 
 #clin set2 vs nonclin - all effects
 quant_concordance_stats(x = p5_hed_s_set1$rat, y =  p5_hed_s_set1$humanmin)
