@@ -1,0 +1,1715 @@
+"drug","effect","mg_kg_d"
+"abiraterone","hypokalemia",12.5
+"abiraterone","fluid retention/edema",12.5
+"abiraterone","urinary tract infection",12.5
+"adefovir","serum creatinine increase",0.375
+"adefovir","hypophosphatemia",0.375
+"adefovir","diarrhea",0.375
+"adefovir","anorexia",0.375
+"adefovir","pharyngitis",0.375
+"adefovir","headache",0.375
+"adefovir","abdominal pain",0.375
+"afatinib","diarrhea",0.625
+"afatinib","stomatitis",0.625
+"afatinib","rash",0.625
+"afatinib","dermatitis acneiform",0.625
+"afatinib","nail effects",0.625
+"afatinib","decreased appetite",0.625
+"afatinib","fatigue",0.625
+"afatinib","nausea",0.625
+"afatinib","vomiting",0.625
+"afatinib","epistaxis",0.625
+"afatinib","pruritis",0.625
+"afatinib","dry skin",0.625
+"afatinib","cough",0.625
+"afatinib","ocular effects",0.625
+"afatinib","palmar plantar erythrodysaethesia syndrome",0.625
+"afatinib","haemoglobin abnormality",0.625
+"afatinib","potassium abnormality",0.625
+"alfuzosin","dizziness",0.1875
+"aliskiren","diarrhea",3.75
+"aliskiren","blood pressure decrease",3.75
+"alogliptin","no effects meet criteria",NA
+"alosetron","constipation",0.0261096605744125
+"alosetron","gi discomfort",0.0261096605744125
+"alvimopan","no effects meet criteria",NA
+"ambrisentan","peripheral edema",0.0625
+"ambrisentan","nasal congestion",0.0625
+"ambrisentan","hemoglobin decrease",0.0625
+"amiloride","hyperkalemia",0.258732212160414
+"amiloride","blood pressure decrease",0.258732212160414
+"amoxapine","no effects meet criteria",7.5
+"apremilast","diarrhea",0.5
+"apremilast","gastrointestinal disorders",0.5
+"apremilast","nervous system disorders",0.5
+"aripiprazole","headache",0.375
+"aripiprazole","vomiting",0.375
+"aripiprazole","heart rate increase",0.375
+"aripiprazole","weight increase",0.375
+"aripiprazole","somnolence",0.375
+"aripiprazole","headache",0.375
+"aripiprazole","vomiting",0.375
+"aripiprazole","prolactin increase",0.375
+"aripiprazole","glucose increase",0.375
+"aripiprazole","heart rate increase",0.375
+"aripiprazole","weight increase",0.375
+"aripiprazole","somnolence",0.375
+"aripiprazole","constipation",0.375
+"aripiprazole","akathisia",0.375
+"aspirin","musculoskeletal pain",12.5
+"aspirin","chest pain",12.5
+"aspirin","fatigue",12.5
+"aspirin","dyspepsia/heartburn",12.5
+"aspirin","ulcer or gastritis",12.5
+"aspirin","stomach pain",12.5
+"astemizole","no effects meet criteria",NA
+"atorvastatin","ALT increase",0.125
+"avanafil","headache",0.775193798449612
+"azacitidine","neutropenia",3.75
+"azacitidine","nausea",3.75
+"azacitidine","vomiting",3.75
+"azacitidine","diarrhea",3.75
+"azacitidine","fatigue",3.75
+"azacitidine","constipation",3.75
+"azacitidine","pneumonia",3.75
+"azacitidine","abdominal pain",3.75
+"azacitidine","decreased appetite",3.75
+"azacitidine","pain in extremity",3.75
+"azacitidine","leukopenia",3.75
+"azacitidine","anemia",3.75
+"azacitidine","thrombocytopenia",3.75
+"azilsartan","creatinine increase",0.445732114998886
+"azilsartan","potassium increase",0.445732114998886
+"azilsartan","uric acid increase",0.445732114998886
+"balsalazide","anemia",84.375
+"balsalazide","diarrhea",84.375
+"balsalazide","pharyngolaryngeal pain",84.375
+"balsalazide","uti",84.375
+"balsalazide","arthralgia",84.375
+"balsalazide","insomnia",84.375
+"balsalazide","pain",84.375
+"balsalazide","abdominal pain",84.375
+"balsalazide","colitis ulcerative",84.375
+"balsalazide","nausea",84.375
+"balsalazide","vomiting",84.375
+"balsalazide","diarrhea",84.375
+"balsalazide","flatulence",84.375
+"balsalazide","abdominal distension",84.375
+"balsalazide","fatigue",84.375
+"balsalazide","pyrexia",84.375
+"balsalazide","nasopharyngitis",84.375
+"balsalazide","urinary tract infection",84.375
+"balsalazide","influenza",84.375
+"balsalazide","upper respiratory tract infection",84.375
+"balsalazide","sinusitis",84.375
+"balsalazide","back pain",84.375
+"balsalazide","arthralgia",84.375
+"balsalazide","muscle spasms",84.375
+"balsalazide","pain in extremity",84.375
+"balsalazide","headache",84.375
+"balsalazide","insomnia",84.375
+"balsalazide","pharyngolaryngeal pain",84.375
+"balsalazide","cough",84.375
+"balsalazide","rash",84.375
+"baricitinib","hypercholesterolemia",0.0280112044817927
+"baricitinib","infection",0.0280112044817927
+"baricitinib","thrombocytosis",0.0280112044817927
+"baricitinib","low neutrophils",0.0280112044817927
+"baricitinib","hemoglobin decrease",0.0280112044817927
+"baricitinib","increased creatine phosphokinase",0.0280112044817927
+"berotralstat","nasopharyngitis",1.375
+"berotralstat","headache",1.375
+"berotralstat","diarrhoea",1.375
+"berotralstat","abdominal pain",1.375
+"berotralstat","upper respiratory tract infection",1.375
+"berotralstat","vomiting",1.375
+"berotralstat","urinary tract infection",1.375
+"berotralstat","gastroesophageal reflux disease",1.375
+"bosentan","abdominal liver function test lft",6.39386189258312
+"bosentan","AST increase",6.39386189258312
+"bosentan","peripheral oedema",6.39386189258312
+"bosentan","hemoglobin decrease",6.39386189258312
+"bosentan","anemia",6.39386189258312
+"bosentan","flushing",6.39386189258312
+"bosentan","ALT increase",6.39386189258312
+"brexpiprazole","akathisia",0.0554785020804438
+"brivaracetam","somnolence",0.0625
+"brivaracetam","dizziness",0.0625
+"brivaracetam","influenza",0.0625
+"brivaracetam","headache",0.625
+"brivaracetam","somnolence",1.25
+"brivaracetam","fatigue",2.5
+"brivaracetam","somnolence",2.5
+"brivaracetam","dizziness",2.5
+"bromocriptine","nausea",0.044
+"bromocriptine","dizziness",0.044
+"bromocriptine","fatigue",0.044
+"bromocriptine","blood pressure change",0.044
+"bromocriptine","vomiting",0.044
+"cabergoline","nausea",0.003625
+"cabergoline","constipation",0.003625
+"cabergoline","dizziness",0.003625
+"cabergoline","fatigue",0.003625
+"candesartan","no effects meet criteria",NA
+"captopril","skin rash",5.625
+"captopril","taste alteration",5.625
+"carbamazepine","increase in albumin",8.93997445721584
+"carbamazepine","alkaline phosphatase",8.93997445721584
+"carbamazepine","cholesterol",8.93997445721584
+"carbamazepine","hdl",8.93997445721584
+"carbamazepine","bilirubin increase",8.93997445721584
+"carbamazepine","total calcium",8.93997445721584
+"carbamazepine","total protein",8.93997445721584
+"carbamazepine","uric acid",8.93997445721584
+"carbamazepine","decrease in rbc",8.93997445721584
+"carbamazepine","wbc",8.93997445721584
+"carbamazepine","hematocrit",8.93997445721584
+"carbamazepine","hemoglobin",8.93997445721584
+"carbamazepine","mch",8.93997445721584
+"carbamazepine","reticulocytes",8.93997445721584
+"carbamazepine","dizziness",8.93997445721584
+"carbamazepine","ataxia",8.93997445721584
+"carbamazepine","nystagmus",8.93997445721584
+"carbamazepine","asthenia",8.93997445721584
+"carbamazepine","somnolence",8.93997445721584
+"carbamazepine","diplopia",8.93997445721584
+"carbamazepine"," speech disorder",8.93997445721584
+"carbamazepine","amblyopia",8.93997445721584
+"carbamazepine","nausea",8.93997445721584
+"carbamazepine","vomiting",8.93997445721584
+"carbamazepine","dyspepsia",8.93997445721584
+"carbamazepine","constipation",8.93997445721584
+"carbamazepine","dry mouth",8.93997445721584
+"carbamazepine","pruritus",8.93997445721584
+"carbamazepine","rash",8.93997445721584
+"carbamazepine","tremor",8.93997445721584
+"carbamazepine","vertigo",8.93997445721584
+"carbamazepine","cognitive abnormality",8.93997445721584
+"carbamazepine","paresthesia",8.93997445721584
+"carbamazepine","twitching",8.93997445721584
+"cariprazine","akathisia",0.01953125
+"cariprazine","extrapyramidal disorder",0.01953125
+"cariprazine","creatine phosphokinase increase",0.01953125
+"cariprazine","weight increase",0.01953125
+"cariprazine","increased insulin",0.01953125
+"cariprazine","ALT increase",0.01953125
+"cariprazine","vomiting",0.01953125
+"cariprazine","increased fasting glucose",0.01953125
+"celecoxib","no effects meet criteria",NA
+"cerivastatin","no effects meet criteria",NA
+"cevimeline","nausea",1.125
+"cevimeline","sweating increased",1.125
+"cinacalcet","nausea",1.0625
+"cinacalcet","vomiting",1.0625
+"cinacalcet","hypotension",1.0625
+"cinacalcet","hypocalcemia",1.0625
+"citalopram","somnolence",0.135685210312076
+"citalopram","nausea",0.135685210312076
+"citalopram","dry mouth",0.135685210312076
+"citalopram","sinusitis",0.135685210312076
+"citalopram","dry mouth",0.271370420624152
+"citalopram","nausea",0.271370420624152
+"citalopram","abdominal pain",0.271370420624152
+"citalopram","anorexia",0.271370420624152
+"citalopram","dizziness",0.271370420624152
+"citalopram","somnolence",0.271370420624152
+"citalopram","tremor",0.271370420624152
+"citalopram","increased sweating",0.271370420624152
+"citalopram","dry mouth",0.542740841248304
+"citalopram","nausea",0.542740841248304
+"citalopram","anorexia",0.542740841248304
+"citalopram","impotence",0.542740841248304
+"citalopram","insomnia",0.542740841248304
+"citalopram","somnolence",0.542740841248304
+"citalopram","yawning",0.542740841248304
+"citalopram","tremor",0.542740841248304
+"citalopram","increased sweating",0.542740841248304
+"citalopram","diarrhea",0.542740841248304
+"citalopram","libido decreased",0.542740841248304
+"citalopram","headache",0.542740841248304
+"citalopram","dizziness",0.542740841248304
+"citalopram","sinusitis",0.542740841248304
+"citalopram","decreased pulse rate",0.542740841248304
+"citalopram","decreased systolic blood pressure",0.542740841248304
+"citalopram","weight decrease",0.542740841248304
+"citalopram","heart rate",0.542740841248304
+"citalopram","fatigue",0.814111261872456
+"citalopram","dry mouth",0.814111261872456
+"citalopram","nausea",0.814111261872456
+"citalopram","anorexia",0.814111261872456
+"citalopram","impotence",0.814111261872456
+"citalopram","insomnia",0.814111261872456
+"citalopram","somnolence",0.814111261872456
+"citalopram","yawning",0.814111261872456
+"citalopram","tremor",0.814111261872456
+"citalopram","increased sweating",0.814111261872456
+"citalopram","diarrhea",0.814111261872456
+"cladribine","lymphopenia",3.5
+"cladribine","decrease wbc counts",3.5
+"cladribine","decrease neutrophils",3.5
+"cladribine","decrease lymphocytes",3.5
+"clobazam","no effects meet criteria",NA
+"clomipramine","tachycardia",3.125
+"clomipramine","weight increase",3.125
+"clomipramine","blood pressure decrease",3.125
+"clomipramine","pulse increase",3.125
+"clomipramine","ALT increase",3.125
+"clomipramine","somnolence",3.125
+"clomipramine","tremor",3.125
+"clomipramine","dizziness",3.125
+"clomipramine","libido change",3.125
+"clomipramine","nervousness",3.125
+"clomipramine","increased sweating",3.125
+"clomipramine","dry mouth",3.125
+"clomipramine","constipation",3.125
+"clomipramine","nausea",3.125
+"clomipramine","fatigue",3.125
+"clomipramine","ejaculation failure",3.125
+"clomipramine","impotence",3.125
+"colchicine","nausea",0.01875
+"colchicine","vomiting",0.01875
+"colchicine","anorexia",0.01875
+"colchicine","diarrhea",0.01875
+"colchicine","AST increase",0.01875
+"colchicine","ALT increase",0.01875
+"colchicine","diarrhea",0.0075
+"colesevelam","dyspepsia/constipation",28.3600493218249
+"colesevelam","increase alkaline phosphatase",28.3600493218249
+"colesevelam","decrease in fasting glucose",28.3600493218249
+"colesevelam","dyspepsia/constipation",34.443168771527
+"colesevelam","ALT increase",34.443168771527
+"colesevelam","alkaline phosphatase increase",34.443168771527
+"colesevelam","dyspepsia/constipation",44.1347270615563
+"colesevelam","ALT increase",44.1347270615563
+"colesevelam"," alkaline phosphatase increase",44.1347270615563
+"colesevelam","decrease in fasting glucose",44.1347270615563
+"conivaptan","no effects meet criteria",NA
+"crofelemer","no effects meet criteria",NA
+"cyclosporine","nausea",4
+"cyclosporine","abdominal pain",4
+"cyclosporine","dyspepsia",4
+"cyclosporine","headache",4
+"cyclosporine","tremor",4
+"cyclosporine","paresthesia",4
+"cyclosporine","hypertrichosis",4
+"cyclosporine","hypertension",4
+"cyclosporine","upper respiratory tract infection",4
+"cyclosporine","renal insufficiency",4
+"cyclosporine","creatinine increase",4
+"danazol","weight increase",2.5
+"danazol","nausea",2.5
+"danazol","acne",2.5
+"danazol","amenorrhea",2.5
+"danazol","weight increase",5
+"danazol","nausea",5
+"danazol","acne",5
+"danazol","breast decrease",5
+"danazol","appetite increase",5
+"danazol","bloating",5
+"danazol","hot flashes",5
+"danazol","breast softer",5
+"darifenacin","dry mouth",0.09375
+"darifenacin","constipation",0.09375
+"deferasirox","pyrexia",5
+"deferasirox","anemia",5
+"deferasirox","abdominal pain upper",5
+"deferasirox","influenze",5
+"deferasirox","pharyngitis",5
+"deferasirox","creatinine",5
+"deferasirox","abdominal pain upper",10
+"deferasirox","abdominal pain",10
+"deferasirox","anemia",10
+"deferasirox","gastroenteritis",10
+"deferasirox","influenza",10
+"deferasirox","oropharyngeal pain",10
+"deferasirox","rash",10
+"deferasirox","rhinitis blood creatinine",10
+"deferasirox","creatinine clearance",10
+"deferasirox","headache",10
+"deferasirox","diarrhea",10
+"deferasirox","rash,",10
+"desloratadine","no effects meet criteria",NA
+"desvenlafaxine","nausea",0.625
+"desvenlafaxine","dry mouth",0.625
+"desvenlafaxine","insomnia",0.625
+"desvenlafaxine","dizziness",0.625
+"desvenlafaxine","sweating",0.625
+"desvenlafaxine","proteinuria",0.625
+"desvenlafaxine","nausea",1.25
+"desvenlafaxine","dry mouth",1.25
+"desvenlafaxine","insomnia",1.25
+"desvenlafaxine","sweating",1.25
+"desvenlafaxine","anorexia",1.25
+"desvenlafaxine","headache",1.25
+"desvenlafaxine","asthenia",1.25
+"desvenlafaxine","anxiety",1.25
+"desvenlafaxine","impotence",1.25
+"desvenlafaxine","proteinuria",1.25
+"desvenlafaxine","increased blood pressure",1.25
+"desvenlafaxine","hypertension",5
+"desvenlafaxine","tachycardia",5
+"desvenlafaxine","weight decrease",5
+"desvenlafaxine","increase in total cholesterol",5
+"desvenlafaxine","increase ldl cholesterol",5
+"desvenlafaxine","increase triglycerides",5
+"desvenlafaxine","nausea",5
+"desvenlafaxine","dry mouth",5
+"desvenlafaxine","insomnia",5
+"desvenlafaxine","sweating",5
+"desvenlafaxine","somnolence",5
+"desvenlafaxine","dizziness",5
+"desvenlafaxine","anorgasmia",5
+"desvenlafaxine","mydriasis",5
+"desvenlafaxine","proteinuria",5
+"deutetrabenazine","somnolence",0.647423792824386
+"deutetrabenazine","diarrhea",0.647423792824386
+"deutetrabenazine","fatigue",0.647423792824386
+"deutetrabenazine","urinary tract infection",0.647423792824386
+"diclofenac","no effects meet criteria",3.75
+"digoxin","diarrhea",0.002625
+"dimethyl","flushing",6
+"dimethyl","abdominal pain",6
+"dimethyl","rash",6
+"dimethyl","hot flush",6
+"dimethyl","lymphopenia",6
+"dimethyl","increase in eosinophil count",6
+"dimethyl","serum bicarbonate increase",6
+"dimethyl","serum chloride decrease",6
+"dimethyl","decrease in triglycerides",6
+"dimethyl","increase in parathyroid hormone",6
+"dimethyl","decrease vitamin d",6
+"dimethyl","flushing",9
+"dimethyl","diarrhea",9
+"dimethyl","nausea",9
+"dimethyl","hot flush",9
+"dimethyl","lymphopenia",9
+"dimethyl","serum bicarbonate increase",9
+"dimethyl","serum chloride decrease",9
+"dimethyl","decrease in triglycerides",9
+"dimethyl","increase in parathyroid hormone",9
+"dimethyl","decrease vitamin d",9
+"dofetilide","no effects meet criteria",0.00625
+"dronedarone","increase in creatine",10
+"dronedarone","decrease in blood pressure",10
+"dronedarone","heart rate decrease",10
+"dronedarone","prolonged pr interval",10
+"dronedarone","change in qt interval",10
+"dronedarone","gastrointestinal symptoms",10
+"duloxetine","nausea",0.25
+"duloxetine","diarrhea",0.25
+"duloxetine","weight decrease",0.25
+"duloxetine","blood pressure change",0.25
+"duloxetine","ALT increase",0.25
+"duloxetine","AST increase",0.25
+"duloxetine","nausea",0.75
+"duloxetine","somnolence",0.75
+"duloxetine","dizziness",0.75
+"duloxetine","constipation",0.75
+"duloxetine","diarrhea",0.75
+"duloxetine","fatigue",0.75
+"duloxetine","decreased appetite + anorexia",0.75
+"duloxetine","weight decrease",0.75
+"duloxetine","blood pressure change",0.75
+"duloxetine","ALT increase",0.75
+"duloxetine","AST increase",0.75
+"duloxetine","nausea",1.5
+"duloxetine","somnolence",1.5
+"duloxetine","dizziness",1.5
+"duloxetine","insomnia",1.5
+"duloxetine","constipation",1.5
+"duloxetine","fatigue",1.5
+"duloxetine","dry mouth",1.5
+"duloxetine","hyperhidrosis",1.5
+"duloxetine","asthenia",1.5
+"duloxetine","decreased appetite + anorexia",1.5
+"duloxetine","decreased appetite",1.5
+"duloxetine","weight decrease",1.5
+"duloxetine","blood pressure change",1.5
+"duloxetine","ALT increase",1.5
+"duloxetine","AST increase",1.5
+"dutasteride","removed as table 8 shows percent differences of less than 5%",NA
+"eliglustat","nasopharyngitis",2.91545189504373
+"eliglustat","sinusitis",2.91545189504373
+"eliglustat","flatulence",2.91545189504373
+"eliglustat","nausea",2.91545189504373
+"eliglustat","headache",2.91545189504373
+"eliglustat","migraine",2.91545189504373
+"eliglustat","arthralgia",2.91545189504373
+"eliglustat","pyrexia",2.91545189504373
+"eliglustat","oropharyngeal pain",2.91545189504373
+"eliglustat","nasal obstruction,",2.91545189504373
+"eltrombopag","grade 1 alkaline phosphatase",0.625
+"eltrombopag","ALT increase",0.625
+"eltrombopag","AST increase",0.625
+"eltrombopag","bilirubin increase",0.625
+"eltrombopag","bilirubin increase",0.625
+"eltrombopag","ascites",0.625
+"eltrombopag","glucose increase",0.625
+"eltrombopag","hemoglobin decrease",0.625
+"eltrombopag","creatinine above threshold",0.625
+"eltrombopag","blood urea nitrogen change",0.625
+"empagliflozin","no effects meet criteria",NA
+"enalapril","anemia",0.075187969924812
+"enalapril","hyperkalemia",0.075187969924812
+"enalapril","serum creatinine increase",0.075187969924812
+"enalapril","hemoglobin",0.075187969924812
+"enalapril","change in potassium",0.075187969924812
+"enalapril","hematocrit decrease",0.075187969924812
+"enalapril","hypotension",0.075187969924812
+"enzalutamide","hot flushes",2
+"enzalutamide","headache",2
+"enzalutamide","hypertension",2
+"enzalutamide","falls",2
+"enzalutamide","non-pathologic fracture",2
+"enzalutamide","memory impairment",2
+"enzalutamide","pruritis/dry skin; table 46: neutrapenia",2
+"enzalutamide","AST increase",2
+"enzalutamide","ALT increase",2
+"enzalutamide","hyperglycemia",2
+"enzalutamide","AST increase",2
+"eplerenone","hyperkalemia",0.54375
+"erlotinib","diarrhea",1.875
+"erlotinib","nausea",1.875
+"erlotinib","vomiting",1.875
+"erlotinib","mucosal inflammation",1.875
+"erlotinib","cough",1.875
+"erlotinib","dyspnoea",1.875
+"erlotinib","rash",1.875
+"erlotinib","dry skin",1.875
+"erlotinib","pruritis",1.875
+"erlotinib","back pain",1.875
+"erlotinib","acne",1.875
+"erlotinib","skin fissures",1.875
+"erlotinib","anorexia",1.875
+"eszopiclone","somnolence",0.0375
+"eszopiclone","infection",0.0375
+"eszopiclone","dizziness",0.0375
+"eszopiclone","unpleasant taste",0.0375
+"eszopiclone","pharyngitis",0.0375
+"eszopiclone","back pain",0.0375
+"eszopiclone","dry mouth",0.0375
+"everolimus","anemia",0.125
+"everolimus","abdominal pain",0.125
+"everolimus","dyspnea",0.125
+"everolimus","stomatitis",0.125
+"everolimus","hyperglycemia",0.125
+"everolimus","pneumonitis",0.125
+"everolimus","asthenia",0.125
+"everolimus","hypercholesterolemia",0.125
+"everolimus","vomiting",0.125
+"everolimus","lymphopenia",0.125
+"everolimus","hematopoiesis decreased / cytopenias",0.125
+"everolimus","rash",0.125
+"everolimus","renal events",0.125
+"everolimus","pulmonary events",0.125
+"everolimus","thrombocytopenia",0.125
+"everolimus","hypertrigylceridemia",0.125
+"everolimus","blood creatinine increase",0.125
+"everolimus","pyrexia",0.125
+"everolimus","cough",0.125
+"everolimus","mucosal inflammation",0.125
+"everolimus","edema peripheral",0.125
+"everolimus","back pain",0.125
+"everolimus","hyperglycemia,",0.125
+"ezetimibe","no effects meet criteria",NA
+"famotidine","no effects meet criteria",NA
+"febuxostat","ALT increase",1
+"febuxostat","AST increase",1
+"febuxostat","blood urea nitrogen change",1
+"fedratinib","anemia",5
+"fedratinib","thrombocytopenia",5
+"fedratinib","fatigue",5
+"fedratinib","diarrhea",5
+"fedratinib","constipation",5
+"fedratinib","peripheral edema",5
+"fedratinib","asthenia",5
+"fedratinib","uti",5
+"fedratinib","ALT increase",5
+"fedratinib","weight increase",5
+"fedratinib","AST increase",5
+"fedratinib","muscle spasms",5
+"fedratinib","bone pain",5
+"fedratinib","pain in extremity",5
+"fedratinib","cough",5
+"fedratinib","dyspnea",5
+"fedratinib","dizziness",5
+"fedratinib","headache",5
+"fedratinib","anemia",6.25
+"fedratinib","thrombocytopenia",6.25
+"fedratinib","neutropenia",6.25
+"fedratinib","vomiting",6.25
+"fedratinib","fatigue",6.25
+"fedratinib","lipase increase",6.25
+"fedratinib","diarrhea",6.25
+"fedratinib","nausea",6.25
+"fedratinib","constipation",6.25
+"fedratinib","asthenia",6.25
+"fedratinib","uti",6.25
+"fedratinib","ALT increase",6.25
+"fedratinib","weight decrease",6.25
+"fedratinib","AST increase",6.25
+"fedratinib","muscle spasms",6.25
+"fedratinib","bone pain",6.25
+"fedratinib","cough",6.25
+"fedratinib","dyspnea",6.25
+"fedratinib","hyperkalemia",6.25
+"fedratinib","dizziness",6.25
+"fedratinib","headache",6.25
+"fedratinib","neutrophil decrease",6.25
+"felbamate","weight decrease",45
+"felbamate","fatigue",45
+"felbamate","headache",45
+"felbamate","somnolence",45
+"felbamate","insomnia",45
+"felbamate","nausea",45
+"felbamate","anorexia",45
+"felbamate","vomiting",45
+"felbamate","dyspepsia",45
+"felbamate","abdominal pain",45
+"felbamate","constipation",45
+"felbamate","depression",45
+"felbamate","diplopia",45
+"felbamate","taste perversion",45
+"felbamate","dizziness",45
+"felbamate","vision abnormality,",45
+"fenofibrate","ALT increase",3.75
+"fenofibrate","AST increase",3.75
+"fenofibrate","blood urea nitrogen change",3.75
+"fenofibrate","creatinine increase",3.75
+"fenofibrate","hemoglobin decrease",3.75
+"fenofibrate","decrease uric acid",3.75
+"fenofibrate","anemia",3.75
+"fenofibrate","leucopenia",3.75
+"fenofibrate","eosinophilia",3.75
+"fenofibrate","thrombocytopenia",3.75
+"fenofibrate"," increased creatinine phosphokinase",3.75
+"ferric","flatulence",0.75
+"ferric","abdominal pain",0.75
+"ferric","constipation",0.75
+"fesoterodine","dry mouth",0.05
+"fesoterodine","dry mouth",0.15
+"fesoterodine","headache",0.15
+"fesoterodine","constipation",0.15
+"fesoterodine","dry throat",0.15
+"fexofenadine","cardiac terms",3
+"finasteride","libido decrease,impotence",0.0125
+"finasteride","ejaculation disorder",0.0125
+"fingolimod","decrease wbc",0.00625
+"fingolimod","decrease lymphocyte",0.00625
+"fingolimod","ALT increase",0.00625
+"fingolimod","AST increase",0.00625
+"fingolimod","blood pressure change",0.00625
+"fingolimod","ALT increase",0.015625
+"fingolimod","decrease wbc",0.015625
+"fingolimod","decrease lymphocyte",0.015625
+"fingolimod","AST increase",0.015625
+"fingolimod","blood pressure change",0.015625
+"fingolimod","diarrhea",0.0625
+"fingolimod","dyspnea",0.0625
+"fingolimod","pyrexia",0.0625
+"fingolimod","leukopenia",0.0625
+"fingolimod","ALT increase",0.0625
+"fingolimod","AST increase",0.0625
+"fingolimod","blood pressure change",0.0625
+"fluoxetine","weight change",1
+"fluoxetine","anorexia",1
+"fluoxetine","nausea",1
+"fluoxetine","diarrhea",1
+"fluoxetine","anxiety",1
+"fluoxetine","nervousness",1
+"fluoxetine","insomnia",1
+"fluoxetine","tremor",1
+"fluoxetine","sweating",1
+"fluoxetine","dizziness and drowsiness",1
+"galantamine","no effects meet criteria",NA
+"hydrochlorothiazide","no effects meet criteria",NA
+"hydroxyurea","severe myelotoxicity",2
+"hydroxyurea","neutropenia",2
+"hydroxyurea","low reticulocyte count",2
+"ibandronate","no effects meet criteria",NA
+"ibuprofen","no effects meet criteria",NA
+"iloprost","vasodilation",0.000125
+"iloprost","headache",0.000125
+"iloprost","nausea",0.000125
+"indomethacin","high diastolic blood pressure",0.810810810810811
+"indomethacin","reduced heart rate",0.810810810810811
+"indomethacin","reduced oral body temperature",0.810810810810811
+"indomethacin","hypertension",1.08108108108108
+"indomethacin","high systolic blood pressure",1.08108108108108
+"indomethacin","high diastolic blood pressure",1.08108108108108
+"indomethacin","reduced heart rate",1.08108108108108
+"indomethacin","reduced oral body temperature",1.08108108108108
+"indomethacin","hypertension",1.62162162162162
+"indomethacin","high systolic blood pressure",1.62162162162162
+"indomethacin","reduced heart rate",1.62162162162162
+"indomethacin","reduced oral body temperature",1.62162162162162
+"irbesartan","dizziness",3.75
+"irbesartan","increased serum potassium",3.75
+"isavuconazonium","diarrhea",0.5
+"isavuconazonium","headache",0.5
+"isavuconazonium","fatigue",0.5
+"isavuconazonium","nasopharyngitis",0.5
+"isavuconazonium","rhinitis",0.5
+"isavuconazonium","cough",0.5
+"isavuconazonium","pain in extremity",0.5
+"isavuconazonium","back pain",0.5
+"isavuconazonium","vessel puncture site reaction",0.5
+"isavuconazonium","haematoma",0.5
+"isavuconazonium","dizziness",0.625
+"isavuconazonium","abdominal pain",0.625
+"isavuconazonium","nasopharyngitis",0.625
+"isavuconazonium","rhinitis",0.625
+"isavuconazonium","vessel puncture site reaction",0.625
+"isavuconazonium","headache",1
+"isavuconazonium","fatigue",1
+"isavuconazonium","nasopharyngitis",1
+"isavuconazonium","rhinitis",1
+"isavuconazonium","gingivitis",1
+"isavuconazonium","puncture site pain",1
+"isavuconazonium","headache",1.25
+"isavuconazonium","nausea",1.25
+"isavuconazonium","diarrhea",1.25
+"isavuconazonium","fatigue",1.25
+"isavuconazonium","oropharyngeal pain",1.25
+"isavuconazonium","catheter site pain",1.875
+"isavuconazonium","catheter site haematoma",1.875
+"isavuconazonium","diarrhea",2.5
+"isavuconazonium","feeling hot",2.5
+"isavuconazonium","headache",7.5
+"isavuconazonium","nausea",7.5
+"isavuconazonium","diarrhea",7.5
+"isavuconazonium","dizziness",7.5
+"isavuconazonium","hot flush",7.5
+"isavuconazonium","vomiting",7.5
+"isavuconazonium","paraesthesia",7.5
+"isavuconazonium","dry mouth",7.5
+"isavuconazonium","dysgeusia",7.5
+"isavuconazonium","lip dry",7.5
+"isavuconazonium","hypoaesthesia oral",7.5
+"isavuconazonium","anxiety",7.5
+"isavuconazonium","arthralgia",7.5
+"isavuconazonium","disturbance in attention",7.5
+"isavuconazonium","palpitations",7.5
+"isavuconazonium","photophobia",7.5
+"isavuconazonium","poisoning",7.5
+"isavuconazonium","restlessness",7.5
+"isavuconazonium","tachycardia",7.5
+"isavuconazonium","qt shortening",7.5
+"ivabradine","bradycardia",0.1875
+"ivabradine","arrhythmia",0.1875
+"lamivudine","ALT increase",1.25
+"lamivudine","malaise & fatigue",1.25
+"lamivudine","nasal signs & symptoms",1.25
+"lamivudine","sexual function disorders",1.25
+"lamivudine","abnormal lfts",1.25
+"lamivudine","hypertension",1.25
+"lamivudine","gi signs and symptoms",1.25
+"lamivudine","cough",1.25
+"lamivudine","arthralgia & articular rheumatism",1.25
+"lansoprazole","no effects meet criteria",NA
+"lanthanum","nausea",10.2459016393443
+"lanthanum","headache",10.2459016393443
+"leflunomide","diarrhea",0.25
+"leflunomide","lft abnormal",0.25
+"leflunomide","rash",0.25
+"leflunomide","alopecia",0.25
+"leflunomide","ALT increase",0.25
+"leflunomide","AST increase",0.25
+"leflunomide","alkaline phosphase increase",0.25
+"leflunomide","uricosuria",0.25
+"leflunomide","hypophosphatemia",0.25
+"leflunomide","hypertension",0.25
+"lenalidomide","neutropenia",0.0625
+"lenalidomide","thrombocytopenia",0.0625
+"lenalidomide","leukopenia",0.0625
+"lenalidomide","diarrhea",0.0625
+"lenalidomide","nausea",0.0625
+"lenalidomide","constipation",0.0625
+"lenalidomide","pruritis",0.0625
+"lenalidomide","rash",0.0625
+"lenalidomide","dry skin",0.0625
+"lenalidomide","fatigue",0.0625
+"lenalidomide","edema peripheral",0.0625
+"lenalidomide","pyrexia",0.0625
+"lenalidomide","muscle spasms",0.0625
+"lenalidomide","arthralgia",0.0625
+"lenalidomide","headache",0.0625
+"lenalidomide","paraesthesia",0.0625
+"lenalidomide","ALT increase",0.0625
+"lenvatinib","diarrhea",0.221009549795362
+"lenvatinib","hypertension",0.221009549795362
+"lenvatinib","decreased appetite",0.221009549795362
+"lenvatinib","proteinuria",0.221009549795362
+"lenvatinib","weight decrease",0.221009549795362
+"lenvatinib","nausea",0.221009549795362
+"lenvatinib","palmar-plantar erythrodysesthesia syndrome",0.221009549795362
+"lenvatinib","asthenia",0.221009549795362
+"lenvatinib","fatigue",0.221009549795362
+"lenvatinib","stomatitis",0.221009549795362
+"lenvatinib","vomiting",0.221009549795362
+"lenvatinib","arthralgia",0.221009549795362
+"lenvatinib","hypertension",0.221009549795362
+"lenvatinib","blood creatinine increase",0.221009549795362
+"lenvatinib","blood urea nitrogen change",0.221009549795362
+"lenvatinib","hypoalbuminemia",0.221009549795362
+"lenvatinib","ALT increase",0.221009549795362
+"lenvatinib","AST increase",0.221009549795362
+"lenvatinib","hypocalcemia",0.221009549795362
+"lenvatinib","epistaxis",0.221009549795362
+"lenvatinib","dysphonia",0.221009549795362
+"lenvatinib","constipation",0.221009549795362
+"lenvatinib","asthenia",0.221009549795362
+"lenvatinib","cough",0.221009549795362
+"lenvatinib","edema peripheral",0.221009549795362
+"lenvatinib","rash",0.221009549795362
+"lenvatinib","dehydration",0.221009549795362
+"lenvatinib","dizziness",0.221009549795362
+"lenvatinib","dysgeusia",0.221009549795362
+"lenvatinib","insomnia",0.221009549795362
+"lenvatinib","alopecia",0.221009549795362
+"lenvatinib","hyperkeratosis",0.221009549795362
+"lenvatinib","hypotension",0.221009549795362
+"lenvatinib","qt prolongation",0.221009549795362
+"lenvatinib","hyperglycemia",0.221009549795362
+"lenvatinib","hypoalbuminemia",0.221009549795362
+"lenvatinib","hypocalcemia",0.221009549795362
+"lenvatinib","hypernatremia",0.221009549795362
+"lenvatinib","hypokalemia",0.221009549795362
+"lenvatinib","hypoatremia",0.221009549795362
+"lenvatinib","hypomagnesemia",0.221009549795362
+"lenvatinib","hypoglycemia",0.221009549795362
+"lenvatinib","hypertriglyceridemia",0.221009549795362
+"lenvatinib","bilirubin increase",0.221009549795362
+"lenvatinib","hypercalcemia",0.221009549795362
+"lenvatinib"," lipase increase",0.221009549795362
+"lenvatinib","high cholesterol",0.221009549795362
+"lenvatinib","serum amylase increase",0.221009549795362
+"lenvatinib","platelet decrease",0.221009549795362
+"lenvatinib","hemoglobin increase",0.221009549795362
+"letermovir","renal failure",0.75
+"letermovir","insomnia",0.75
+"letermovir","costipation",0.75
+"letermovir","vomiting",1.5
+"letermovir","fatigue",1.5
+"letermovir","cough",1.5
+"letermovir","acute gvhd in skin",1.5
+"letermovir","renal failure",1.5
+"letermovir","insomnia",1.5
+"letermovir","costipation",1.5
+"letermovir","headache",3
+"letermovir","decreased appetite",3
+"letermovir","pruritis",3
+"letermovir","insomnia",3
+"letermovir","constipation",3
+"letermovir","vomiting",3
+"letermovir","edema peripheral",3
+"letermovir","cough",3
+"letermovir","acute gvhd in skin",3
+"levetiracetam","asthenia",25
+"levetiracetam","infection",25
+"levetiracetam","somnolence",25
+"levetiracetam","change in rbc",25
+"levetiracetam","hemoglobin",25
+"levetiracetam","hematocrit",25
+"levetiracetam","dizziness",25
+"levocetirizine","somnolence",0.03125
+"levocetirizine","headache",0.0625
+"levocetirizine","somnolence",0.0625
+"levocetirizine","headache",0.125
+"levocetirizine","somnolence",0.125
+"linagliptin","na",NA
+"lisdexamfetamine","headache",0.919842312746387
+"lisdexamfetamine","upper respiratory tract infection",0.919842312746387
+"loratadine","no effects meet criteria",NA
+"lorcaserin","headache",0.193050193050193
+"lorcaserin","hypoglycemia",0.193050193050193
+"lorcaserin","dizziness",0.193050193050193
+"lorcaserin","change in pr interval",0.193050193050193
+"lorcaserin","headache",0.0965250965250965
+"lorcaserin","hypoglycemia",0.0965250965250965
+"lorcaserin","change in pr interval",0.0965250965250965
+"lovastatin","no effects meet criteria",NA
+"macitentan","anemia",0.0443786982248521
+"macitentan","respiratory infection",0.0443786982248521
+"macitentan","nasopharyngitis",0.0443786982248521
+"macitentan","low hematocrit",0.14903129657228
+"macitentan","leukocytes",0.14903129657228
+"macitentan","and platelets",0.14903129657228
+"macitentan","anemia",0.14903129657228
+"macitentan","respiratory infection",0.14903129657228
+"maraviroc","liver-related adverse effects",3.75
+"maraviroc","upper respiratory infection",3.75
+"maraviroc","candida infection",3.75
+"maraviroc","herpes simplex infection",3.75
+"maraviroc","influenza",3.75
+"maraviroc","total herpes",3.75
+"maraviroc","creatinine elevation",3.75
+"maraviroc","cpk elevation",3.75
+"maraviroc","amylase/lipase elevation",3.75
+"maraviroc","fasting total cholesterol",3.75
+"maraviroc","triglyceride increase",3.75
+"maraviroc","ldl cholesterol",3.75
+"maraviroc","fasting triglyceride level",3.75
+"maraviroc","liver-related adverse effects",3.75
+"maraviroc","upper respiratory infection",3.75
+"maraviroc","candida infection",3.75
+"maraviroc","herpes simplex infection",3.75
+"maraviroc","influenza",3.75
+"maraviroc","total herpes",3.75
+"maraviroc","fasting triglyceride level",3.75
+"maraviroc","ALT increase",3.75
+"maraviroc","creatinine elevation",3.75
+"maraviroc","cpk elevation",3.75
+"maraviroc","fasting total cholesterol",3.75
+"maraviroc","ldl cholesterol",3.75
+"melatonin","no effects meet criteria",NA
+"meloxicam","ALT increase",0.0625
+"meloxicam","AST increase",0.0625
+"meloxicam","blood urea nitrogen change",0.0625
+"meloxicam","bilirubin increase",0.0625
+"memantine","dizziness",0.665409781523788
+"memantine","fatigue",0.665409781523788
+"memantine","headache",0.665409781523788
+"memantine","upper respiratory tract infection",0.665409781523788
+"memantine","nasopharyngitis",0.665409781523788
+"memantine","back pain",0.665409781523788
+"mesalamine","no effects meet criteria",NA
+"methylnaltrexone","na",NA
+"metoprolol","hypotension",2.55754475703325
+"metoprolol","bradycardia",2.55754475703325
+"metoprolol","fatigue",2.55754475703325
+"metoprolol","dizziness",2.55754475703325
+"metoprolol","non-specific dyspnea",2.55754475703325
+"metoprolol","blurred vision",2.55754475703325
+"metoprolol","increase cholesterol",2.55754475703325
+"metoprolol","increase triglycerides",2.55754475703325
+"midostaurin","hemoglobin decrease",2.5
+"midostaurin","dermatitis exfoliative",2.5
+"midostaurin","qtcf abnormalities",2.5
+"midostaurin","device related infection",2.5
+"miglustat","headache",62.5
+"miglustat","dizziness",62.5
+"miglustat","diarrhea",62.5
+"miglustat","flatulence",62.5
+"miglustat","abdominal pain",62.5
+"miglustat","nausea",62.5
+"miglustat","fever",62.5
+"miglustat","fatigue",62.5
+"miltefosine","motion sickess",0.0588235294117647
+"miltefosine","diarrhea",0.0588235294117647
+"miltefosine","nausea",0.0588235294117647
+"miltefosine","vomiting",0.0588235294117647
+"miltefosine","pain at lesion",0.0588235294117647
+"miltefosine","pyrexia",0.0588235294117647
+"miltefosine","decreased appetite",0.0588235294117647
+"miltefosine","dizziness",0.0588235294117647
+"miltefosine","headache",0.0588235294117647
+"miltefosine","cr increase",0.0588235294117647
+"miltefosine","ALT increase",0.0588235294117647
+"miltefosine","ap increase",0.0588235294117647
+"mirabegron","no effects meet criteria",NA
+"modafinil","headache",2.5
+"modafinil","nausea",2.5
+"montelukast","no effects meet criteria",NA
+"naldemedine","abdominal pain",0.0025
+"naldemedine","diarrhea",0.0025
+"naloxegol","abdominal pain",0.3125
+"nateglinide","hypoglycemia",1.5
+"nebivolol","increase cholesterol",0.015625
+"nebivolol","increase triglycerides",0.015625
+"nebivolol","bradycardia",0.015625
+"nicardipine","pedal edema",1.125
+"nilutamide","visual disturbances",3.75
+"nilutamide","nausea",3.75
+"nilutamide","vomiting",3.75
+"nilutamide","dyspnea",3.75
+"nilutamide","AST increase",3.75
+"nilutamide","ALT increase",3.75
+"nintedanib","abdominal pain",3.75
+"nintedanib","liver enzyme elevation",3.75
+"nintedanib","diarrhea",3.75
+"nintedanib","nausea",3.75
+"nintedanib","vomiting",3.75
+"nintedanib","decreased appetite",3.75
+"nintedanib","weight decrease",3.75
+"nitazoxanide","no effects meet criteria",NA
+"nomifensine","weight decrease",2.5
+"nomifensine","eosinophilia",2.5
+"nomifensine","dry mouth",2.5
+"nomifensine","elevated urine wbc",2.5
+"obeticholic","pruritis",0.140845070422535
+"obeticholic","fatigue",0.140845070422535
+"obeticholic","pyrexia",0.140845070422535
+"obeticholic","sinusitis",0.140845070422535
+"obeticholic","arthralgia",0.140845070422535
+"obeticholic","oropharyngeal pain",0.140845070422535
+"obeticholic","palpitations",0.140845070422535
+"olaparib","anemia",10
+"olaparib","decreased appetite",10
+"olaparib","nausea",10
+"olaparib","vomiting",10
+"olaparib","diarrhea",10
+"olaparib","dyspepsia",10
+"olaparib","dysgeusia",10
+"olaparib","fatigue",10
+"olaparib","nasopharyngitis/pharyngitis/uri",10
+"olaparib","arthralgia/musculoskeletal pain",10
+"olaparib","myalgia",10
+"olaparib","headache",10
+"olaparib","cough",10
+"olaparib","dermatitis/rash",10
+"olaparib","hemoglobin decrease",10
+"olaparib","decrease absolute neutrophil count",10
+"olaparib","decrease platelet count",10
+"olaparib","mean corpuscular volume elevation",10
+"olaparib","increase in creatinine",10
+"olaparib","blood pressure change",10
+"olaparib","pulse rate change",10
+"olmesartan","dizziness",0.24390243902439
+"olmesartan","headache",0.24390243902439
+"omega-3-acid","no effects meet criteria",NA
+"orlistat","abdominal pain",2.25
+"orlistat","fecal urgency",2.25
+"orlistat","oily spotting",2.25
+"orlistat","flatus with discharge",2.25
+"orlistat","fatty/oily stool",2.25
+"orlistat","oily evacuation",2.25
+"orlistat","abdominal pain",4.5
+"orlistat","fecal urgency",4.5
+"orlistat","oily spotting",4.5
+"orlistat","flatus with discharge",4.5
+"orlistat","fatty/oily stool",4.5
+"orlistat","oily evacuation",4.5
+"orlistat","liquid stools",4.5
+"orlistat","increased defecation",4.5
+"oseltamivir","vomiting",1.875
+"oseltamivir","nausea",1.875
+"oseltamivir","headache",1.875
+"oseltamivir","vomiting",3.75
+"oseltamivir","nausea",3.75
+"osimertinib","diarrhea",1.25195618153365
+"osimertinib","paronychia",1.25195618153365
+"osimertinib","dry skin",1.25195618153365
+"osimertinib","pruiritis",1.25195618153365
+"osimertinib","cough",1.25195618153365
+"osimertinib","stomatitis",1.25195618153365
+"osimertinib","decreased appetite",1.25195618153365
+"osimertinib","mouth ulceration",1.25195618153365
+"osimertinib","dermatitis acneiform",1.25195618153365
+"osimertinib","blood creatinine increase",1.25195618153365
+"oxcarbazepine","headache",7.5
+"oxcarbazepine","somnolence",7.5
+"oxcarbazepine","dizziness",7.5
+"oxcarbazepine","headache",15
+"oxcarbazepine","somnolence",15
+"oxcarbazepine","dizziness",15
+"oxcarbazepine","diarrhea",15
+"oxcarbazepine","apathy",15
+"oxcarbazepine","weight increase",15
+"oxcarbazepine","arthralgia",15
+"oxcarbazepine","acne",15
+"oxcarbazepine","tremor",15
+"oxcarbazepine","alopecia",15
+"oxcarbazepine","trauma",15
+"oxcarbazepine","decrease sodium",15
+"oxcarbazepine","decrease t4",15
+"oxcarbazepine","decrease uric acid",15
+"paliperidone","akathisia",0.15
+"paliperidone","nervous system disorders",0.15
+"paliperidone","tachycardia",0.15
+"paliperidone","nervous system disorders",0.1125
+"paliperidone","headache",0.1125
+"paliperidone","orthostatic hypotension",0.1125
+"paliperidone","akathisia",0.1875
+"paliperidone","nervous system disorders",0.1875
+"paliperidone","extrapyrimidal disorder",0.1875
+"paliperidone","headache",0.1875
+"paliperidone","tachycardia",0.1875
+"paliperidone","orthostatic hypotension",0.1875
+"paliperidone","weight increase",0.1875
+"patiromer","flatulence",372.5
+"patiromer","constipation",372.5
+"patiromer","blood urea increase",372.5
+"pazopanib","hemorrhage",10
+"pazopanib","diarrhea",10
+"pazopanib","hypertension",10
+"pazopanib","hair color change",10
+"pazopanib","nausea/vomiting",10
+"pazopanib","abdominal pain/discomfort",10
+"pazopanib","fatigue",10
+"pazopanib","rash",10
+"pazopanib","proteinuria",10
+"pazopanib","weight decrease",10
+"pazopanib","dysguesia",10
+"pazopanib","alopecia",10
+"pazopanib","chest pain",10
+"pazopanib","hyponatremia",10
+"pazopanib","hypophosphatemia",10
+"pazopanib","hypomagnesemia",10
+"pazopanib","hypoglycemia",10
+"pazopanib","anemia",10
+"pazopanib","neutropenia",10
+"pazopanib","thrombocytopenia",10
+"pazopanib","ALT increase",10
+"pazopanib","AST increase",10
+"pazopanib","bilirubin increase",10
+"pazopanib","tsh increase",10
+"perampanel","dizziness",0.05
+"perampanel","irritability",0.15
+"perampanel","ataxia",0.15
+"perampanel","dizziness",0.15
+"perampanel","fatigue",0.15
+"perampanel","somnolence",0.15
+"perampanel","cholesterol increase",0.15
+"pimavanserin","no effects meet criteria",NA
+"pimozide","dry mouth",0.25
+"pimozide","diarrhea",0.25
+"pimozide","thirst",0.25
+"pimozide","appetite increase",0.25
+"pimozide","constipation",0.25
+"pimozide","muscle tightness",0.25
+"pimozide","stooped posture",0.25
+"pimozide","drowsiness",0.25
+"pimozide","sedation",0.25
+"pimozide","akathisia",0.25
+"pimozide","rigidity",0.25
+"pimozide","speech disorder",0.25
+"pimozide","akinesia",0.25
+"pimozide","adverse behavior effect",0.25
+"pimozide","visual disturbance",0.25
+"pimozide","decreased accommodation",0.25
+"pimozide","impotence",0.25
+"pimozide","handwriting change",0.25
+"pimozide","nervous",0.25
+"pimozide","taste changes",0.25
+"pimozide","sensitivity to light",0.25
+"pioglitazone","weight increase",0.375
+"pioglitazone","hypercholesteremia",0.375
+"pioglitazone","anemia",0.375
+"pioglitazone","peripheral edema",0.375
+"pioglitazone","decrease hematocrit",0.375
+"pioglitazone","hemoglobin decrease",0.375
+"pioglitazone","decrease red blood cell count",0.375
+"pirfenidone","rash",14.9625
+"pirfenidone","anorexia",14.9625
+"pirfenidone","dizziness",14.9625
+"pirfenidone","fatigue",14.9625
+"pirfenidone","weight decrease",14.9625
+"pirfenidone","supraventricular tachyarrhythmia",14.9625
+"pirfenidone","diarrhea",14.9625
+"pirfenidone","nausea",14.9625
+"pirfenidone","dyspepsia",14.9625
+"pirfenidone","gastroesophageal reflux disease",14.9625
+"pirfenidone","vomiting",14.9625
+"pirfenidone","weight decrease",14.9625
+"pirfenidone","photosensitivity reaction",14.9625
+"pirfenidone","back pain",14.9625
+"pirfenidone","cough",14.9625
+"pirfenidone","insomnia
+",14.9625
+"pirfenidone","nausea",30.0375
+"pirfenidone","rash",30.0375
+"pirfenidone","anorexia",30.0375
+"pirfenidone","decreased appetite",30.0375
+"pirfenidone","dizziness",30.0375
+"pirfenidone","fatigue",30.0375
+"pirfenidone","weight decrease",30.0375
+"pirfenidone","diarrhea",30.0375
+"pirfenidone","dyspepsia",30.0375
+"pirfenidone","gastroesophageal reflux disease",30.0375
+"pirfenidone","vomiting",30.0375
+"pirfenidone","stomach discomfort",30.0375
+"pirfenidone","photosensitivity reaction",30.0375
+"pitavastatin","ALT increase",0.2
+"pitavastatin","AST increase",0.2
+"pitavastatin","myalgia",0.2
+"pitavastatin","cpk increase",0.2
+"pitavastatin","rhabdomyolysis",0.4
+"pitavastatin","ALT increase",0.4
+"pitavastatin","AST increase",0.4
+"pitavastatin","myalgia,cpk increase",0.4
+"pitavastatin","glucose increase",0.4
+"pitavastatin","blood urine",0.4
+"pitavastatin","fatigue",0.8
+"pitavastatin","ALT increase",0.8
+"pitavastatin","AST increase",0.8
+"pitavastatin","AST increase",0.8
+"pitavastatin","myalgia",0.8
+"pitavastatin","myopathy",0.8
+"pitavastatin","rhabdomyolysis",0.8
+"pitavastatin","cpk increase",0.8
+"pitavastatin","hypokalemia",0.8
+"pitavastatin","glucose increase",0.8
+"pitavastatin","nausea",0.8
+"pitavastatin","blood urine",0.8
+"pitavastatin","musculoskeletal weakness",0.8
+"pitavastatin","headache",0.8
+"plecanatide","no effects meet criteria",NA
+"ponesimod","headache",0.125
+"ponesimod","ALT increase",0.125
+"ponesimod","lymphocyte decrease",0.125
+"ponesimod","increase blood pressure",0.125
+"ponesimod","dyspnea",0.25
+"ponesimod","ALT increase",0.25
+"ponesimod","lymphocyte decrease",0.25
+"ponesimod","increase blood pressure",0.25
+"ponesimod","dyspnea",0.5
+"ponesimod","dizziness",0.5
+"ponesimod","ALT increase",0.5
+"ponesimod","lymphocyte decrease",0.5
+"ponesimod","increase blood pressure",0.5
+"ponesimod","peripheral edema",0.5
+"ponesimod","migraine",0.5
+"pramipexole","nausea",0.075
+"pramipexole","constipation",0.075
+"pramipexole","somnolence",0.075
+"pramipexole","insomnia",0.075
+"pramipexole","hallucination",0.075
+"pramipexole","creatine phosphokinase increase",0.075
+"pravastatin","no effects meet criteria",NA
+"prednisone","glucose abnormal",0.0625
+"prednisone","cholesterol abnormal",0.0625
+"pregabalin","peripheral edema",3.75
+"pregabalin","dizziness",3.75
+"pregabalin","somnolence",3.75
+"pregabalin","weight increase",3.75
+"pregabalin","dry mouth",7.5
+"pregabalin","peripheral edema",7.5
+"pregabalin","weight increase",7.5
+"pregabalin","dizziness",7.5
+"pregabalin","somnolence",7.5
+"pregabalin","weight increase",7.5
+"pretomanid","headache",NA
+"pretomanid","dizziness",NA
+"pretomanid","nausea",NA
+"pretomanid","diarrhea",NA
+"pretomanid","hemoglobin decrease",NA
+"pretomanid","dermatitis contact",NA
+"progesterone","dizziness",3.75
+"progesterone","fatigue",3.75
+"quetiapine","dry mouth",6.575
+"quetiapine","weight increase",6.575
+"quetiapine","somnolence",6.575
+"quetiapine","dizziness",6.575
+"quetiapine","thyroid hormone change",6.575
+"quetiapine","eosinophilia",6.575
+"quetiapine","mean vital sign parameters",6.575
+"rabeprazole","no effects meet criteria",NA
+"raloxifene","vasodilation",0.75
+"raloxifene","leg cramps,dehydration",0.75
+"raloxifene","deep thrombophlebitis",0.75
+"raloxifene","decrease in calcium",0.75
+"raloxifene","decrease in serum phosphorus",0.75
+"raloxifene","increase in serum uric acid",0.75
+"raloxifene","cpk decrease",0.75
+"raloxifene","alkaline phosphatase decrease",0.75
+"raloxifene","hemoglobin decrease",0.75
+"raloxifene","hematocrit decrease",0.75
+"raloxifene","platelet count decrease",0.75
+"raltegravir","no effects meet criteria",NA
+"ramelteon","somnolence",0.2
+"ranolazine","constipation",18.75
+"ranolazine","dizziness",18.75
+"ranolazine","asthenia",18.75
+"ranolazine","headache",18.75
+"ranolazine","angina",18.75
+"ranolazine","nausea",18.75
+"ranolazine","qt interval prolongation",18.75
+"ranolazine","t wave morphology changes",18.75
+"rasagiline","flu syndrome",0.0128865979381443
+"rasagiline","arthralgia",0.0247831474597274
+"regorafenib","palmar-plantar erythrodysaesthesia",2
+"regorafenib","hepatobiliary disorders",2
+"regorafenib","ALT increase",2
+"regorafenib","bilirubin increase",2
+"regorafenib","hemorrhage",2
+"regorafenib","rash",2
+"regorafenib","dry skin",2
+"regorafenib","alopecia",2
+"regorafenib","hypertension",2
+"regorafenib","diarrhea",2
+"regorafenib","mucositis",2
+"regorafenib","proteinuria",2
+"regorafenib","asthenia/fatigue",2
+"regorafenib","decreased appetite",2
+"regorafenib","ppe",2
+"regorafenib","weight decrease",2
+"regorafenib","infection",2
+"regorafenib","dysphonia",2
+"regorafenib","pain",2
+"regorafenib","fever",2
+"regorafenib","anemia",2
+"regorafenib","thrombocytopenia",2
+"regorafenib","lymphopenia",2
+"regorafenib","increased inr",2
+"regorafenib","AST increase",2
+"regorafenib","ALT increase",2
+"regorafenib","alkaline phosphatase increase",2
+"regorafenib","hypoalbuminemia",2
+"regorafenib","hypocalcemia",2
+"regorafenib","hypokalemia",2
+"regorafenib","hypophosphatemia",2
+"regorafenib","increased lipase",2
+"regorafenib","increased amylase",2
+"regorafenib","proteinuria",2
+"rifaximin","no effects meet criteria",NA
+"riociguat","hypotension",0.09375
+"riociguat","headache",0.09375
+"riociguat","dizziness",0.09375
+"riociguat","dyspepsia",0.09375
+"riociguat","nasopharyngitis",0.09375
+"riociguat","diarrhea",0.09375
+"riociguat","vomiting",0.09375
+"riociguat","anemia",0.09375
+"ripretinib","alopecia",2.0297699594046
+"ripretinib","fatigue",2.0297699594046
+"ripretinib","nausea",2.0297699594046
+"ripretinib","abominal pain",2.0297699594046
+"ripretinib","constipation",2.0297699594046
+"ripretinib","myalgia",2.0297699594046
+"ripretinib","diarrhea",2.0297699594046
+"ripretinib","decreased appetite",2.0297699594046
+"ripretinib","palmar‐plantar erythrodysaesthesia syndrome",2.0297699594046
+"ripretinib","vomiting",2.0297699594046
+"ripretinib","headache",2.0297699594046
+"ripretinib","weight decrease",2.0297699594046
+"ripretinib","arthralgia",2.0297699594046
+"ripretinib","bilirubin increase",2.0297699594046
+"ripretinib","oedema peripheral",2.0297699594046
+"ripretinib","muscle spasms",2.0297699594046
+"ripretinib","hypertension",2.0297699594046
+"ripretinib","dry skin",2.0297699594046
+"ripretinib","dyspnoea",2.0297699594046
+"ripretinib","hypophosphataemia",2.0297699594046
+"ripretinib","lipase increase",2.0297699594046
+"ripretinib","pruritis",2.0297699594046
+"ripretinib","stomatitis",2.0297699594046
+"ripretinib","decreased neutrophils",2.0297699594046
+"ripretinib","decreased platelets",2.0297699594046
+"ripretinib","decreased white blood cells",2.0297699594046
+"ripretinib","increased triglycerides",2.0297699594046
+"ripretinib","increased lipase",2.0297699594046
+"ripretinib","decreased phosphorus",2.0297699594046
+"ripretinib","decreased calcium",2.0297699594046
+"ripretinib","increased creatine kinase",2.0297699594046
+"ripretinib","decreased sodium",2.0297699594046
+"ripretinib","increased amylase",2.0297699594046
+"ripretinib","decreased potassium",2.0297699594046
+"ripretinib","increased magnesium",2.0297699594046
+"ripretinib","increased activated partial thromboplastin time",2.0297699594046
+"risedronate","abdominal pain",0.0625
+"risedronate","anxiety",0.0625
+"risedronate","back pain",0.0625
+"risedronate","arthralgia",0.0625
+"ritonavir","elevated triglycerides",15
+"ritonavir","elevated cholesterol",15
+"ritonavir","ALT increase",15
+"ritonavir","elevated uric acid",15
+"ritonavir","elevated cpk",15
+"ritonavir","bilirubin increase",15
+"rivastigmine","dizziness",0.15
+"rivastigmine","headache",0.15
+"rivastigmine","nausea",0.15
+"rivastigmine","vomitting",0.15
+"rivastigmine","diarrhea",0.15
+"rivastigmine","anorexia",0.15
+"rivastigmine","abdominal pain",0.15
+"rivastigmine","dyspepsia",0.15
+"rofecoxib","hypertension",0.625
+"rofecoxib","increased blood pressure",0.625
+"rofecoxib","edema",0.625
+"rofecoxib","blood urea nitrogen change",0.625
+"rofecoxib","serum creatinine",0.625
+"rofecoxib","hyperkalemia",0.625
+"rofecoxib","proteinuria",0.625
+"ropinirole","nausea",0.1875
+"ropinirole","dizziness",0.1875
+"ropinirole","somnolence; et patients: asthenia",0.1875
+"ropinirole","fatigue",0.1875
+"ropinirole","syncope",0.1875
+"ropinirole","dyspepsia",0.1875
+"ropinirole","nausea",0.1875
+"ropinirole","somnolence",0.1875
+"ropinirole","infection viral,; at patients: dyskinesia",0.1875
+"rosiglitazone","weight increase",0.1
+"rosiglitazone","hyperlipidemia",0.1
+"rosuvastatin","cardiac disorders",0.5
+"rosuvastatin","angina pectoris",0.5
+"ruxolitinib","thrombocytopenia",0.375
+"ruxolitinib","anemia",0.375
+"ruxolitinib","headache",0.375
+"ruxolitinib","dizziness",0.375
+"ruxolitinib","confusion",0.375
+"sapropterin","headache",20
+"sapropterin","rhinorrhea",20
+"sapropterin","cough",20
+"sapropterin","pharyngolaryngeal pain",20
+"sapropterin","vomitting",20
+"sapropterin","diarrhea",20
+"saxagliptin","infections and infestations",0.03125
+"saxagliptin","skin and subcutaneous tissue disorders",0.125
+"saxagliptin","infections and infestations",0.125
+"saxagliptin","headache",0.125
+"sildenafil","headache",0.75
+"sildenafil","dyspepsia",0.75
+"sildenafil","flushing",0.75
+"sildenafil","diarrhea",0.75
+"sildenafil","nausea",0.75
+"sildenafil","epistaxis",0.75
+"sildenafil","headache",3
+"sildenafil","flushing",3
+"sildenafil","epistaxis",3
+"sildenafil","dyspepsia",3
+"sildenafil","flushing",3
+"sildenafil","myalgia",3
+"sildenafil","fatigue",3
+"sildenafil","nasopharyngitis",3
+"sildenafil","visual disturbance",3
+"sildenafil","photophobia",3
+"sildenafil","penile erection",3
+"sildenafil","vasodilation",3
+"sildenafil","backpain",3
+"sildenafil","dizziness",3
+"sildenafil","abnormal vision",3
+"sildenafil","hemoglobin decrease",3
+"sildenafil","hematocrit decrease",3
+"sildenafil","rbc decrease",3
+"silodosin","retrograde ejaculation",0.1
+"simeprevir","pruritis",1.875
+"simeprevir","rash",1.875
+"simeprevir","bilirubin increase",1.875
+"simeprevir","influenza like illness,",1.875
+"simvastatin","myopathy with or without rhabdomyolysis",0.5
+"sirolimus","arthralgia",0.025
+"sirolimus","lymphocele",0.025
+"sirolimus","tachycardia",0.025
+"sirolimus","constipation",0.025
+"sirolimus","ldh increased",0.025
+"sirolimus","thrombocytopenia",0.025
+"sirolimus","hypercholesterolemia",0.025
+"sirolimus","hyperlipemia",0.025
+"sirolimus","peripheral edema",0.025
+"sirolimus","insomnia",0.025
+"sirolimus","epistaxis",0.025
+"sirolimus","pain",0.025
+"sirolimus","abdominal pain",0.0625
+"sirolimus","chest pain",0.0625
+"sirolimus","arthralgia",0.0625
+"sirolimus","chills",0.0625
+"sirolimus","dysuria",0.0625
+"sirolimus","facial edema",0.0625
+"sirolimus","lymphocele",0.0625
+"sirolimus","tachycardia",0.0625
+"sirolimus","diarrhea",0.0625
+"sirolimus","constipation",0.0625
+"sirolimus","anemia",0.0625
+"sirolimus","ecchymosis",0.0625
+"sirolimus","ldh increased",0.0625
+"sirolimus","leukopenia",0.0625
+"sirolimus","thrombocytopenia",0.0625
+"sirolimus","thrombotic thrombocytopenia purpura",0.0625
+"sirolimus","hypercholesterolemia",0.0625
+"sirolimus","hyperlipemia",0.0625
+"sirolimus","hyperkalemia",0.0625
+"sirolimus","peripheral edema",0.0625
+"sirolimus","insomnia",0.0625
+"sirolimus","epistaxis",0.0625
+"sirolimus","rash",0.0625
+"sitagliptin","bronchitis",1.14678899082569
+"sitagliptin","upper respiratory infection",2.32828870779977
+"sitagliptin","nausea",2.32828870779977
+"sodium oxybate","headache",112.5
+"sodium oxybate","pain",112.5
+"sodium oxybate","nausea",112.5
+"sodium oxybate","dizziness",112.5
+"sodium oxybate","sleep disorder",112.5
+"sodium oxybate","incontinence",112.5
+"sodium zirconium","blood urea nitrogen change",125
+"sodium zirconium","oedema peripheral",187.5
+"solifenacin","dry mouth",0.0625
+"solifenacin","dry mouth",0.125
+"solifenacin","constipation",0.125
+"solifenacin","qt prolongation",0.125
+"sorafenib","hypertension",10
+"sorafenib","rash/ desquamation",10
+"sorafenib","hand-foot skin reaction",10
+"sorafenib","alopecia",10
+"sorafenib","pruritis",10
+"sorafenib","diarrhea",10
+"sorafenib","hemorrhage",10
+"sorafenib","neuropathy",10
+"sorafenib","elevated lipase",10
+"sorafenib","hypophosphatemia",10
+"sorafenib","ALT increase",10
+"sorafenib","AST increase",10
+"sorafenib","leukopenia",10
+"sorafenib","neutropenia",10
+"sorafenib","hemoglobin decrease",10
+"sunitinib","hypertension",0.625
+"sunitinib","elevated creatine kinase",0.625
+"sunitinib","cardiac troponin i elevated",0.625
+"sunitinib","diarrhea",0.625
+"sunitinib","mucositis/stomatitis",0.625
+"sunitinib","constipation",0.625
+"sunitinib","rash",0.625
+"sunitinib","skin discoloration",0.625
+"sunitinib","altered taste",0.625
+"sunitinib","myalgia/limb pain",0.625
+"sunitinib","asthenia",0.625
+"sunitinib","ALT increase",0.625
+"sunitinib","AST increase",0.625
+"sunitinib","bilirubin increase",0.625
+"sunitinib","amylase change",0.625
+"sunitinib","lipase change",0.625
+"sunitinib","decreased lvef",0.625
+"sunitinib","creatinine",0.625
+"sunitinib","hypokalemia",0.625
+"sunitinib","hyponatremia",0.625
+"sunitinib","neutropenia",0.625
+"sunitinib","leukopenia",0.625
+"sunitinib","thrombocytopenia",0.625
+"suvorexant","somnolence",0.5
+"suvorexant","somnolece by age",0.5
+"suvorexant","somnolence by sex",0.5
+"tadalafil","headache",0.0625
+"tadalafil","headache",0.125
+"tadalafil","dyspepsia",0.125
+"tamoxifen","thromboembolic events",0.286327845382964
+"tamoxifen","cataracts",0.286327845382964
+"tamoxifen","invasive endometrial cancer",0.286327845382964
+"tamoxifen","hot flashes",0.286327845382964
+"tamoxifen","vaginal discharge",0.286327845382964
+"tasimelteon","headache",0.25
+"tasimelteon","ALT increase",0.25
+"tasimelteon","nightmare/abnormal dream",0.25
+"tasimelteon","conduction disorder",0.25
+"tasimelteon","sleep disorder",0.25
+"tasimelteon","upper respiratory tract infection,",0.25
+"tecovirimat","no effects meet criteria",NA
+"telmisartan","na",NA
+"telotristat","ALT increase",10.4529616724739
+"telotristat","increased ggt",10.4529616724739
+"telotristat","pyrexia",10.4529616724739
+"telotristat","AST increase",20.1018493701421
+"telotristat","ALT increase",20.1018493701421
+"telotristat","increased ggt",20.1018493701421
+"telotristat","nausea",20.1018493701421
+"telotristat","abdominal pain upper",20.1018493701421
+"telotristat","decrease apetite",20.1018493701421
+"telotristat","depression",20.1018493701421
+"telotristat","influenza",20.1018493701421
+"tenofovir","creatine kinase",3.75
+"tenofovir","triglyceride",3.75
+"tenofovir","ALT increase",3.75
+"tenofovir","diarrhea",3.75
+"tenofovir","nausea",3.75
+"tenofovir","vomiting",3.75
+"teriflunomide","diarrhea",0.0875
+"teriflunomide","hepatic disorders",0.0875
+"teriflunomide","bone marrow disorders",0.0875
+"teriflunomide","alopecia",0.0875
+"teriflunomide","ALT increase",0.0875
+"teriflunomide","AST increase",0.0875
+"teriflunomide","nausea",0.175
+"teriflunomide","diarrhea",0.175
+"teriflunomide","hepatic disorders",0.175
+"teriflunomide","bone marrow disorders",0.175
+"teriflunomide","hypersensitivity",0.175
+"teriflunomide","alopecia",0.175
+"teriflunomide","ALT increase",0.175
+"teriflunomide","AST increase",0.175
+"tetrabenazine","insomnia",0.905
+"tetrabenazine","nausea",0.905
+"tetrabenazine","sedation or somnolence",0.905
+"tetrabenazine","depression",0.905
+"tetrabenazine","fatigue",0.905
+"tetrabenazine","anxiety",0.905
+"tetrabenazine","aggravated restlessness",0.905
+"tetrabenazine","ALT increase",0.905
+"thalidomide","somnolence",0.625
+"thalidomide","teratogenesis",0.625
+"thalidomide","drowsiness",0.625
+"thalidomide","peripheral neuropathy",0.625
+"thalidomide","rash",0.625
+"thalidomide","eosinophilia",0.625
+"thalidomide","urticaria",0.625
+"thalidomide","neutropenia",0.625
+"tiagabine","abdominal pain",0.424966799468792
+"tiagabine","aphasia",0.424966799468792
+"tiagabine","athenia",0.424966799468792
+"tiagabine","depression",0.424966799468792
+"tiagabine","dizziness",0.424966799468792
+"tiagabine","nervousness",0.424966799468792
+"tiagabine","thinking abnormal",0.424966799468792
+"tiagabine","tremor",0.424966799468792
+"ticagrelor","bleeding",1.46341463414634
+"ticagrelor","dyspnea",1.46341463414634
+"ticagrelor","ecchymosis",1.46341463414634
+"ticagrelor","bleeding",2.19512195121951
+"ticagrelor","dyspnea",2.19512195121951
+"ticagrelor","ecchymosis",2.19512195121951
+"ticagrelor","epistaxis",2.19512195121951
+"tofacitinib","infections and infestations",0.125
+"tofacitinib","serum creatinine increase",0.125
+"tofacitinib","cholesterol increase",0.125
+"tofacitinib","triglycerides increase",0.125
+"tofacitinib","decrease neutrophil",0.125
+"tofacitinib","decrease lymphocyte",0.125
+"tofacitinib","ALT increase",0.125
+"tofacitinib","AST increase",0.125
+"tofacitinib","ldl shifts",0.125
+"tolterodine","dry mouth",0.05
+"tolvaptan","nocturia",1.5
+"tolvaptan","polyuria",1.5
+"tolvaptan","thirst",1.5
+"tolvaptan","dry mouth",1.5
+"tolvaptan","pollakuria",1.5
+"tolvaptan","liver enzyme increase cmq",1.5
+"topiramate","blood urea nitrogen change",0.625
+"topiramate","creatinine",0.625
+"topiramate","somnolence",0.625
+"topiramate","headache",0.625
+"topiramate","dizziness",0.625
+"topiramate","fatigue",0.625
+"topiramate","allergy",0.625
+"topiramate","leg pain",0.625
+"topiramate","languange problems",0.625
+"topiramate","coughing",0.625
+"topiramate","rhinitis",0.625
+"topiramate","sinusitis",0.625
+"topiramate","upper respiratory tract infection",0.625
+"topiramate","uri",0.625
+"topiramate","injury",0.625
+"topiramate","paresthesias",0.625
+"topiramate","weight decrease",0.625
+"topiramate","psychomotor slowing",0.625
+"topiramate","anorexia",0.625
+"topiramate","nervousness",0.625
+"troglitazone","hypoglycemia",2.5
+"troglitazone","flu-like syndrome",2.5
+"troglitazone","headache",2.5
+"troglitazone","back pain",2.5
+"troglitazone","hypoglycemia",2.5
+"troglitazone","cardiovascular events",2.5
+"troglitazone","hdl cholesterol increase",2.5
+"troglitazone","hypoglycemia",5
+"troglitazone","accidental injury",5
+"troglitazone","flu-like syndrome",5
+"troglitazone","headache",5
+"troglitazone","back pain",5
+"troglitazone","pharyngitis",5
+"troglitazone","depression",5
+"troglitazone","hypoglycemia",5
+"troglitazone"," cardiovascular events",5
+"troglitazone","hdl cholesterol increase",5
+"troglitazone","ldl cholesterol increase",5
+"troglitazone","total cholesterol increase",5
+"ulipristal","breast pain/tenderness/discomfort",0.125
+"ulipristal","headache,",0.125
+"valbenazine","somnolence",0.614250614250614
+"valbenazine","arthralgia",0.614250614250614
+"valbenazine","balance disorders/fall",0.614250614250614
+"vandetanib","rash",3.75
+"vandetanib","acne",3.75
+"vandetanib","dry skin",3.75
+"vandetanib","photosensitivity reaction",3.75
+"vandetanib","erythema",3.75
+"vandetanib","nail disorder",3.75
+"vandetanib","skin hyperpigmentation",3.75
+"vandetanib","diarrhea",3.75
+"vandetanib","nausea",3.75
+"vandetanib","hypertension",3.75
+"vandetanib","headache",3.75
+"vandetanib","decreased apetite",3.75
+"vandetanib","abdominal pain",3.75
+"vandetanib","vomiting",3.75
+"vandetanib","ecg qt prolonged",3.75
+"vandetanib","dyspepsia",3.75
+"vandetanib","hypocalcaemia",3.75
+"vandetanib","pruritis",3.75
+"vandetanib","proteinuria",3.75
+"vandetanib","depression",3.75
+"vandetanib","calcium decrease",3.75
+"vandetanib","ALT increase",3.75
+"vandetanib","glucose decrease",3.75
+"vandetanib","creatinine increase",3.75
+"vandetanib","magnesium decrease",3.75
+"vandetanib","neutrophils decrease",3.75
+"vandetanib","platelets decrease",3.75
+"vardenafil","headache",0.0625
+"vardenafil","headache",0.25
+"vardenafil","vasodilation",0.25
+"vardenafil","rhinitis",0.25
+"vardenafil","dyspepsia",0.25
+"vardenafil","creatine kinase elevation",0.25
+"varenicline","nausea and/or vomiting",0.0125
+"varenicline","weight increase",0.0125
+"varenicline","flatulence",0.0125
+"varenicline","insomnia",0.0125
+"varenicline","abnormal dreams",0.0125
+"varenicline","dysgeusia",0.0125
+"varenicline","headaches",0.0125
+"varenicline","nausea and/or vomiting",0.025
+"varenicline","nausea",0.025
+"varenicline","constipation",0.025
+"varenicline","weight increase",0.025
+"varenicline","flatulence",0.025
+"varenicline","insomnia",0.025
+"varenicline","abnormal dreams",0.025
+"varenicline","headaches",0.025
+"vigabatrin","drowsiness",37.5
+"vigabatrin","nystagmus",37.5
+"vigabatrin","amnesia",37.5
+"vigabatrin","fatigue",37.5
+"vigabatrin","somnolence",37.5
+"vigabatrin","dizziness",37.5
+"vigabatrin","amnesia",37.5
+"vigabatrin","low hematocrit",37.5
+"vigabatrin","low wbc",37.5
+"vigabatrin","low lymphocytes",37.5
+"vigabatrin","weight increase",37.5
+"vigabatrin","hemoglobin decrease",37.5
+"vigabatrin","depression/psychotic depression",37.5
+"vismodegib","dysgeusia",1.875
+"vismodegib","muscle spasms",1.875
+"vismodegib","alopecia",1.875
+"vismodegib","nausea",1.875
+"vismodegib","constipation",1.875
+"vismodegib","abdominal pain",1.875
+"vismodegib","decreased appetite",1.875
+"vismodegib","abdominal pain upper",1.875
+"vismodegib","vomiting",1.875
+"vismodegib","weight decrease",1.875
+"vismodegib","rash",1.875
+"vismodegib","asthenia",1.875
+"vismodegib","dry mouth",1.875
+"vismodegib","dry mouth",1.875
+"vorapaxar","no effects meet criteria",NA
+"vortioxetine","nausea",0.0628535512256442
+"vortioxetine","sexual dysfunction",0.124177325220415
+"vortioxetine","nausea",0.124177325220415
+"vortioxetine","sexual dysfunction",0.182615047479912
+"vortioxetine","nausea",0.182615047479912
+"vortioxetine","vomiting",0.182615047479912
+"vortioxetine","total cholesterol",0.182615047479912
+"zafirlukast","no effects meet criteria",NA
+"zaleplon","headache",0.0625
+"zaleplon","nervous system",0.0625
+"zaleplon","amnesia",0.0625
+"zaleplon","hypesthesia",0.0625
+"zaleplon","constipation",0.0625
+"zaleplon","eye disorder",0.0625
+"zileuton","dyspepsia",32.7868852459016
+"zileuton","insomnia",32.7868852459016
+"zileuton","ggt elevation",32.7868852459016
+"zileuton","ALT increase",32.7868852459016
+"zileuton","AST increase",32.7868852459016
+"ziprasidone","sudden unexpected death,somnolence",2.63157894736842
+"ziprasidone","weight increase",2.63157894736842
+"ziprasidone","qtc prolongation",2.63157894736842
+"ziprasidone","triglyceride elevation",2.63157894736842
+"zonisamide","stomach pain or irritation",5
+"zonisamide","ataxia",5
+"zonisamide","dysarthria",5
+"zonisamide","irritability",5
+"zonisamide","trouble concentrating",5

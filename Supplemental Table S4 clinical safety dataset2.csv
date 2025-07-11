@@ -1,0 +1,1148 @@
+"drug","source","effect","RR","dose_mg","p_value","mg_kg_d"
+"alfuzosin","sider","upper respiratory tract infection",5,10,0.0107310831472287,0.125
+"alfuzosin","sider","dizziness",2.03571428571429,10,0.0230188199525838,0.125
+"aliskiren","sider","renal impairment †",1.32470757362473,300,0.00310768586029986,3.75
+"aliskiren","sider","hyperkalemia †††",1.97726297632425,300,0.00908380219338412,3.75
+"aliskiren","sider","hypotension ††",1.22070221366191,300,1.61770596289745e-05,3.75
+"aliskiren","sider","renal impairment †",1.16919765350001,300,0.00448763397923768,3.75
+"aliskiren","sider","hyperkalemia †††",1.35055268812215,300,0,3.75
+"alogliptin","sider","headache",1.68,25,7.60512082287335e-05,0.3125
+"alogliptin","sider","nasopharyngitis",1.46666666666667,25,0.00160241378294468,0.3125
+"alogliptin","sider","upper respiratory tract infection",2,25,8.37987321977707e-07,0.3125
+"alosetron","sider","abdominal distention",2,2,0.00151885787427886,0.025
+"alosetron","sider","constipation",4.83333333333333,2,0,0.025
+"alosetron","sider","hemorrhoids",2,2,0.00151885787427886,0.025
+"alosetron","sider","abdominal discomfort and pain",1.75,2,2.44043824038087e-07,0.025
+"alosetron","sider","gastrointestinal discomfort and pain",1.66666666666667,2,5.27936608532009e-05,0.025
+"alosetron","boxed_all","gastrointestinal toxicity",NA,NA,NA,NA
+"alvimopan","boxed_all","cardiovascular toxicity",NA,NA,NA,NA
+"alvimopan","sider","constipation",1.27631578947368,24,0.0431022012307822,0.3
+"ambrisentan","sider","peripheral edema",2.67924528301887,10,0.00198090721972566,0.125
+"ambrisentan","sider","nasal congestion",6.93333333333333,10,0.0143963187343876,0.125
+"apremilast","sider","frequent bowel movements",9.35,60,0.0295893303189463,0.75
+"apremilast","sider","upper respiratory tract infection",1.49032258064516,60,0.0490570788186413,0.75
+"apremilast","sider","abdominal pain",1.95,60,0.0474337709584842,0.75
+"apremilast","sider","nauseaa",2.91548343475321,60,0.000249082535000333,0.75
+"apremilast","sider","vomiting",2.40625,60,0.0236150465272555,0.75
+"apremilast","sider","vomiting",7.95131845841785,60,0.00552859267391614,0.75
+"apremilast","sider","abdominal pain upper",9.93914807302231,60,0.0282591217880459,0.75
+"apremilast","sider","diarrheaa",7.63581488933602,60,2.19809906698565e-06,0.75
+"apremilast","sider","nauseaa",5.26444380569129,60,4.5322552367999e-05,0.75
+"apremilast","sider","headache",2.62032085561497,60,0.0056818379704926,0.75
+"apremilast","sider","headache",2.65593561368209,60,0.011319034067494,0.75
+"apremilast","sider","diarrheaa",4.7210953346856,60,5.24021917882589e-05,0.75
+"apremilast","sider","decreased appetite",2.86,60,0.0303230447472622,0.75
+"apremilast","sider","tension headache",1.96428571428571,60,0.00501603509763648,0.75
+"apremilast","sider","dyspepsia",2.65833333333333,60,0.0280391722594842,0.75
+"atorvastatin","sider","nasopharyngitis",1.57317073170732,10,1.99840144432528e-15,0.125
+"atorvastatin","sider","arthralgia",1.36923076923077,10,3.48355513879461e-06,0.125
+"atorvastatin","sider","diarrhea",1.15873015873016,10,0.0426854946864719,0.125
+"atorvastatin","sider","pain in extremity",1.4406779661017,10,2.02720960906788e-07,0.125
+"atorvastatin","sider","urinary tract infection",1.23214285714286,10,0.00594159910056424,0.125
+"atorvastatin","sider","dyspepsia",1.37209302325581,10,0.0001785632030602,0.125
+"atorvastatin","sider","musculoskeletal pain",1.44444444444444,10,5.58728286137455e-05,0.125
+"atorvastatin","sider","muscle spasms",1.53333333333333,10,1.46774448603892e-05,0.125
+"atorvastatin","sider","pharyngolaryngeal pain",1.85714285714286,10,3.86271168384411e-08,0.125
+"atorvastatin","sider","arthralgia",1.8,20,0.00417910631172047,0.25
+"atorvastatin","sider","myalgia",1.90322580645161,20,0.0310964352218284,0.25
+"atorvastatin","sider","arthralgia",1.63076923076923,40,0.000106776945111076,0.5
+"atorvastatin","sider","diarrhea",2.23809523809524,40,2.52464715799761e-13,0.5
+"atorvastatin","sider","pain in extremity",1.57627118644068,40,0.000775732439683763,0.5
+"atorvastatin","sider","urinary tract infection",1.42857142857143,40,0.0146347863112413,0.5
+"atorvastatin","sider","nausea",2.02857142857143,40,9.19870722815297e-06,0.5
+"atorvastatin","sider","muscle spasms",1.7,40,0.00469799133133497,0.5
+"atorvastatin","sider","myalgia",2.70967741935484,40,2.54378740294214e-11,0.5
+"atorvastatin","sider","insomnia",1.82758620689655,40,0.00110464722919423,0.5
+"avanafil","sider","headache",3,50,0.0284553835934007,0.625
+"avanafil","sider","headache",6.17647058823529,200,2.93834779780955e-05,2.5
+"avanafil","sider","headache",4.05882352941176,100,0.0019416659164293,1.25
+"brexpiprazole","sider","dizziness",5,2,0.00591740810609909,0.025
+"brexpiprazole","boxed_all","neurotoxicity",NA,NA,NA,NA
+"brexpiprazole","sider","weight increase",3.5,1,0.000809447066008051,0.0125
+"brexpiprazole","sider","akathisia",3.5,2,0.00404197863814959,0.025
+"brexpiprazole","sider","somnolence",8,2,0.00785042880513953,0.025
+"brexpiprazole","sider","akathisia",4.5,1,4.23273265055535e-05,0.0125
+"brexpiprazole","sider","somnolence",10,1,0.00131573498107418,0.0125
+"brexpiprazole","sider","weight increase",3,3,0.0112054757899323,0.0375
+"brexpiprazole","sider","restlessness",26.7691005291005,2,0.025142556352554,0.025
+"brexpiprazole","sider","fatigue",2.5,3,0.0415741664289924,0.0375
+"brexpiprazole","sider","somnolence",8,1,0.00680310330639156,0.0125
+"brexpiprazole","sider","akathisia",7,3,3.54538828295503e-07,0.0375
+"brexpiprazole","sider","nasopharyngitis",3.5,1,0.002985098297559,0.0125
+"brexpiprazole","sider","weight increase",3.5,1,0.002985098297559,0.0125
+"brexpiprazole","sider","blood cortisol decreased",4,1,0.0186159559626413,0.0125
+"brexpiprazole","sider","restlessness",34.608,3,0.0143831688990073,0.0375
+"brexpiprazole","sider","weight increase",4,2,0.00109859550696245,0.025
+"brexpiprazole","sider","restlessness",25.3213664596273,1,0.023884468033903,0.0125
+"brexpiprazole","sider","dyspepsia",3,1,0.0324068621483184,0.0125
+"brexpiprazole","sider","dizziness",3,1,0.0417503306876095,0.0125
+"brexpiprazole","sider","anxiety",4,2,0.0223963594813181,0.025
+"brexpiprazole","sider","somnolence",12,3,0.000829493615575716,0.0375
+"brexpiprazole","sider","tremor",2.5,3,0.0415741664289924,0.0375
+"brexpiprazole","sider","blood creatinine phosphokinase increased",4,1,0.0429469172074666,0.0125
+"brexpiprazole","sider","tremor",3,1,0.0473814074079237,0.0125
+"brexpiprazole","sider","anxiety",3,1,0.0417503306876095,0.0125
+"brexpiprazole","sider","anxiety",4,3,0.0183804384333381,0.0375
+"brivaracetam","sider","discontinuation rates due to adverse events",1.75,200,0.0329240163176296,2.5
+"brivaracetam","sider","fatigue",2.25,50,0.00145411409291452,0.625
+"brivaracetam","sider","discontinuation rates due to adverse events",2,100,0.00723754891940032,1.25
+"brivaracetam","sider","irritability",3,50,0.0298913577090894,0.625
+"brivaracetam","sider","somnolence and sedation",2,50,9.63026025597724e-05,0.625
+"brivaracetam","sider","cerebellar coordination and balance disturbances*",3,50,0.0298913577090894,0.625
+"brivaracetam","sider","constipation",18.9492537313433,50,0.0402538868819244,0.625
+"brivaracetam","sider","dizziness",1.71428571428571,50,0.00574160119407474,0.625
+"brivaracetam","sider","suicidal thinking or behavior",1.79166666666667,50,0.00162531797734533,0.625
+"candesartan","sider","hypotension",1.91836734693878,32,2.11670594385538e-08,0.4
+"candesartan","sider","rhinitis",2,32,0.0429406168419291,0.4
+"candesartan","sider","abnormal renal function leading to drug discontinuation",2.17241379310345,32,0.00041847062881728,0.4
+"candesartan","sider","upper respiratory tract infection",1.5,32,0.0193063584019348,0.4
+"candesartan","sider","hypotension leading to drug discontinuation",2.05,32,0.00763019080209415,0.4
+"candesartan","sider","pharyngitis",2,32,0.0429406168419291,0.4
+"candesartan","sider","abnormal renal function",1.93650793650794,32,8.64119323473744e-06,0.4
+"candesartan","sider","hyperkalemia",3,32,9.40941468563494e-06,0.4
+"carbamazepine","sider","blurred vision",3,400,0.0311958337284537,5
+"carbamazepine","sider","ataxia",37.5,400,0.000347476431036942,5
+"carbamazepine","sider","nausea",2.9,400,6.98267686116694e-07,5
+"carbamazepine","sider","somnolence",2.46153846153846,400,1.71699765005862e-06,5
+"carbamazepine","sider","dry mouth",2.66666666666667,400,0.0194558996474636,5
+"carbamazepine","boxed_all","dermatological toxicity",NA,NA,NA,NA
+"carbamazepine","sider","speech disorder",15,400,0.00873319547163964,5
+"carbamazepine","sider","constipation",2,400,0.038748665311545,5
+"carbamazepine","boxed_all","hematological toxicity",NA,NA,NA,NA
+"carbamazepine","sider","vomiting",6,400,3.33220069226314e-06,5
+"carbamazepine","sider","pruritus",4,400,0.00495502762100064,5
+"carbamazepine","sider","dizziness",3.66666666666667,400,2.93298718645474e-12,5
+"cariprazine","sider","akathisia",3.25,4.5,2.85747098871525e-07,0.05625
+"cariprazine","sider","restlessness",2,4.5,0.0158828225259835,0.05625
+"cariprazine","sider","dizziness",2.5,4.5,0.00737540848574647,0.05625
+"cariprazine","sider","fatigued",3,4.5,0.0207658323510211,0.05625
+"cariprazine","sider","somnolence",1.6,4.5,0.0403063745861978,0.05625
+"cariprazine","sider","dizziness",2.5,9,0.029639632126266,0.1125
+"cariprazine","sider","weight increase",3,1.5,0.0218354492521715,0.01875
+"cariprazine","sider","extrapyramidal symptoms",1.875,1.5,0.000298115182495229,0.01875
+"cariprazine","sider","akathisia",2.25,1.5,0.000917681613963772,0.01875
+"cariprazine","sider","constipation",2,9,0.0124174722090513,0.1125
+"cariprazine","sider","hypertension",6,9,0.000309239730154953,0.1125
+"cariprazine","sider","extrapyramidal symptoms",2.375,4.5,1.48906331265408e-07,0.05625
+"cariprazine","sider","hypertension",3,4.5,0.0207658323510211,0.05625
+"celecoxib","sider","dyspepsia",1.41935483870968,200,0.000676609907015457,2.5
+"celecoxib","boxed_all","gastrointestinal toxicity",NA,NA,NA,NA
+"celecoxib","sider","gastroesophageal reflux disease",1.51612903225806,400,0.0216956340201322,5
+"celecoxib","sider","flatulence",2.2,200,0.00180418949771388,2.5
+"celecoxib","sider","dyspnea",1.75,400,0.0250638444651947,5
+"celecoxib","sider","peripheral edema",1.90909090909091,200,0.00801625129087258,2.5
+"celecoxib","sider","abdominal pain",1.46428571428571,200,0.0143560596426897,2.5
+"celecoxib","sider","pharyngitis",2.09090909090909,200,0.00228753492163802,2.5
+"celecoxib","sider","diarrhea",1.47368421052632,200,0.00351187948921794,2.5
+"celecoxib","sider","diarrhea",1.5,400,0.000590749514539413,5
+"celecoxib","sider","hypertension",1.27551020408163,400,0.0156005201744738,5
+"celecoxib","boxed_all","cardiovascular toxicity",NA,NA,NA,NA
+"celecoxib","boxed_all","neurotoxicity",NA,NA,NA,NA
+"cevimeline","sider","rhinitis",2.07407407407407,30,0.0365096615686427,0.375
+"cevimeline","sider","excessive sweating",7.79166666666667,30,4.97664852403545e-05,0.375
+"cinacalcet","sider","asthenia",1.75,30,0.036123373815871,0.375
+"cinacalcet","sider","vomiting",1.8,30,3.81539154403754e-06,0.375
+"cinacalcet","sider","nausea",1.63157894736842,30,1.1595852577706e-05,0.375
+"citalopram","sider","nausea",1.5,10,0.00205884296818337,0.125
+"citalopram","boxed_all","neurotoxicity",NA,NA,NA,NA
+"citalopram","sider","agitation",3,10,0.0287574275398232,0.125
+"citalopram","sider","sinusitis",6,10,0.00944875807168444,0.125
+"citalopram","sider","diarrhea",1.6,10,0.0419983499334771,0.125
+"citalopram","sider","impotence (3)",6,10,0.00944875807168444,0.125
+"citalopram","sider","yawning",4,10,0.0481751216964994,0.125
+"citalopram","sider","somnolence",1.8,10,0.000171330769316524,0.125
+"citalopram","sider","libido decreased",4,10,0.0481751216964994,0.125
+"citalopram","sider","fever",4,10,0.0481751216964994,0.125
+"citalopram","sider","ejaculation disorder (2,3)",6,10,0.000230746652776004,0.125
+"citalopram","sider","dry mouth",1.42857142857143,10,0.00707214002743806,0.125
+"colesevelam","sider","dyspepsia",2.8,3800,0.00463209527034025,47.5
+"colesevelam","sider","constipation",2.95454545454545,3800,7.08455889064652e-06,47.5
+"colesevelam","sider","dyspepsia",2.37142857142857,1500,0.0128851157539216,18.75
+"crofelemer","sider","upper respiratory tract infection",3.88864628820961,250,0.0161792172657969,3.125
+"crofelemer","sider","bronchitis",22.7173913043478,250,0.0310397617306437,3.125
+"darifenacin","sider","constipation",2.64556962025316,7.5,0.00279582132138123,0.09375
+"darifenacin","sider","dry mouth",2.14942528735632,7.5,0.0149429538743968,0.09375
+"desloratadine","sider","fatigue",1.75,5,0.0451071774268139,0.0625
+"desloratadine","sider","dry mouth",1.57894736842105,5,0.0426908060852129,0.0625
+"desloratadine","sider","pharyngitis",2.05,5,0.000603131071461593,0.0625
+"desvenlafaxine","sider","chills",4,400,0.00395094740731916,5
+"desvenlafaxine","sider","decreased appetite",5,400,7.17477407929934e-07,5
+"desvenlafaxine","sider","hyperhidrosis",2.5,50,0.000366319749491639,0.625
+"desvenlafaxine","sider","dry mouth",1.88888888888889,100,0.000122414082140532,1.25
+"desvenlafaxine","sider","hyperhidrosis",2.75,100,2.19664405505249e-05,1.25
+"desvenlafaxine","sider","dizziness",2,100,0.00216737539851519,1.25
+"desvenlafaxine","sider","nausea",2.2,50,7.28790156223624e-07,0.625
+"desvenlafaxine","sider","dizziness",3.2,400,6.74952125301331e-08,5
+"desvenlafaxine","sider","vision blurred",3,50,0.0304394422209358,0.625
+"desvenlafaxine","sider","vision blurred",4,100,0.00262139347527834,1.25
+"desvenlafaxine","sider","insomnia",2.5,400,8.82235800769848e-06,5
+"desvenlafaxine","sider","hyperhidrosis",5.25,400,9.65894031423886e-14,5
+"desvenlafaxine","sider","insomnia",2,100,0.000711560661169619,1.25
+"desvenlafaxine","sider","anxiety",2.5,100,0.00866771306818803,1.25
+"desvenlafaxine","sider","feeling jittery",3,200,0.0315153630686156,2.5
+"desvenlafaxine","sider","fatigue",2.75,400,5.76942033547745e-05,5
+"desvenlafaxine","sider","dizziness",260,50,0,0.625
+"desvenlafaxine","sider","nausea",3.6,200,0,2.5
+"desvenlafaxine","sider","abnormal dreams",3,100,0.0225323782090578,1.25
+"desvenlafaxine","sider","abnormal dreams",4,400,0.00395094740731916,5
+"desvenlafaxine","sider","vomiting",3,400,0.000133752190079717,5
+"desvenlafaxine","sider","fatigue",1.75,100,0.0332261553913449,1.25
+"desvenlafaxine","boxed_all","neurotoxicity",NA,NA,NA,NA
+"desvenlafaxine","sider","feeling jittery",3,400,0.0304394422209358,5
+"desvenlafaxine","sider","chills",3,200,0.0315153630686156,2.5
+"desvenlafaxine","sider","dizziness",3,200,5.81739731719821e-07,2.5
+"desvenlafaxine","sider","somnolence",3,200,9.61694688927928e-06,2.5
+"desvenlafaxine","sider","hyperhidrosis",4.5,200,5.39301936441916e-11,2.5
+"desvenlafaxine","sider","decreased appetite",2.5,50,0.0132964187575848,0.625
+"desvenlafaxine","sider","insomnia",2.33333333333333,200,6.06764440547192e-05,2.5
+"desvenlafaxine","sider","vision blurred",4,200,0.00414626619841485,2.5
+"desvenlafaxine","sider","vertigo",3,400,0.0304394422209358,5
+"desvenlafaxine","sider","vision blurred",4,400,0.00395094740731916,5
+"desvenlafaxine","sider","constipation",2.25,100,0.00108391923418227,1.25
+"desvenlafaxine","sider","constipation",3.5,400,1.58837031305481e-07,5
+"desvenlafaxine","sider","somnolence",3,400,8.47100175516147e-06,5
+"desvenlafaxine","sider","decreased appetite",4,100,1.74476147558611e-05,1.25
+"desvenlafaxine","sider","tremor",4.5,200,5.74966030320034e-06,2.5
+"desvenlafaxine","sider","vomiting",2,200,0.0298774136465549,2.5
+"desvenlafaxine","sider","constipation",2.25,50,0.00211837195116149,0.625
+"desvenlafaxine","sider","fatigue",1.75,50,0.047375809766627,0.625
+"desvenlafaxine","sider","dry mouth",2.77777777777778,400,1.40592870678802e-10,5
+"desvenlafaxine","sider","nausea",2.6,100,3.71103148211205e-11,1.25
+"desvenlafaxine","sider","tremor",4.5,400,5.18973975416337e-06,5
+"desvenlafaxine","sider","somnolence",2.25,100,0.00108391923418227,1.25
+"desvenlafaxine","sider","decreased appetite",5,200,8.01603985189914e-07,2.5
+"desvenlafaxine","sider","fatigue",2.5,200,0.000402297499127569,2.5
+"desvenlafaxine","sider","constipation",2.5,200,0.000402297499127569,2.5
+"desvenlafaxine","sider","dry mouth",2.33333333333333,200,4.42021236279899e-07,2.5
+"desvenlafaxine","sider","nausea",4.1,400,0,5
+"desvenlafaxine","sider","vertigo",5,200,0.00055933471245817,2.5
+"dofetilide","sider","accidental injury",3,0.25,0.00775559649194468,0.003125
+"dofetilide","boxed_all","cardiovascular toxicity",NA,NA,NA,NA
+"dofetilide","sider","flu syndrome",2,0.25,0.0210093864507919,0.003125
+"dofetilide","sider","chest pain",1.42857142857143,0.25,0.0278852125071951,0.003125
+"dronedarone","sider","nausea",1.66666666666667,800,9.086771083755e-05,10
+"dronedarone","sider","asthenic conditions",1.4,800,0.00111650538210362,10
+"dronedarone","sider","dyspeptic signs and symptoms",2,800,0.00181016059168959,10
+"dronedarone","sider","qtc prolonged",1.47368421052632,800,4.05675493198032e-13,10
+"dronedarone","sider","abdominal pain",1.33333333333333,800,0.0347107712628316,10
+"dronedarone","sider","diarrhea",1.5,800,1.1328159746693e-05,10
+"dronedarone","sider","hospitalizations for heart failure",1.78945336627548,800,0.0211185380701777,10
+"dronedarone","sider","discontinuation because of adverse reactions occurred",1.53246753246753,800,1.05741778888557e-07,10
+"dronedarone","sider","bradycardia",3,800,1.78479193202463e-07,10
+"dronedarone","sider","vomiting",2,800,0.00181016059168959,10
+"dronedarone","sider","early increases in creatinine ≥10%",2.42857142857143,800,0,10
+"dronedarone","sider","including rashes, pruritus, eczema, dermatitis, dermatitis allergic",1.66666666666667,800,9.086771083755e-05,10
+"dronedarone","sider","stroke",2.29715873996294,800,0.0274434629756044,10
+"duloxetine","sider","libido decreased",3,40,0.00538091669051322,0.5
+"duloxetine","sider","dizziness",1.8,40,0.0012837354982731,0.5
+"duloxetine","sider","vomiting",1.66666666666667,40,0.03436809624828,0.5
+"duloxetine","boxed_all","neurotoxicity",NA,NA,NA,NA
+"duloxetine","sider","nausea",2.85714285714286,40,2.62012633811537e-13,0.5
+"duloxetine","sider","constipation",2.75,40,2.10316434046121e-07,0.5
+"duloxetine","sider","anorgasmia",3,40,0.00538091669051322,0.5
+"duloxetine","sider","erectile dysfunction 4,5",4,40,0.0003211425074654,0.5
+"duloxetine","sider","ejaculation dysfunction 4,5",3,40,0.00538091669051322,0.5
+"duloxetine","sider","general disorders fatigue",2,40,0.000617400725975825,0.5
+"duloxetine","sider","tremor",3,40,0.00538091669051322,0.5
+"duloxetine","sider","ejaculation delayed 4",4,40,0.0003211425074654,0.5
+"duloxetine","sider","insomnia 3",1.83333333333333,40,0.000241838878664913,0.5
+"duloxetine","sider","eye disorders vision blurred",4,40,0.0003211425074654,0.5
+"duloxetine","sider","somnolence",2.33333333333333,40,0.000241761788064121,0.5
+"duloxetine","sider","metabolism and nutrition disorders appetite decreased 2",4,40,2.97057123566091e-07,0.5
+"duloxetine","sider","skin and subcutaneous tissue disorders sweating increased",3,40,7.37611677803507e-05,0.5
+"duloxetine","sider","dry mouth",2.5,40,7.50628337264914e-09,0.5
+"eliglustat","sider","arthralgia",4.5,84,0.0353924842158944,1.05
+"eltrombopag","sider","nausea",3,50,0.0429472310833285,0.625
+"eltrombopag","boxed_all","hepatotoxicity",NA,NA,NA,NA
+"empagliflozin","sider","male genital mycotic infections",7.75,10,0.000111001505394004,0.125
+"empagliflozin","sider","increased urination",3.4,10,0.000614361276357167,0.125
+"empagliflozin","sider","male genital mycotic infections",4,25,0.013098435819584,0.3125
+"empagliflozin","sider","increased urination",3.2,25,0.00125866893015636,0.3125
+"empagliflozin","sider","female genital mycotic infections",4.26666666666667,25,3.27105923680904e-07,0.3125
+"empagliflozin","sider","female genital mycotic infections",3.6,10,9.11639261458319e-06,0.125
+"enzalutamide","sider","death",5.66666666666667,160,0.00528761772703223,2
+"enzalutamide","sider","weight decrease",4,160,0.000488672063107876,2
+"enzalutamide","sider","cognitive and attention disorders",3.06666666666667,160,0.0055855015851054,2
+"enzalutamide","sider","hypertension",2.4,160,7.33114397315493e-05,2
+"enzalutamide","sider","anxiety",7,160,0.0101379312233483,2
+"enzalutamide","sider","dizziness",2.4,160,7.33114397315493e-05,2
+"enzalutamide","sider","hypertension",2.09090909090909,160,0.0317032708571381,2
+"enzalutamide","sider","fractures",2.04081632653061,160,0.00165531283854414,2
+"enzalutamide","sider","asthenic conditions",2,160,6.97730762055926e-12,2
+"enzalutamide","sider","headache",2,160,0.00354778698460345,2
+"enzalutamide","sider","asthenic conditions",4.44444444444444,160,0.00360467031721301,2
+"enzalutamide","sider","decreased appetite",2.56410256410256,160,0.00016899465193343,2
+"enzalutamide","sider","grade 3 or higher adverse reactions",1.34782608695652,160,0.00230678317554589,2
+"enzalutamide","sider","hot flush",1.625,160,0.0065844132033086,2
+"enzalutamide","sider","fall",2.68292682926829,160,4.84490505590074e-05,2
+"eplerenone","sider","hyperkalaemia",1.7,25,0.000527859880023795,0.3125
+"eplerenone","sider","creatinine increase",1.6,25,0.00880251663901555,0.3125
+"erlotinib","sider","conjunctivitis",6,150,0.000122506119135224,1.875
+"erlotinib","sider","keratoconjunctivitis sicca",4,150,0.0003248188184648,1.875
+"erlotinib","sider","diarrhea",3,150,1.88737914186277e-14,1.875
+"erlotinib","sider","dry skin",3,150,0.00115557842681002,1.875
+"erlotinib","sider","stomatitis",5.66666666666667,150,4.73421223845527e-06,1.875
+"erlotinib","sider","rash",4.41176470588235,150,0,1.875
+"erlotinib","sider","diarrhea",5,150,1.51857859620463e-10,1.875
+"erlotinib","sider","rash",6.66666666666667,150,0,1.875
+"erlotinib","sider","pruritus",2.6,150,0.00166133752104303,1.875
+"erlotinib","sider","infection",1.6,150,0.00660660247331868,1.875
+"erlotinib","sider","anorexia",1.36842105263158,150,0.000742511355295905,1.875
+"erlotinib","sider","nausea",1.375,150,0.01538660347434,1.875
+"eszopiclone","sider","unpleasant taste",11.3333333333333,3,3.58442779422319e-05,0.0375
+"eszopiclone","sider","unpleasant taste",5.66666666666667,2,0.00453825600122881,0.025
+"everolimus","sider","diarrhea b",2,10,7.7746019266911e-07,0.125
+"everolimus","sider","asthenia",1.43478260869565,10,0.0430749889401776,0.125
+"everolimus","sider","aspartate transaminase increased",1.36585365853659,10,0.00287498637713113,0.125
+"everolimus","sider","alanine transaminase increased",1.37142857142857,10,0.00862078593600457,0.125
+"everolimus","boxed_all","cardiovascular toxicity",NA,NA,NA,NA
+"everolimus","sider","muscle spasms",2.5,10,0.0229583119826877,0.125
+"everolimus","sider","stomatitis a",3.5,10,0,0.125
+"everolimus","boxed_all","immune system toxicity",NA,NA,NA,NA
+"everolimus","sider","stomatitis a",5.5,10,1.01833486088054e-08,0.125
+"everolimus","sider","diarrhea",4.28571428571429,10,7.44222405746342e-06,0.125
+"everolimus","sider","urinary tract infection",2.66666666666667,10,0.00223212287545849,0.125
+"everolimus","sider","any adverse reaction",1.02040816326531,10,0.04391409031571,0.125
+"everolimus","sider","edema (general and peripheral)",3.25,10,1.77772387921493e-08,0.125
+"everolimus","sider","weight decrease",2.54545454545455,10,4.52013345528801e-05,0.125
+"everolimus","sider","dry mouth",2.75,10,0.0109008453197406,0.125
+"everolimus","sider","fatigue/malaise",1.66666666666667,10,0.000236874136190224,0.125
+"everolimus","sider","hypertension",2.16666666666667,10,0.0197293678439681,0.125
+"everolimus","sider","dry skin/xeroderma",2.16666666666667,10,0.0197293678439681,0.125
+"everolimus","sider","diabetes mellitus",20,10,0.00307818072709076,0.125
+"everolimus","sider","pruritus/pruritus generalized",1.61538461538462,10,0.0344174310443091,0.125
+"everolimus","sider","dry skin",2.6,10,0.0179867252132522,0.125
+"everolimus","sider","headache/migraine",2,10,0.0004756077361594,0.125
+"everolimus","sider","lymphocytes decreased",2.04545454545455,10,2.9754230181922e-06,0.125
+"everolimus","sider","arthralgia",2.14285714285714,10,0.0125552074509121,0.125
+"everolimus","sider","dyspnea/dyspnea exertional",2.85714285714286,10,0.000318582234875464,0.125
+"everolimus","sider","glucose (fasting) increased",1.41509433962264,10,7.4162267993394e-06,0.125
+"everolimus","sider","fever",2.38461538461538,10,3.34312921317359e-05,0.125
+"everolimus","sider","infections and i nfestations b",2.05555555555556,10,0.000286732489590324,0.125
+"everolimus","sider","bicarbonate decreased",1.4,10,0.00150559860892496,0.125
+"everolimus","sider","cough",1.875,10,0.00367726090184606,0.125
+"everolimus","boxed_all","nephrotoxicity",NA,NA,NA,NA
+"everolimus","sider","phosphate decreased",2.85714285714286,10,6.19479223473718e-08,0.125
+"everolimus","sider","triglycerides increased",3.9,10,2.39952968605905e-09,0.125
+"everolimus","sider","aspartate transaminase increased",3.57142857142857,10,0.000106686774192344,0.125
+"everolimus","sider","potassium decreased",4.6,10,4.20291652947213e-06,0.125
+"everolimus","sider","hemoglobin decrease",1.36507936507937,10,3.01568271243724e-07,0.125
+"everolimus","sider","anorexia",1.78571428571429,10,0.0140944456887828,0.125
+"everolimus","sider","wbc decreased",3.30769230769231,10,1.72636549500282e-09,0.125
+"everolimus","sider","hemoglobin decrease",1.16455696202532,10,0.00134517737377449,0.125
+"everolimus","sider","edema peripheral",3.125,10,0.000216497388836112,0.125
+"everolimus","sider","dyspnea",1.6,10,0.0410412046089843,0.125
+"everolimus","sider","nasopharyngitis/rhinitis/uri",1.92307692307692,10,0.00274468213957202,0.125
+"everolimus","sider","triglycerides increased",2.14705882352941,10,8.58989546159705e-10,0.125
+"everolimus","sider","neutrophils decreased",3.5,10,0.00482919674171733,0.125
+"everolimus","sider","decreased appetite",1.66666666666667,10,0.00551540540512319,0.125
+"everolimus","sider","pneumonitis c",38.8635973084886,10,0.00992313194815075,0.125
+"everolimus","sider","rash",4.14285714285714,10,1.25631616048061e-05,0.125
+"everolimus","sider","pain in extremity",2.33333333333333,10,0.00968748098282957,0.125
+"everolimus","sider","pruritus",2,10,0.0448557095527022,0.125
+"everolimus","sider","alanine transaminase increased",5.25,10,0.00013608666315168,0.125
+"everolimus","sider","platelets decreased",4.09090909090909,10,4.72695216302554e-11,0.125
+"everolimus","sider","dysgeusia",3.8,10,7.96686473119035e-05,0.125
+"everolimus","sider","neutrophils decreased",1.76470588235294,10,0.00256964581665664,0.125
+"everolimus","sider","pyrexia",2.22222222222222,10,0.0072391577268851,0.125
+"everolimus","sider","rash",3.10526315789474,10,4.08117983852208e-13,0.125
+"everolimus","sider","mucosal inflammation",19,10,0.000610194309433654,0.125
+"everolimus","sider","platelets decreased",11.5,10,5.92366759528673e-05,0.125
+"everolimus","sider","nail disorders",11,10,2.42992465260272e-06,0.125
+"everolimus","sider","glucose increased",2.28,10,1.52672038566948e-07,0.125
+"everolimus","sider","creatinine increased",1.47058823529412,10,0.00386301137412159,0.125
+"everolimus","sider","median duration of treatment",2.3125,10,5.82643226687551e-06,0.125
+"everolimus","sider","phosphate decreased",4.625,10,3.38744890804321e-07,0.125
+"everolimus","sider","epistaxis",22,10,1.36496569640432e-05,0.125
+"everolimus","sider","cholesterol increased",3,10,7.7715611723761e-15,0.125
+"everolimus","sider","pneumonitis c",35.1848308040343,10,0.012207781199266,0.125
+"everolimus","sider","cough/productive cough",1.92307692307692,10,0.00274468213957202,0.125
+"everolimus","sider","headache",2.11111111111111,10,0.0124340522597839,0.125
+"everolimus","sider","epistaxis",49.8235973084886,10,0.00582645711919505,0.125
+"everolimus","sider","lymphocytes decreased",1.82142857142857,10,5.88146528279765e-05,0.125
+"everolimus","sider","calcium decreased",3.08333333333333,10,9.31915338231448e-08,0.125
+"everolimus","sider","dysgeusia",5,10,0.0100102026328863,0.125
+"everolimus","sider","cholesterol increased",2.2,10,7.26518845084456e-11,0.125
+"febuxostat","boxed_all","cardiovascular toxicity",NA,NA,NA,NA
+"febuxostat","sider","liver function abnormalities",9.42857142857143,40,0.030639887120663,0.5
+"fedratinib","boxed_all","gastrointestinal toxicity",NA,NA,NA,NA
+"fedratinib","sider","anemia",2.85714285714286,400,0.000211349264441552,5
+"fedratinib","sider","vomiting",7.8,400,1.00182730009557e-05,5
+"fedratinib","sider","blood creatinine increased",9.09090909090909,400,0.0304456964120274,5
+"fedratinib","sider","alt increase",8.18181818181818,400,0.0404068755493059,5
+"fedratinib","sider","amylase increased",4.8,400,0.00115501490237535,5
+"fedratinib","sider","anemia",4.28571428571429,400,0.000328305142669683,5
+"fedratinib","sider","anemia",2.3125,400,2.03330559944703e-07,5
+"fedratinib","sider","thrombocytopenia",1.80769230769231,400,0.0037426048272422,5
+"fedratinib","sider","headache",8.18181818181818,400,0.0404068755493059,5
+"fedratinib","sider","ast increase",2.5,400,0.000578520932787763,5
+"fedratinib","sider","diarrhea",4.125,400,8.66186278258851e-09,5
+"fedratinib","sider","nausea",4.13333333333333,400,3.34447636252122e-08,5
+"fedratinib","sider","hyponatremia",2.36363636363636,400,0.011128458000552,5
+"fedratinib","sider","creatinine increased",3.10526315789474,400,6.92249709111081e-07,5
+"fedratinib","sider","muscle spasms",10.9090909090909,400,0.0181368778685458,5
+"fedratinib","sider","lipase increased",4.54545454545455,400,0.0433535783049732,5
+"fedratinib","sider","lipase increased",5,400,5.48921448815243e-05,5
+"fedratinib","sider","alt increase",3.07142857142857,400,6.17895909413857e-05,5
+"fedratinib","sider","anemia",3.4,400,0.000306923828514716,5
+"fesoterodine","sider","dyspepsia",4.6,8,0.020570140785696,0.1
+"fesoterodine","sider","dry throat",5.75,8,0.0157241458616091,0.1
+"fesoterodine","sider","dry mouth",4.94285714285714,8,0,0.1
+"fesoterodine","sider","back pain",5,4,0.028204784813731,0.05
+"fesoterodine","sider","constipation",3,8,0.00126471417898388,0.1
+"fesoterodine","sider","constipation",2.1,4,0.0393242781305998,0.05
+"fesoterodine","sider","dry eyes",21.4437574025843,8,0.031983350571857,0.1
+"fesoterodine","sider","dry mouth",2.68571428571429,4,2.98915192598059e-08,0.05
+"finasteride","sider","gynecomastia",3.14285714285714,4,0.022102305969715,0.05
+"finasteride","sider","impotence",1.51639344262295,4,0.00082590542872718,0.05
+"finasteride","sider","sexual function abnormal",2.77777777777778,4,0.0224055483187493,0.05
+"finasteride","sider","abnormal ejaculation",3.1304347826087,4,2.87432341534721e-05,0.05
+"finasteride","sider","libido decreased",1.75438596491228,4,0.00235724336433951,0.05
+"fingolimod","sider","bronchitis",1.6,0.5,0.0176987501065442,0.00625
+"fingolimod","sider","blood triglycerides increased",3,0.5,0.00759634021610478,0.00625
+"fingolimod","sider","liver transaminase elevations",3.75,0.5,1.42656997326185e-11,0.00625
+"fingolimod","sider","pain in extremity",1.42857142857143,0.5,0.0351986339894894,0.00625
+"fingolimod","sider","hypertension",2,0.5,0.00119041827118127,0.00625
+"fingolimod","sider","influenza",1.375,0.5,0.0448926075507308,0.00625
+"fingolimod","sider","bradycardia",3,0.5,0.00759634021610478,0.00625
+"fingolimod","sider","vision blurred",2,0.5,0.0238021947027893,0.00625
+"galantamine","sider","nausea",3.4,24,2.50370442762549e-05,0.3
+"galantamine","sider","diarrhea",2,16,0.0149113163960641,0.2
+"galantamine","sider","weight decrease",5,24,0.0125576068460662,0.3
+"galantamine","sider","vomiting",6,16,0.00472973351677197,0.2
+"galantamine","sider","nausea",2.6,16,0.0014848591692711,0.2
+"galantamine","sider","vomiting",10,24,0.00018430266926317,0.3
+"galantamine","sider","anorexia",2.33333333333333,16,0.0345318441806803,0.2
+"galantamine","sider","anorexia",3,24,0.004571850527882,0.3
+"galantamine","sider","weight decrease",5,16,0.0123990102125775,0.2
+"ivabradine","sider","phosphenes, visual brightness",5.6,10,1.12393427897928e-10,0.125
+"ivabradine","sider","atrial fibrillation",1.25757575757576,10,0.00903371783320561,0.125
+"ivabradine","sider","bradycardia",4.54545454545455,10,0,0.125
+"lamivudine","boxed_all","hepatotoxicity",NA,NA,NA,NA
+"lamivudine","boxed_all","metabolic toxicity",NA,NA,NA,NA
+"lamivudine","sider","alt increase",2.375,100,0.000889662366598154,1.25
+"lanthanum","sider","dialysis graft occlusion",8,NA,0.0480088951285613,NA
+"lenalidomide","sider","cough",16.6666666666667,5,5.95152571669644e-09,0.0625
+"lenalidomide","sider","rash",10.1333333333333,5,0.0218813064127643,0.0625
+"lenalidomide","sider","respiratory tract infection",4.6,5,0.0356881385201369,0.0625
+"lenalidomide","boxed_all","cardiovascular toxicity",NA,NA,NA,NA
+"lenalidomide","boxed_all","respiratory toxicity",NA,NA,NA,NA
+"lenalidomide","boxed_all","hematological toxicity",NA,NA,NA,NA
+"lenalidomide","sider","thrombocytopenia",15.4666666666667,5,9.28356931759744e-05,0.0625
+"lenalidomide","sider","neutropenia",4.29050279329609,5,4.26580473167348e-08,0.0625
+"lenalidomide","sider","constipation",2.61333333333333,5,0.0377531884189048,0.0625
+"lenalidomide","sider","pruritus",5.31111111111111,5,0.00417758066082552,0.0625
+"lenvatinib","sider","hypotension",4.5,24,0.0192303750918064,0.3
+"lenvatinib","sider","nausea",1.88,24,0.000130163156633722,0.3
+"lenvatinib","sider","stomatitis",5.125,24,8.799800510495e-08,0.3
+"lenvatinib","sider","weight decrease",13,24,0.00371151932545355,0.3
+"lenvatinib","sider","palmar-plantar erythrodysesthesia",32,24,7.32740827174005e-05,0.3
+"lenvatinib","sider","constipation",1.93333333333333,24,0.00406044722184618,0.3
+"lenvatinib","sider","epistaxis",12,24,0.0050046520850171,0.3
+"lenvatinib","sider","diarrhea",24.1731297709924,24,0.0253884173705845,0.3
+"lenvatinib","sider","arthralgia/myalgia",2.21428571428571,24,8.22339554229501e-08,0.3
+"lenvatinib","sider","edema peripheral",2.625,24,0.00253751263095592,0.3
+"lenvatinib","sider","hypertension",4.5625,24,9.2370555648813e-14,0.3
+"lenvatinib","sider","decreased appetite",3,24,1.77235224274597e-08,0.3
+"lenvatinib","sider","diarrhea",3.94117647058824,24,4.18398649060236e-12,0.3
+"lenvatinib","sider","dehydration",4.5,24,0.0192303750918064,0.3
+"lenvatinib","sider","headache",3.45454545454545,24,1.99914375254018e-06,0.3
+"lenvatinib","sider","vomiting",2.4,24,9.13305183525281e-05,0.3
+"lenvatinib","sider","abdominal pain",2.81818181818182,24,9.30808782171333e-05,0.3
+"lenvatinib","sider","proteinuria",29.4329770992366,24,0.0174079635359543,0.3
+"lenvatinib","sider","oral pain",12.5,24,4.74736876068249e-05,0.3
+"lenvatinib","sider","dry mouth",2.125,24,0.0208975178744213,0.3
+"lenvatinib","sider","dyspepsia",3.25,24,0.00990508488215647,0.3
+"lenvatinib","sider","fatigue",1.91428571428571,24,3.00204857195396e-07,0.3
+"lenvatinib","sider","insomnia",4,24,0.00819419686623535,0.3
+"lenvatinib","sider","dental and oral infections",10,24,0.00959007552790814,0.3
+"lenvatinib","sider","electrocardiogram qt prolonged",4.5,24,0.0192303750918064,0.3
+"lenvatinib","sider","weight decrease",3.4,24,1.61785909114087e-08,0.3
+"lenvatinib","sider","hypertension",11,24,3.21839939143587e-08,0.3
+"lenvatinib","sider","fatigue",2.75,24,0.0288364228512521,0.3
+"lenvatinib","sider","dysgeusia",6,24,0.000491398730707582,0.3
+"lenvatinib","sider","proteinuria",11.3333333333333,24,1.47436493680431e-06,0.3
+"lenvatinib","sider","rash",7,24,0.000140532810795069,0.3
+"lenvatinib","sider","alopecia",2.4,24,0.0353775249158557,0.3
+"lenvatinib","sider","dysphonia",6.2,24,3.22498122873327e-06,0.3
+"lenvatinib","sider","decreased appetite",7,24,0.030262582848922,0.3
+"levetiracetam","sider","asthenia",1.45360824742268,1000,0.047390739312658,12.5
+"levetiracetam","sider","diarrhoea",19.6078431372549,1000,0,12.5
+"levetiracetam","sider","ataxia",3,1000,0.0336780846211344,12.5
+"levetiracetam","sider","infection",1.78378378378378,1000,0.00662640345005339,12.5
+"levetiracetam","sider","vertigo",3,1000,0.0336780846211344,12.5
+"levetiracetam","sider","somnolence",1.5360824742268,1000,0.0218099146629815,12.5
+"levetiracetam","sider","dizziness",2.13953488372093,1000,0.00649453540572531,12.5
+"levetiracetam","sider","somnolence",1.875,1000,0.000601049673243592,12.5
+"levetiracetam","sider","dizziness",2.25,1000,0.0018460497831061,12.5
+"levetiracetam","sider","infection",1.625,1000,0.00935177793794817,12.5
+"levetiracetam","sider","asthenia",1.66666666666667,1000,0.00339249347452686,12.5
+"levocetirizine","sider","somnolence",2.5,2.5,0.00347777020419393,0.03125
+"levocetirizine","sider","somnolence",3,5,2.46694977308337e-05,0.0625
+"levocetirizine","sider","fatigue",2,5,0.0117220613817404,0.0625
+"levocetirizine","sider","dry mouth",3,2.5,0.0104938869799285,0.03125
+"levocetirizine","sider","nasopharyngitis",2,2.5,0.0099520752441693,0.03125
+"linagliptin","sider","cough",1.5,5,0.0240423052026859,0.0625
+"lisdexamfetamine","sider","dry mouth",8.66666666666667,30,0.00299934975357741,0.375
+"lisdexamfetamine","sider","dry mouth",5.14285714285714,30,4.44089209850063e-16,0.375
+"lisdexamfetamine","boxed_all","neurotoxicity",NA,NA,NA,NA
+"lisdexamfetamine","sider","insomnia",3.375,30,0.00563029464574738,0.375
+"lisdexamfetamine","sider","decreased appetite",13.5,30,0.00357094869673857,0.375
+"lisdexamfetamine","boxed_all","gastrointestinal toxicity",NA,NA,NA,NA
+"lorcaserin","sider","nausea",1.54808064070699,20,4.31676338186193e-06,0.25
+"lorcaserin","sider","vomiting",1.46527895620039,20,0.00637875467652838,0.25
+"lorcaserin","sider","headache",2.0234375,20,0.0099207078033221,0.25
+"lorcaserin","sider","hypoglycemia",1.39298349056604,20,0.0335808230184289,0.25
+"lorcaserin","sider","constipation",1.4833427230047,20,0.00047933308052972,0.25
+"lorcaserin","sider","musculoskeletal pain",1.50689667722095,20,0.0354525268846997,0.25
+"lorcaserin","sider","dry mouth",2.2766357907203,20,1.97858396333572e-09,0.25
+"lorcaserin","sider","dizziness",2.20618794735627,20,9.17044218340379e-14,0.25
+"lorcaserin","sider","fatigue",2.00248469373747,20,5.37051292326396e-10,0.25
+"lorcaserin","sider","headache",1.66766121129686,20,8.88178419700125e-15,0.25
+"lorcaserin","sider","oropharyngeal pain",1.3831572769953,20,0.024789331403595,0.25
+"macitentan","sider","influenza",3,10,0.0316928555595593,0.125
+"macitentan","sider","nasopharyngitis/pharyngitis",1.53846153846154,10,0.0386692520180394,0.125
+"macitentan","sider","anemia",4.33333333333333,10,0.000220110961014264,0.125
+"macitentan","sider","decrease in hemoglobin to below 10.0 g/dl",2.55882352941176,10,0.0179001657984101,0.125
+"macitentan","sider","bronchitis",2,10,0.0231943096477194,0.125
+"maraviroc","boxed_all","hepatotoxicity",NA,NA,NA,NA
+"maraviroc","sider","upper respiratory tract infection",1.73913043478261,300,0.0100450274465143,3.75
+"maraviroc","sider","rash",2,300,0.0427213468753016,3.75
+"maraviroc","sider","coughing and associated symptoms",2.64583333333333,300,0.00350041374105792,3.75
+"meloxicam","sider","gastrointestinal disorders",1.34042553191489,5,0.0477780973680157,0.0625
+"meloxicam","boxed_all","cardiovascular toxicity",NA,NA,NA,NA
+"meloxicam","boxed_all","gastrointestinal toxicity",NA,NA,NA,NA
+"meloxicam","boxed_all","neurotoxicity",NA,NA,NA,NA
+"meloxicam","sider","abdominal pain nos",4.83333333333333,5,0.0153965570338703,0.0625
+"meloxicam","sider","abdominal pain nos",3.83333333333333,15,0.0433302440871262,0.1875
+"memantine","sider","headache",2,20,0.00223070941142289,0.25
+"memantine","sider","hypertension",2,20,0.0131620341115335,0.25
+"memantine","sider","constipation",1.66666666666667,20,0.0294002363671184,0.25
+"memantine","sider","pain",3,20,0.00336671523916943,0.25
+"midostaurin","sider","nausea",2.61111111111111,100,0.000131259541080064,1.25
+"midostaurin","sider","hypernatremia",1.4,100,0.0436622158026114,1.25
+"midostaurin","sider","arthralgia",1.75,100,0.0446979741278923,1.25
+"midostaurin","sider","nausea",1.18571428571429,100,0.00126166126733174,1.25
+"midostaurin","sider","musculoskeletal pain",2.5,100,0.0411462540278875,1.25
+"midostaurin","sider","petechiae",1.33333333333333,100,0.0405333480776948,1.25
+"midostaurin","sider","vomiting",3.8,100,0.00871797888650105,1.25
+"midostaurin","sider","device-related infection",1.6,100,0.0219565644541793,1.25
+"midostaurin","sider","hyperhidrosis",1.75,100,0.0446979741278923,1.25
+"miltefosine","sider","nausea",3.23423423423423,200,0.00902502678532291,2.5
+"mirabegron","sider","nasopharyngitis",1.56,25,0.0385200599265352,0.3125
+"mirabegron","sider","urinary tract infection",2.33333333333333,25,0.00529659997053655,0.3125
+"mirabegron","sider","hypertension",1.48684210526316,25,0.0157420542880176,0.3125
+"modafinil","sider","dry mouth",4,150,0.00651999939282022,1.875
+"modafinil","sider","dizziness",2.5,150,0.01418035525832,1.875
+"modafinil","sider","insomnia",5,150,0.00134347667875079,1.875
+"modafinil","sider","nausea",2.33333333333333,150,0.00552755211850608,1.875
+"modafinil","sider","anxiety",4,150,0.00651999939282022,1.875
+"modafinil","sider","headache",1.88888888888889,150,0.000257990691280074,1.875
+"montelukast","sider","gastroenteritis, infectious",3,10,0.0201607816879459,0.125
+"montelukast","boxed_all","neurotoxicity",NA,NA,NA,NA
+"montelukast","boxed_all","neurotoxicity",NA,NA,NA,NA
+"naldemedine","sider","abdominal pain**",2.2,0.2,0.000162797460922626,0.0025
+"naldemedine","sider","abdominal pain**",4,0.4,3.61751289603696e-05,0.005
+"naldemedine","sider","diarrhea",3.5,0.4,0.000233834393923216,0.005
+"naldemedine","sider","gastroenteritis",3,0.2,0.0170317086547551,0.0025
+"naldemedine","sider","diarrhea",2.33333333333333,0.2,0.00179279853300152,0.0025
+"naloxegol","sider","flatulence",2,25,0.0348868506852646,0.3125
+"naloxegol","sider","abdominal pain†",3,25,2.02989174358237e-08,0.3125
+"naloxegol","sider","diarrhea",1.8,25,0.0216008818119116,0.3125
+"naloxegol","sider","abdominal pain†",1.71428571428571,12.5,0.0124843604154761,0.15625
+"naloxegol","sider","hyperhidrosis",6,25,0.0130257022178339,0.3125
+"naratriptan","sider","neurological",2.33333333333333,2.5,0.00388538852496589,0.03125
+"naratriptan","sider","atypical sensation",4,2.5,0.00441086268881175,0.03125
+"nateglinide","sider","hypoglycemia",6,180,0.0178208230891337,2.25
+"nebivolol","sider","fatigue",5,20,0.0243554279916391,0.25
+"olaparib","sider","increase in serum creatinine",3.21428571428571,400,9.2220447145408e-07,5
+"olaparib","sider","vomiting",1.94736842105263,300,0.00340591258655909,3.75
+"olaparib","sider","dysgeusia",3.85714285714286,300,0.000451140198022282,3.75
+"olaparib","sider","decrease in lymphocytes",3.33333333333333,400,0.0324365028895153,5
+"olaparib","sider","decrease in leukocytes",1.4375,300,0.00161541078275795,3.75
+"olaparib","sider","decrease in lymphocytes",1.81081081081081,300,2.35983232610426e-05,3.75
+"olaparib","sider","decrease in hemoglobin",1.41379310344828,400,4.63866592015361e-05,5
+"olaparib","sider","nausea",2.3030303030303,300,2.04540842041467e-08,3.75
+"olaparib","sider","anemia",4.88888888888889,300,1.47709551234776e-06,3.75
+"olaparib","sider","decrease in platelets",1.90909090909091,300,0.00179537713543088,3.75
+"olaparib","sider","decrease in hemoglobin",34.3367346938776,300,0.0127242433942738,3.75
+"olaparib","sider","fatigue including asthenia",1.69230769230769,300,0.000107012880832036,3.75
+"olaparib","sider","decreased appetite",2,300,0.0283123557942868,3.75
+"olaparib","sider","nausea",1.97222222222222,400,1.67444686782758e-07,5
+"olaparib","sider","headache",1.85714285714286,300,0.0253500077356281,3.75
+"olaparib","sider","anemia",10,300,0.0013406411051351,3.75
+"olaparib","sider","increase in mean corpuscular volume",1.71153846153846,300,7.23268340774297e-08,3.75
+"olaparib","sider","decrease in hemoglobin",1.20289855072464,300,0.0134677770820713,3.75
+"olaparib","sider","anemia",7,400,0.0369259805457851,5
+"olaparib","sider","vomiting",2.5,400,0.000218691267296789,5
+"olaparib","sider","decrease in absolute neutrophil count",1.5,300,0.00963735982805147,3.75
+"olaparib","sider","increase in serum creatinine",1.51724137931034,300,0.018371294313146,3.75
+"olaparib","sider","decrease in lymphocytes",1.625,400,0.0014556262787202,5
+"olaparib","sider","decrease in lymphocytes",11,300,0.0187913168489482,3.75
+"olaparib","sider","anemia",3.28571428571429,400,0.00088645830919365,5
+"olaparib","sider","respiratory tract infection",2,400,0.020087159943381,5
+"olaparib","sider","constipation",1.83333333333333,400,0.0353663289004613,5
+"olaparib","sider","fatigue",1.3695652173913,400,0.00664610788269293,5
+"olaparib","sider","decrease in leukocytes",1.56756756756757,400,0.00095707109492138,5
+"olaparib","sider","increase in mean corpuscular volume",1.6078431372549,400,6.07981736733265e-07,5
+"olaparib","sider","decrease in hemoglobin",8,400,0.0242704184935754,5
+"olaparib","sider","decrease in platelets",2,400,0.00162648061240378,5
+"orlistat","sider","oily spotting",20.4615384615385,120,0,1.5
+"orlistat","sider","psychiatric anxiety",1.62068965517241,120,0.00827813727075255,1.5
+"orlistat","sider","oily evacuation",14.875,120,0,1.5
+"orlistat","sider","fatty/oily stool",9.16666666666667,120,0.000159049822021418,1.5
+"orlistat","sider","fatty/oily stool",6.89655172413793,120,0,1.5
+"orlistat","sider","fecal incontinence",9,120,0.0313011317105201,1.5
+"orlistat","sider","fecal urgency",3.29850746268657,120,0,1.5
+"orlistat","sider","flatus with discharge",17.0714285714286,120,0,1.5
+"orlistat","sider","abdominal pain/discomfort",1.19158878504673,120,0.00577461892790865,1.5
+"orlistat","sider","menstrual irregularity",1.30666666666667,120,0.0200199599890556,1.5
+"orlistat","sider","oily evacuation",11.5,120,0.015674560819908,1.5
+"orlistat","sider","increased defecation",2.63414634146341,120,1.02784447619797e-11,1.5
+"orlistat","sider","upper respiratory infection",1.16158536585366,120,0.00157768243058265,1.5
+"orlistat","sider","fecal incontinence",8.55555555555556,120,5.28466159721575e-14,1.5
+"orlistat","sider","increased defecation",3.25,120,0.0307708000030751,1.5
+"orlistat","sider","flatus with discharge",10.5,120,0.0204087407478566,1.5
+"orlistat","sider","influenza",1.09668508287293,120,0.0388584313050035,1.5
+"orlistat","sider","oily spotting",22,120,0.0018697612712002,1.5
+"osimertinib","sider","decreased appetite",3.42105263157895,80,5.849355854326e-05,1
+"osimertinib","sider","thrombocytopenia",6.71428571428571,80,0,1
+"osimertinib","sider","nail toxicity ¶",9.73684210526316,80,4.44089209850063e-16,1
+"osimertinib","sider","dry skin §§",4.14285714285714,80,3.41806583037396e-11,1
+"osimertinib","sider","leukopenia",2.16,80,4.07895939247283e-13,1
+"osimertinib","sider","neutropenia",2.6,80,2.88834219208667e-07,1
+"osimertinib","sider","diarrhea *",2.35,80,3.07132097532303e-12,1
+"osimertinib","sider","anemia",2.5,80,5.13949669489477e-08,1
+"osimertinib","sider","diarrhea *",8,80,0.0463565016901284,1
+"osimertinib","sider","stomatitis ‡",4.57142857142857,80,7.98694443915338e-13,1
+"osimertinib","sider","abdominal pain**",1.71428571428571,80,0.0284205372852881,1
+"osimertinib","sider","rash§",2.10526315789474,80,1.00522619117527e-08,1
+"osimertinib","sider","pruritus #",2.11111111111111,80,0.000272155478464153,1
+"osimertinib","sider","lymphopenia",3.14285714285714,80,7.54951656745106e-15,1
+"osimertinib","sider","hypermagnesemia",1.71428571428571,80,0.00110704772332393,1
+"osimertinib","sider","lymphopenia",3.77777777777778,80,0.0368265947182924,1
+"oxcarbazepine","sider","somnolence",3,2400,5.35105768117994e-06,30
+"oxcarbazepine","sider","dizziness",2,600,0.00393024716673995,7.5
+"oxcarbazepine","sider","pain abdominal",2.6,1200,0.0147653620610655,15
+"oxcarbazepine","sider","nystagmus",4,1200,0.000188602107928926,15
+"oxcarbazepine","sider","vision abnormal",3.5,1200,0.00319127851752121,15
+"oxcarbazepine","sider","nystagmus",5.2,2400,8.4499715431452e-06,30
+"oxcarbazepine","sider","fatigue",2.14285714285714,600,0.0244875294450109,7.5
+"oxcarbazepine","sider","vomiting",2.6,600,0.0153937707975413,7.5
+"oxcarbazepine","sider","nausea",2.5,1200,0.000625056222048004,15
+"oxcarbazepine","sider","diplopia",6,1200,5.55424349402145e-07,15
+"oxcarbazepine","sider","vomiting",7.2,2400,3.68038512998936e-08,30
+"oxcarbazepine","sider","vomiting",5,1200,9.43189080815365e-06,15
+"oxcarbazepine","sider","dizziness",3.76923076923077,2400,1.74069203495719e-09,30
+"oxcarbazepine","sider","dizziness",2.46153846153846,1200,8.76986269915392e-05,15
+"oxcarbazepine","sider","vertigo",7.5,2400,0.00055081044498495,30
+"oxcarbazepine","sider","ataxia",3.4,1200,0.00121183794403579,15
+"oxcarbazepine","sider","tremor",3.2,2400,0.0032426482986132,30
+"oxcarbazepine","sider","gait abnormal",10,1200,0.00426095976928886,15
+"oxcarbazepine","sider","ataxia",6.2,2400,5.17874737093749e-07,30
+"oxcarbazepine","sider","dizziness",3.66666666666667,1200,0.0360654760076686,15
+"oxcarbazepine","sider","vertigo",6,1200,0.00205877175357005,15
+"oxcarbazepine","sider","fatigue",2.14285714285714,2400,0.0311157807706499,30
+"oxcarbazepine","sider","diplopia",280,600,0,7.5
+"oxcarbazepine","sider","somnolence",2.33333333333333,1200,0.000497772508057714,15
+"oxcarbazepine","sider","gait abnormal",17,2400,0.000377898321386461,30
+"oxcarbazepine","sider","diplopia",8,2400,4.92306639898743e-09,30
+"oxcarbazepine","sider","nausea",2.9,2400,8.73418765225953e-05,30
+"oxcarbazepine","sider","vision abnormal",3.25,2400,0.00802791211332199,30
+"paliperidone","sider","total percentage of subjects with adverse reactions",1.34375,3,0.0222890552350081,0.0375
+"paliperidone","boxed_all","neurotoxicity",NA,NA,NA,NA
+"paliperidone","sider","parkinsonism",4.66666666666667,3,0.000942038380792765,0.0375
+"paliperidone","sider","somnolence",2.4,9,0.0331473561073095,0.1125
+"paliperidone","sider","extrapyramidal symptoms",2.125,9,0.0210527213573279,0.1125
+"paliperidone","sider","total percentage of subjects with adverse reactions",1.5625,9,0.00193441045943699,0.1125
+"paliperidone","sider","weight increase",5,3,0.0485981662094404,0.0375
+"paliperidone","sider","total percentage of subjects with adverse reactions",1.5,3,0.00467815932996962,0.0375
+"paliperidone","sider","overall percentage of patients with eps-related ae",2,9,0.0120567711609514,0.1125
+"paliperidone","sider","extrapyramidal symptoms",2.5,3,0.00279778599157776,0.0375
+"paliperidone","sider","somnolence",2.4,3,0.0296013639465849,0.0375
+"paliperidone","sider","tremor",4,3,0.00369037419867158,0.0375
+"paliperidone","sider","overall percentage of patients with eps-related ae",2.09090909090909,3,0.00565506937496929,0.0375
+"paliperidone","sider","tremor",3.66666666666667,9,0.00834563222439644,0.1125
+"pazopanib","sider","vomiting",2.625,800,0.00148855866162378,10
+"pazopanib","sider","fatigue",2.375,800,0.00478522463425257,10
+"pazopanib","sider","alt increase",2.40909090909091,800,1.15059146876817e-07,10
+"pazopanib","sider","leukopenia",6.16666666666667,800,7.0521966710757e-08,10
+"pazopanib","sider","bilirubin increase",3.6,800,9.34384047024395e-07,10
+"pazopanib","sider","nausea",2.88888888888889,800,0.000168941928161193,10
+"pazopanib","sider","hair color changes",12.6666666666667,800,1.09539284753879e-07,10
+"pazopanib","sider","glucose decreased",5.66666666666667,800,0.000397049708591224,10
+"pazopanib","sider","anorexia",2.2,800,0.00381978444076436,10
+"pazopanib","boxed_all","hepatotoxicity",NA,NA,NA,NA
+"pazopanib","sider","neutropenia",5.66666666666667,800,3.04147874441441e-07,10
+"pazopanib","sider","diarrhea",5.77777777777778,800,8.26445578638868e-11,10
+"pazopanib","sider","magnesium decreased",1.85714285714286,800,0.00672811940600782,10
+"pazopanib","sider","ast increase",2.78947368421053,800,1.24095989040285e-08,10
+"pazopanib","sider","phosphorus decreased",3.09090909090909,800,6.35829904527263e-06,10
+"pazopanib","sider","thrombocytopenia",6.4,800,6.02407201455435e-07,10
+"pazopanib","sider","hypertension",4,800,8.98691301376431e-08,10
+"pazopanib","sider","abdominal pain",11,800,0.00444868058382353,10
+"perampanel","sider","falls",3.33333333333333,12,0.000344659108529655,0.15
+"perampanel","sider","weight increase",4,4,0.0214886358255724,0.05
+"perampanel","sider","dizziness",3.55555555555556,8,2.79776202205539e-14,0.1
+"perampanel","sider","rate of discontinuationrate of discontinuation as a result of an adverse reaction",3.8,12,8.12375426928469e-08,0.15
+"perampanel","sider","back pain",2.5,12,0.0381375381058737,0.15
+"perampanel","sider","dysarthria",37.2433628318584,12,0.0125200279634374,0.15
+"perampanel","sider","vertigo",3,8,0.044523386756911,0.1
+"perampanel","sider","coordination abnormal",19.6017699115044,12,0.0445142162802117,0.15
+"perampanel","sider","dizziness",1.77777777777778,4,0.012779134542368,0.05
+"perampanel","sider","vertigo",4,4,0.0214886358255724,0.05
+"perampanel","sider","arthralgia",3,8,0.044523386756911,0.1
+"perampanel","sider","dizziness",4.77777777777778,12,0,0.15
+"perampanel","sider","somnolence",2.28571428571429,8,5.76220936292504e-05,0.1
+"perampanel","sider","irritability",2.33333333333333,8,0.00859791121741615,0.1
+"perampanel","sider","ataxia",27.5439351851852,8,0.0211839186523406,0.1
+"perampanel","sider","gait disturbance",4,8,0.00875662694058432,0.1
+"perampanel","sider","dysarthria",27.5439351851852,8,0.0211839186523406,0.1
+"perampanel","sider","anxiety",3,8,0.044523386756911,0.1
+"perampanel","sider","blurred vision",3,8,0.044523386756911,0.1
+"perampanel","sider","weight increase",4,12,0.0159149216023113,0.15
+"perampanel","sider","weight increase",4,8,0.00875662694058432,0.1
+"perampanel","sider","hypersomnia",18.7044444444444,8,0.0435289568788013,0.1
+"perampanel","sider","balance disorder",5,8,0.00188026196923574,0.1
+"perampanel","sider","fatigue",2.4,12,0.00145008841380778,0.15
+"perampanel","sider","hypersomnia",28.4225663716814,12,0.0218606622070854,0.15
+"perampanel","sider","somnolence",2.57142857142857,12,2.54318066521542e-05,0.15
+"perampanel","sider","irritability",4,12,2.01608831922329e-05,0.15
+"perampanel","sider","gait disturbance",4,12,0.0159149216023113,0.15
+"perampanel","sider","euphoric mood",19.6017699115044,12,0.0445142162802117,0.15
+"perampanel","sider","ataxia",72.5265486725664,12,0.00275380188733099,0.15
+"perampanel","sider","vertigo",5,12,0.00375549688629717,0.15
+"perampanel","sider","anxiety",4,12,0.0159149216023113,0.15
+"perampanel","sider","blurred vision",4,12,0.0159149216023113,0.15
+"perampanel","sider","anger",6,12,0.0200750694900012,0.15
+"pimavanserin","sider","peripheral edema",3.5,34,0.0174795741037213,0.425
+"pioglitazone","sider","stroke",1.30738129016106,45,0.0488298284354618,0.5625
+"pioglitazone","sider","cardiac intervention",1.24399822825926,45,0.0180889027328572,0.5625
+"pioglitazone","boxed_all","cardiovascular toxicity",NA,NA,NA,NA
+"pioglitazone","sider","acute coronary syndrome",1.51612284069098,45,0.0349027610855182,0.5625
+"pioglitazone","sider","any event",1.12480189996789,45,0.0298060824009021,0.5625
+"pioglitazone","sider","pharyngitis",6.375,15,0.00945347521501749,0.1875
+"pioglitazone","sider","any event",1.13284396564706,45,0.00177592633124823,0.5625
+"pirfenidone","sider","photosensitivity",9,2403,1.48734187410682e-07,30.0375
+"pirfenidone","sider","rash",3,2403,4.44089209850063e-16,30.0375
+"pirfenidone","sider","abdominal pain",1.6,2403,7.84212995637024e-05,30.0375
+"pirfenidone","sider","vomiting",2.16666666666667,2403,4.4334312362615e-05,30.0375
+"pirfenidone","sider","gastro-esophageal reflux disease",1.57142857142857,2403,0.0146358935878863,30.0375
+"pirfenidone","sider","weight decrease",2,2403,0.00107036141453221,30.0375
+"pirfenidone","sider","dyspepsia",2.71428571428571,2403,2.6310020828646e-09,30.0375
+"pirfenidone","sider","pruritus",1.6,2403,0.0335648679906511,30.0375
+"pirfenidone","sider","nausea",2.25,2403,2.17603712826531e-14,30.0375
+"pirfenidone","sider","permanently discontinued treatment because of an adverse event",1.52083333333333,2403,0.00736989751253714,30.0375
+"pirfenidone","sider","diarrhea",1.3,2403,0.0122809101639216,30.0375
+"pirfenidone","sider","fatigue",1.36842105263158,2403,0.00330748185539331,30.0375
+"pirfenidone","sider","decreased appetite",2.625,2403,6.84092338332221e-10,30.0375
+"pirfenidone","sider","dizziness",1.63636363636364,2403,0.000543514703739811,30.0375
+"pirfenidone","sider","dysgeusia",3,2403,0.000644824242554076,30.0375
+"plecanatide","sider","diarrhea",5,3,1.25812708657858e-05,0.0375
+"plecanatide","sider","discontinuations due to adverse reactions",2,3,0.0168616410135116,0.0375
+"pregabalin","sider","neuropathy",3.8961038961039,75,0.000924931111809579,0.9375
+"pregabalin","sider","chest pain",5.1948051948052,75,0.014331246439977,0.9375
+"pregabalin","sider","ataxia",7.79220779220779,75,0.000729589903137207,0.9375
+"pregabalin","sider","somnolence",134.994807892004,300,0,3.75
+"pregabalin","sider","dizziness",143.302180685358,300,0,3.75
+"raloxifene","boxed_all","neurotoxicity",NA,NA,NA,NA
+"raloxifene","sider","flu syndrome",15.4333333333333,60,0,0.75
+"raloxifene","boxed_all","respiratory toxicity",NA,NA,NA,NA
+"raloxifene","boxed_all","cardiovascular toxicity",NA,NA,NA,NA
+"ranolazine","sider","nausea",2.42395209580838,1000,0.0173161346076638,12.5
+"ranolazine","sider","dizziness",3.01157684630739,1000,0.00245534749941512,12.5
+"ranolazine","sider","constipation",4.62754491017964,1000,1.35454567957716e-05,12.5
+"regorafenib","sider","infection",1.82352941176471,160,9.68381029216037e-05,2
+"regorafenib","sider","lymphopenia",3,160,0.00429698215757712,2
+"regorafenib","sider","hypocalcemia",3.27777777777778,160,0,2
+"regorafenib","sider","increased lipase",2.42105263157895,160,1.75394143653307e-10,2
+"regorafenib","sider","anemia",1.1969696969697,160,0.000388079713667944,2
+"regorafenib","sider","dysphonia",5,160,4.46322090397189e-10,2
+"regorafenib","sider","asthenia/fatigue",1.66666666666667,160,0.0241088719741178,2
+"regorafenib","sider","hypokalemia",3.25,160,1.8714419591781e-07,2
+"regorafenib","sider","asthenia/fatigue",1.39130434782609,160,1.36486057833451e-05,2
+"regorafenib","sider","pain",1.38095238095238,160,0.0216851633684445,2
+"regorafenib","sider","fever",1.86666666666667,160,0.000169230945406662,2
+"regorafenib","sider","decreased appetite and food intake",1.67857142857143,160,3.35666222173181e-06,2
+"regorafenib","sider","hfsr/ppe",6.42857142857143,160,1.99840144432528e-15,2
+"regorafenib","sider","rash a",6.5,160,3.57316465304791e-09,2
+"regorafenib","sider","diarrhea",2.52941176470588,160,3.75828035359405e-10,2
+"regorafenib","sider","mucositis",6.6,160,1.98492333680633e-11,2
+"regorafenib","sider","weight decrease",3.2,160,5.58757839996815e-09,2
+"regorafenib","sider","hypophosphatemia",7.75,160,8.1544992980298e-11,2
+"regorafenib","sider","hypertension",3.75,160,3.54964591053886e-09,2
+"regorafenib","sider","hemorrhage b",2.625,160,2.75411108328072e-05,2
+"regorafenib","sider","hypophosphatemia",5.18181818181818,160,0,2
+"regorafenib","sider","bilirubin increase",2.64705882352941,160,4.06263911401084e-11,2
+"regorafenib","sider","hfsr/ppe",86.6946107784431,160,0.00162795399696058,2
+"regorafenib","sider","rash a",12,160,0.00600240485829318,2
+"regorafenib","sider","diarrhea",4,160,0.00289970700120512,2
+"regorafenib","sider","mucositis",20.7864271457086,160,0.0337577085050809,2
+"regorafenib","sider","hypertension",16,160,0.00205968231619735,2
+"regorafenib","sider","increased amylase",1.52941176470588,160,0.00719401759986171,2
+"regorafenib","sider","thrombocytopenia",2.41176470588235,160,3.38404837485484e-09,2
+"regorafenib","sider","lymphopenia",1.58823529411765,160,1.77387240407612e-06,2
+"regorafenib","sider","increased inr c",1.41176470588235,160,0.0312447130067142,2
+"regorafenib","sider","bilirubin increase",2,160,0.0231038748402181,2
+"regorafenib","sider","hyponatremia",1.36363636363636,160,0.0232518014311154,2
+"regorafenib","sider","hemorrhage",2.625,160,2.75411108328072e-05,2
+"regorafenib","sider","hypokalemia",8,160,0.0228317891522234,2
+"regorafenib","sider","ast increase",1.41304347826087,160,4.81378460670534e-06,2
+"regorafenib","sider","alt increase",1.5,160,0.000174169113904554,2
+"regorafenib","sider","proteinuria",1.76470588235294,160,2.1626558321941e-09,2
+"regorafenib","sider","increased lipase",3,160,0.00429698215757712,2
+"riociguat","sider","headache",1.5,4.5,0.0132669222106554,0.05625
+"riociguat","sider","constipation",5,4.5,0.023030612331407,0.05625
+"riociguat","sider","dyspepsia and gastritis",2.625,4.5,9.85020098316358e-05,0.05625
+"riociguat","sider","hypotension",2.5,4.5,0.0112031965082087,0.05625
+"riociguat","sider","anemia",3.5,4.5,0.0133021427678723,0.05625
+"riociguat","sider","dizziness",1.53846153846154,4.5,0.0300622244293456,0.05625
+"ripretinib","sider","alopecia",11.063829787234,150,0.0005386858780001,1.875
+"ripretinib","sider","myalgia",2.66666666666667,150,0.0265509548167631,1.875
+"ripretinib","sider","nausea",3.25,150,0.00669660183281029,1.875
+"ripretinib","sider","palmar-plantar erythrodysesthesia syndrome",18.7767441860465,150,0.0390830213386899,1.875
+"ripretinib","sider","decreased phosphate",10.4,150,0.0157440110948142,1.875
+"ripretinib","sider","bilirubin increase",4.4,150,0.0331221332211427,1.875
+"ripretinib","sider","increased activated partial thromboplastin time",3.88888888888889,150,0.00738319089816208,1.875
+"ripretinib","sider","fatigue",1.82608695652174,150,0.0496455628007992,1.875
+"ripretinib","sider","increased lipase",2.46153846153846,150,0.0340534076503936,1.875
+"risedronate","sider","abdominal pain",1.23232323232323,5,0.0374899404551932,0.0625
+"risedronate","sider","joint disorder",1.32075471698113,5,0.0450752780071013,0.0625
+"ritonavir","sider","paraesthesia",10,600,0.0217036237516659,7.5
+"ritonavir","sider","ggt >300 u/l",2.19402985074627,600,3.70140820813436e-05,7.5
+"ritonavir","sider","fever",200,600,0,7.5
+"ritonavir","sider","circumoral paraesthesia",29.5,600,0.000498906480592698,7.5
+"ritonavir","sider","asthenia",267.924528301887,600,0,7.5
+"ritonavir","sider","triglycerides >16.9 mmol/l",50.5,600,4.85658126758715e-05,7.5
+"ritonavir","sider","nausea",4.59649122807018,600,6.66133814775094e-16,7.5
+"ritonavir","sider","alt increase",2.34615384615385,600,0.00623009330829438,7.5
+"ritonavir","sider","diarrhoea",3,600,8.89135587378576e-09,7.5
+"ritonavir","sider","rash",2.88888888888889,600,0.0416688115861292,7.5
+"ritonavir","sider","somnolence",10,600,0.0217036237516659,7.5
+"ritonavir","sider","taste perversion",3.17647058823529,600,0.00189743263624687,7.5
+"ritonavir","sider","cpk >1000 u/l",1.91111111111111,600,0.00745269576913676,7.5
+"ritonavir","sider","uric acid >0.7 mmol/l",18,600,0.00325911494904751,7.5
+"ritonavir","sider","dyspepsia",6.85714285714286,600,0.000410722107748285,7.5
+"ritonavir","sider","local throat irritation",13,600,0.00974881175598741,7.5
+"ritonavir","sider","anorexia",3.05,600,0.00118971105576882,7.5
+"ritonavir","sider","triglycerides fasting >16.9 mmol/l",19.75,600,1.61149121198356e-05,7.5
+"ritonavir","sider","peripheral paraesthesia",7.14285714285714,600,0.000297573151587294,7.5
+"ritonavir","sider","dizziness",3,600,0.0189320858682254,7.5
+"ritonavir","sider","vomiting",5.84615384615385,600,3.37642580561237e-10,7.5
+"ritonavir","sider","abdominal pain",2.25806451612903,600,0.00442841665194349,7.5
+"rivastigmine","sider","tremor",4,6,0.000154528892882588,0.075
+"rivastigmine","sider","asthenia",3,6,3.13484046801094e-05,0.075
+"rivastigmine","sider","fatigue",1.8,6,0.000747436348205621,0.075
+"rivastigmine","sider","vomiting",5.16666666666667,6,0,0.075
+"rivastigmine","sider","headache",1.41666666666667,6,0.00188012794744141,0.075
+"rivastigmine","sider","dizziness",1.90909090909091,6,7.16438286474386e-09,0.075
+"rivastigmine","sider","somnolence",1.66666666666667,6,0.0268231639064938,0.075
+"rivastigmine","sider","percent of patients with any adverse event",1.16455696202532,6,5.32907051820075e-15,0.075
+"rivastigmine","sider","anorexia",5.66666666666667,6,0,0.075
+"rivastigmine","sider","nausea",3.91666666666667,6,0,0.075
+"rivastigmine","sider","malaise",2.5,6,0.000662540439466675,0.075
+"rivastigmine","sider","depression",1.5,6,0.0447806091365568,0.075
+"rivastigmine","sider","dyspepsia",2.25,6,2.00004338046789e-05,0.075
+"rivastigmine","sider","diarrhea",1.72727272727273,6,1.50344658567114e-06,0.075
+"rivastigmine","sider","anxiety",1.66666666666667,6,0.0268231639064938,0.075
+"rivastigmine","sider","abdominal pain",2.16666666666667,6,5.04021969494062e-07,0.075
+"rivastigmine","sider","sweating increased",4,6,0.000154528892882588,0.075
+"ropinirole","sider","viral infection",3.66666666666667,15.7,0.0126453400952959,0.19625
+"ropinirole","sider","leg edema",7,15.7,0.0254226317784494,0.19625
+"ropinirole","sider","nausea",2.72727272727273,15.7,2.56639753892784e-09,0.19625
+"ropinirole","sider","somnolence",6.66666666666667,15.7,2.59140089386989e-08,0.19625
+"ropinirole","sider","fatigue",2.75,15.7,0.0290585510989299,0.19625
+"ropinirole","sider","syncope",12,15.7,0.00341010073075076,0.19625
+"ropinirole","sider","asthenia",6,15.7,0.0415905035219624,0.19625
+"rosuvastatin","sider","arthralgia",1.1875,20,0.0296276468536216,0.25
+"rosuvastatin","sider","myalgia",4.84615384615385,20,0.0162381000271095,0.25
+"rosuvastatin","sider","diabetes mellitus",1.21739130434783,20,0.0346593895946445,0.25
+"rosuvastatin","sider","myalgia",1.15151515151515,20,0.00946112776849173,0.25
+"ruxolitinib","sider","weight increase",7,30,0.0238197574481784,0.375
+"ruxolitinib","boxed_all","cardiovascular toxicity",NA,NA,NA,NA
+"ruxolitinib","sider","dizziness",2.57142857142857,30,0.00583811004259815,0.375
+"ruxolitinib","sider","headache",3,30,0.0064054553183317,0.375
+"silodosin","sider","nasal congestion",9.8068669527897,8,0.0291734129116916,0.1
+"silodosin","sider","retrograde ejaculation",32.1174892703863,8,5.44519984657654e-12,0.1
+"silodosin","sider","dizziness",2.94206008583691,8,0.0351280515966923,0.1
+"sodium zirconium","sider","edema",2.45833333333333,10000,0.00543239527895811,125
+"sodium zirconium","sider","edema",7.04166666666667,15000,4.42925696120255e-11,187.5
+"solifenacin","sider","dry mouth",2.5952380952381,5,1.45805375995067e-07,0.0625
+"solifenacin","sider","urinary tract infection nos",1.71428571428571,10,0.0315730078232519,0.125
+"solifenacin","sider","constipation",4.62068965517241,10,7.32747196252603e-15,0.125
+"solifenacin","sider","cough",5.5,10,0.023443357433939,0.125
+"solifenacin","sider","dyspepsia",3.9,10,0.000111455279487638,0.125
+"solifenacin","sider","constipation",1.86206896551724,5,0.00974078165541359,0.0625
+"solifenacin","sider","vision blurred",2.11111111111111,5,0.0120931722027344,0.0625
+"solifenacin","sider","dry mouth",6.57142857142857,10,0,0.125
+"solifenacin","sider","dry eyes nos",2.66666666666667,10,0.0464604392881971,0.125
+"solifenacin","sider","vision blurred",2.66666666666667,10,0.000490854210025704,0.125
+"sorafenib","sider","squamous cell carcinoma of skin",621.504762119707,800,5.18175952568534e-06,10
+"sorafenib","sider","alopecia",7,800,5.37438405645574e-06,10
+"sorafenib","sider","diarrhea",2.2,800,2.56750176674814e-12,10
+"sorafenib","sider","hyperkeratosis",1449.50476211971,800,2.48964901139459e-07,10
+"sorafenib","sider","anorexia",1.61111111111111,800,0.00179285824926056,10
+"sorafenib","sider","hand-foot skin reaction",7,800,1.86931339296592e-08,10
+"sorafenib","sider","erythema",20,800,0,10
+"sorafenib","sider","dysgeusia",1242.50476211971,800,4.43826716489681e-07,10
+"sorafenib","sider","weight decrease",3,800,1.50212431382357e-08,10
+"sunitinib","sider","haematology",4.40778498609824,50,2.02582801644979e-08,0.625
+"sunitinib","sider","diarrhoea nausea mucositis/stomatitis vomiting constipation abdominal pain (c)",1.51485148514851,50,0.0256250325600653,0.625
+"sunitinib","sider","lymphocytes",1.62306368330465,50,0.00786939872722048,0.625
+"sunitinib","sider","calcium decreased",1.84417670682731,50,0.0285606229423989,0.625
+"sunitinib","boxed_all","hepatotoxicity",NA,NA,NA,NA
+"sunitinib","sider","phosphorus",1.68532955350815,50,0.0470149050255224,0.625
+"sunitinib","sider","platelets",4.03413654618474,50,7.54143579140276e-07,0.625
+"suvorexant","sider","somnolence",2.33333333333333,15,0.00126779048242232,0.1875
+"tadalafil","sider","diarrhoea",110,40,0,0.5
+"tadalafil","sider","pain in extremity",5.5,40,0.0443709492270281,0.5
+"tadalafil","sider","myalgia",3.5,40,0.0417797650045884,0.5
+"tadalafil","sider","headache",2.8,40,0.000540891110061725,0.5
+"tadalafil","sider","nausea",183.333333333333,40,0,0.5
+"tadalafil","sider","flushing",6.5,40,0.0254663335944525,0.5
+"tamoxifen","sider","skin",1.19148936170213,20,0.0201771928324774,0.25
+"tamoxifen","sider","constipation",1.375,20,0.000358266439608679,0.25
+"tamoxifen","sider","deep vein thrombosis",4,20,0.0354466773688431,0.25
+"tamoxifen","sider","ast increase",1.66666666666667,20,0.00698704837408104,0.25
+"tamoxifen","sider","vaginal discharge",2,20,0,0.25
+"tamoxifen","sider","skin changes",1.26666666666667,20,0.00454987015748687,0.25
+"tamoxifen","sider","alopecia",1.18181818181818,20,0.0327400904867783,0.25
+"tamoxifen","boxed_all","respiratory toxicity",NA,NA,NA,NA
+"tamoxifen","sider","platelets decreased",2.33333333333333,20,0.00166447113987145,0.25
+"tamoxifen","sider","hot flashes",1.17647058823529,20,0,0.25
+"tamoxifen","sider","vaginal discharges",1.57142857142857,20,0,0.25
+"tamoxifen","sider","bilirubin increase",2,20,0.0310770045872075,0.25
+"tamoxifen","sider","hot flashes",1.33333333333333,20,0,0.25
+"tamoxifen","boxed_all","neurotoxicity",NA,NA,NA,NA
+"tamoxifen","sider","irregular menses",1.31578947368421,20,0.00011725159635434,0.25
+"tamoxifen","sider","thrombocytopenia",2,20,0.0310770045872075,0.25
+"tamoxifen","sider","weight decrease",1.27777777777778,20,0.000974123703037844,0.25
+"tamoxifen","sider","infection/sepsis",1.17647058823529,20,0.0249022708975208,0.25
+"tamoxifen","boxed_all","cardiovascular toxicity",NA,NA,NA,NA
+"tamoxifen","sider","increased creatinine",2,20,0.0310770045872075,0.25
+"telmisartan","sider","back pain",3,80,0.0177416001459072,1
+"telmisartan","sider","diarrhea",2.6,80,0.0311911361592543,1
+"tenofovir","boxed_all","hepatotoxicity",NA,NA,NA,NA
+"tenofovir","sider","flatulence",18.2222366408187,300,0.0425259551357986,3.75
+"teriflunomide","sider","arthralgia",1.6,7,0.00671272701439429,0.0875
+"teriflunomide","sider","alopecia",2,7,3.08628936527278e-05,0.0875
+"teriflunomide","boxed_all","hepatotoxicity",NA,NA,NA,NA
+"teriflunomide","sider","diarrhea",1.75,14,2.54838820243908e-05,0.175
+"teriflunomide","sider","alt increase",1.66666666666667,14,4.81747086400475e-05,0.175
+"teriflunomide","sider","hypertension",2,14,0.0103561357821604,0.175
+"teriflunomide","sider","alopecia",2.6,14,2.58277066400581e-09,0.175
+"teriflunomide","sider","alt increase",1.44444444444444,7,0.00425272361474316,0.0875
+"teriflunomide","sider","diarrhea",1.625,7,0.0002890322350666,0.0875
+"teriflunomide","sider","neutropenia",2,7,0.00984674171331679,0.0875
+"teriflunomide","sider","neutropenia",3,14,1.58645995180784e-05,0.175
+"teriflunomide","sider","nausea",1.57142857142857,14,0.00200376199318164,0.175
+"tetrabenazine","sider","sedation/somnolence",9.44444444444444,12.5,0.0252445295165884,0.15625
+"tetrabenazine","boxed_all","neurotoxicity",NA,NA,NA,NA
+"thalidomide","sider","edema peripheral",1.39151297046034,50,0.0241113314211499,0.625
+"thalidomide","sider","tremor",2.11965811965812,50,0.000247793816127828,0.625
+"thalidomide","sider","dizziness",1.5801282051282,50,0.0260708787355701,0.625
+"thalidomide","sider","vascular disorders",1.72101273988066,50,0.00018934424419137,0.625
+"thalidomide","boxed_all","cardiovascular toxicity",NA,NA,NA,NA
+"thalidomide","sider","constipation",2.34711320425606,50,2.41774222864422e-09,0.625
+"thalidomide","sider","general disorders and administration site conditions",1.17111225836058,50,0.0104914805755458,0.625
+"thalidomide","sider","somnolence",3.375,200,0.0202055343899687,2.5
+"thalidomide","sider","somnolence",3.25,100,0.0236603630251628,1.25
+"thalidomide","sider","peripheral sensory neuropathy",1.98290598290598,50,0.0448187292350906,0.625
+"thalidomide","sider","nervous system disorders",1.15669515669516,50,0.0370575632263328,0.625
+"thalidomide","sider","asthenia",7.875,200,0.0474480776702086,2.5
+"thalidomide","sider","somnolence",3.28125,50,0.0275832130531672,0.625
+"thalidomide","sider","deep vein thrombosis",7.43589743589744,50,0.000129375396216158,0.625
+"thalidomide","sider","body as a whole",1.79487179487179,50,0.0261602060021791,0.625
+"tiagabine","sider","diarrhea",166.666666666667,32,0,0.4
+"tiagabine","sider","dizziness",2.58333333333333,32,0.00353712357993019,0.4
+"tiagabine","sider","tremor",21,56,0.00459380947874499,0.7
+"tiagabine","sider","difficulty with concentration/attention",4.66666666666667,56,0.0235929061182734,0.7
+"tiagabine","sider","dizziness",2.33333333333333,56,0.0168553075797317,0.7
+"tiagabine","sider","tremor",14,32,0.0141781555375478,0.4
+"ticagrelor","boxed_all","cardiovascular toxicity",NA,NA,NA,NA
+"ticagrelor","sider","dyspnea",2.58181818181818,120,0,1.5
+"ticagrelor","sider","diarrhea",1.32,120,0.00500821115307626,1.5
+"tofacitinib","boxed_all","cardiovascular toxicity",NA,NA,NA,NA
+"tofacitinib","sider","increased blood creatine phosphokinase",3.5,20,0.0256690213664341,0.25
+"tofacitinib","sider","elevated cholesterol levels**",5,10,0.0370868394551098,0.125
+"tofacitinib","sider","nasopharyngitis",2.33333333333333,20,0.0107936741515346,0.25
+"tofacitinib","sider","diarrhea",2,10,0.0133821649390331,0.125
+"tofacitinib","sider","elevated cholesterol levels**",9,20,0.00309169317151081,0.25
+"tofacitinib","sider","headache",2,10,0.0133821649390331,0.125
+"tofacitinib","sider","herpes zoster",5,20,0.0372424532378186,0.25
+"tolterodine","sider","dry mouth",3.03896103896104,4,1.51369361489628e-10,0.05
+"tolterodine","sider","dry mouth",3.96103896103896,4,2.22044604925031e-16,0.05
+"tolterodine","sider","abdominal pain",2.375,4,0.0366945747355052,0.05
+"tolterodine","sider","headache",121.621621621622,4,0,0.05
+"tolterodine","sider","constipation",65.1515151515151,4,0,0.05
+"tolterodine","sider","% patients reporting serious events",156.521739130435,4,0,0.05
+"tolterodine","sider","dysuria",8,4,0.0478417169529803,0.05
+"tolterodine","sider","% patients discontinuing due to adverse events",120.37037037037,4,0,0.05
+"tolterodine","sider","dry mouth",25.2459016393443,4,0,0.05
+"tolvaptan","sider","thirst",3.1390134529148,15,0.000577496385196108,0.1875
+"tolvaptan","sider","hyperglycemia",6.90582959641256,15,0.00997428051260463,0.1875
+"tolvaptan","sider","constipation",3.94618834080718,15,0.0127055995062209,0.1875
+"tolvaptan","sider","dry mouth",3.06925759840558,15,0.00251907090464321,0.1875
+"tolvaptan","sider","pollakiuria or polyuria",3.52338244714926,15,0.00252165641433977,0.1875
+"tolvaptan","boxed_all","hepatotoxicity",NA,NA,NA,NA
+"topiramate","sider","dizziness",1.66666666666667,200,0.00699058562484933,2.5
+"topiramate","sider","anorexia",2.5,200,0.0115595024585684,2.5
+"topiramate","sider","nervousness",2.66666666666667,200,0.000639522417851701,2.5
+"topiramate","sider","asthenia",6,200,0.00603639887115914,2.5
+"topiramate","sider","pharyngitis",3,200,0.0292666504998524,2.5
+"topiramate","sider","difficulty with memory",4,200,0.000363366241950658,2.5
+"topiramate","sider","vision abnormal",5,600,0.00022328682351147,7.5
+"topiramate","sider","rhinitis",100,600,0,7.5
+"topiramate","sider","depression",2.6,600,0.000814287227951738,7.5
+"topiramate","sider","difficulty with concentration/attention",3,200,0.0292666504998524,2.5
+"topiramate","sider","psychomotor slowing",10.5,600,2.38337209967909e-08,7.5
+"topiramate","sider","weight decrease",3,200,0.0070707472955549,2.5
+"topiramate","sider","somnolence",2.41666666666667,200,7.04038152732345e-06,2.5
+"topiramate","sider","sinusitis",150,600,0,7.5
+"topiramate","sider","psychomotor slowing",6.5,200,3.55612762357183e-05,2.5
+"topiramate","sider","dry mouth",4,600,0.0280250689711821,7.5
+"topiramate","sider","weight decrease",4.33333333333333,600,3.95358382003774e-05,7.5
+"topiramate","sider","confusion",2.2,200,0.0171881301299912,2.5
+"topiramate","sider","nervousness",3.16666666666667,600,5.32460443980476e-06,7.5
+"topiramate","sider","language problems",6,200,0.00603639887115914,2.5
+"topiramate","sider","ataxia",2.28571428571429,200,0.00243024544301229,2.5
+"topiramate","sider","speech disorders/related speech problems",6.5,200,3.55612762357183e-05,2.5
+"topiramate","sider","paresthesia",2.75,200,0.00448136619882078,2.5
+"topiramate","sider","language problems",10,600,0.000129548679874025,7.5
+"topiramate","sider","speech disorders/related speech problems",5.5,600,8.40809946645038e-05,7.5
+"topiramate","sider","mood problems",4.5,600,0.000613956699471618,7.5
+"topiramate","sider","somnolence",2.33333333333333,600,1.7469234170342e-06,7.5
+"topiramate","sider","confusion",2.8,600,0.000275508647833433,7.5
+"topiramate","sider","taste perversion",17.0623956698064,600,0.0477015527797158,7.5
+"topiramate","sider","difficulty with memory",4.66666666666667,600,1.4209934994458e-05,7.5
+"topiramate","sider","anorexia",3,600,0.000518788444188845,7.5
+"topiramate","sider","diplopia",2,600,0.0187952407128091,7.5
+"topiramate","sider","fatigue",2.30769230769231,600,7.73537032205951e-07,7.5
+"topiramate","sider","difficulty with concentration/attention",7,600,5.46649442312308e-06,7.5
+"topiramate","sider","ataxia",2,600,0.00482933368848637,7.5
+"topiramate","sider","vision abnormal",6.5,200,3.55612762357183e-05,2.5
+"topiramate","sider","paresthesia",4.75,600,3.12678742009354e-07,7.5
+"topiramate","sider","dizziness",2.13333333333333,600,1.36364954106405e-06,7.5
+"topiramate","sider","diplopia",2,200,0.0404930037115128,2.5
+"valbenazine","sider","somnolence",2.5952380952381,40,0.0157009629552909,0.5
+"valbenazine","boxed_all","neurotoxicity",NA,NA,NA,NA
+"valbenazine","sider","somnolence, lethargy, sedation",5.875,40,0.0167227783613899,0.5
+"vandetanib","sider","hypocalcemia",3.66666666666667,300,0.0307261700691202,3.75
+"vandetanib","sider","nail abnormalities §",18.3534482758621,300,0.0412553277451821,3.75
+"vandetanib","boxed_all","cardiovascular toxicity",NA,NA,NA,NA
+"vandetanib","sider","diarrhea/colitis",2.11111111111111,300,1.9266585481903e-05,3.75
+"vandetanib","sider","nausea",2.0625,300,0.00359617926880373,3.75
+"vandetanib","sider","abdominal pain †",1.90909090909091,300,0.0388802643316077,3.75
+"vandetanib","sider","rash ‡",4.41666666666667,300,1.02914596178394e-07,3.75
+"vandetanib","sider","dermatitis acneiform/acne",5,300,1.97747249166547e-05,3.75
+"vandetanib","sider","dry skin",3,300,0.0182071809042699,3.75
+"vandetanib","sider","photosensitivity reaction",26.3189655172414,300,0.0213433835175112,3.75
+"vandetanib","sider","hypoglycemia",3.42857142857143,300,0.00135624426599779,3.75
+"vandetanib","sider","hypertension/hypertensive crisis/accelerated hypertension",6.6,300,2.52936854003849e-05,3.75
+"vandetanib","sider","headache",2.88888888888889,300,0.00171385299101967,3.75
+"vandetanib","sider","proteinuria",5,300,0.0276213983823372,3.75
+"vandetanib","sider","ecg qt prolonge dþ",14,300,0.00919674823538585,3.75
+"vandetanib","sider","corneal abnormalities ß",13,300,0.0114523990305972,3.75
+"vandetanib","sider","blurred vision",9,300,0.031503019072614,3.75
+"vandetanib","sider","hypocalcemia",2.28,300,6.84871919642838e-06,3.75
+"vandetanib","sider","depression",3.33333333333333,300,0.0464476979128274,3.75
+"vandetanib","sider","diarrhea/colitis",5.5,300,0.0191957956117246,3.75
+"vandetanib","sider","hypertension/hypertensive crisis/accelerated hypertension",9,300,0.031503019072614,3.75
+"vandetanib","sider","alt increase",2.68421052631579,300,5.52533880560091e-06,3.75
+"vandetanib","sider","creatinine increased",16,300,0.00611390521789512,3.75
+"vardenafil","sider","dizziness",2,5,0.032272074721412,0.0625
+"vardenafil","sider","rhinitis",3,5,6.23297857771377e-10,0.0625
+"vardenafil","sider","sinusitis",3,5,0.000426737525503151,0.0625
+"vardenafil","sider","flushing",11,5,2.22044604925031e-16,0.0625
+"vardenafil","sider","headache",3.75,5,0,0.0625
+"vardenafil","sider","nausea",2,5,0.032272074721412,0.0625
+"vardenafil","sider","dyspepsia",4,5,5.77227014808557e-06,0.0625
+"vardenafil","sider","increased creatine kinase",2,5,0.032272074721412,0.0625
+"varenicline","sider","abdominal pain",5,1,0.00196264461666473,0.0125
+"varenicline","sider","nausea",3,2,0,0.025
+"varenicline","sider","flatulence",3,1,0.00141876577706523,0.0125
+"varenicline","sider","dysgeusia",2,1,0.0444668636842172,0.0125
+"varenicline","sider","constipation",2.66666666666667,2,2.50804500117052e-05,0.025
+"varenicline","sider","dyspepsia",1.66666666666667,2,0.0423342800284492,0.025
+"varenicline","sider","flatulence",2,2,0.00440416853327807,0.025
+"varenicline","sider","vomiting",2.5,2,0.00157079482246947,0.025
+"varenicline","sider","nausea",1.6,1,0.039062456219608,0.0125
+"varenicline","sider","sleep disorder",1.66666666666667,2,0.0423342800284492,0.025
+"varenicline","sider","abdominal pain",7,2,1.82565540685076e-07,0.025
+"varenicline","sider","abnormal dreams",2.6,2,8.22460022309457e-08,0.025
+"varenicline","sider","insomnia",1.38461538461538,2,0.0057105225031171,0.025
+"vigabatrin","sider","arthralgia",3.33333333333333,3000,0.0296971504120036,37.5
+"vigabatrin","sider","confusional state",14,6000,0.00481204640118249,75
+"vigabatrin","sider","depression",4.66666666666667,6000,0.0127313452069457,75
+"vigabatrin","sider","diplopia",5.33333333333333,6000,0.00537287199491265,75
+"vigabatrin","sider","diarrhoea",142.857142857143,3000,0,37.5
+"vigabatrin","sider","irritability",3.28571428571429,6000,0.00460565313155881,75
+"vigabatrin","sider","vision blurred",3.2,6000,0.0232807336155161,75
+"vigabatrin","sider","somnolence",2,6000,0.0416261185001983,75
+"vigabatrin","sider","disturbance in attention",9,3000,0.0145581876815735,37.5
+"vigabatrin","sider","fatigue",2.5,6000,0.000742085652452484,75
+"vigabatrin","sider","paraesthesia",7,3000,0.0329469288982216,37.5
+"vigabatrin","sider","weight increase",4.66666666666667,6000,0.0127313452069457,75
+"vigabatrin","sider","muscle twitching",9,6000,0.0255688134229597,75
+"vigabatrin","sider","nausea",125,3000,0,37.5
+"vigabatrin","sider","vision blurred",2.6,3000,0.0286577850833449,37.5
+"vigabatrin","sider","coordination abnormal",8,6000,0.00282900717549861,75
+"vigabatrin","sider","memory impairment",5.33333333333333,6000,0.00537287199491265,75
+"vorapaxar","sider","depression",1.17693740833234,2.08,0.0147489962536032,0.026
+"vorapaxar","boxed_all","cardiovascular toxicity",NA,NA,NA,NA
+"vorapaxar","sider","anemia",1.2532558392782,2.08,1.43543417907566e-06,0.026
+"vortioxetine","boxed_all","neurotoxicity",NA,NA,NA,NA
+"vortioxetine","sider","nausea",2.33333333333333,5,0,0.0625
+"vortioxetine","sider","vomiting",3,5,0.000314989121787734,0.0625
+"vortioxetine","sider","nausea",2.88888888888889,10,0,0.125
+"vortioxetine","sider","constipation",1.66666666666667,10,0.0186198628522365,0.125
+"vortioxetine","sider","vomiting",5,10,6.04153789218742e-08,0.125
+"vortioxetine","sider","flatulence",3,10,0.000798283896195073,0.125
+"vortioxetine","sider","nausea",3.55555555555556,15,0,0.1875
+"vortioxetine","sider","diarrhea",1.66666666666667,15,0.00304019804175848,0.1875
+"vortioxetine","sider","constipation",2,15,0.00307710999388333,0.1875
+"vortioxetine","sider","vomiting",6,15,7.29838989244058e-09,0.1875
+"vortioxetine","sider","pruritus*",3,15,0.00259980840932106,0.1875
+"vortioxetine","sider","nausea",3.55555555555556,20,0,0.25
+"vortioxetine","sider","constipation",2,20,0.00295458256986159,0.25
+"vortioxetine","sider","vomiting",6,20,6.71800592932925e-09,0.25
+"vortioxetine","sider","dizziness",1.5,20,0.0231693778912165,0.25
+"vortioxetine","sider","abnormal dreams",3,20,0.00250880105554896,0.25
+"vortioxetine","sider","pruritus*",3,20,0.00250880105554896,0.25
+"vortioxetine","sider","sexual disfunction",1.65,15,0.0499430838014137,0.1875
+"vortioxetine","sider","sexual disfunction",1.7,20,0.0283823967658934,0.25
+"vortioxetine","sider","sexual disfunction",2.07142857142857,20,0.0110082775574363,0.25
+"zafirlukast","sider","abdominal pain",1.63636363636364,40,0.0190324696759627,0.5
+"zafirlukast","sider","nausea",1.55,40,0.00503509962738335,0.5
+"zaleplon","sider","amnesia",4,20,0.0224078958815619,0.25
+"zaleplon","sider","abdominal pain",2,5,0.046773932849254,0.0625
+"zileuton","sider","dyspepsia",2.82758620689655,2400,0.000600640692437038,30
+"zileuton","sider","alt increase",9.5,2400,0.033791877844874,30
+"ziprasidone","sider","cough increased",5,10,0.00993321782079448,0.125
+"ziprasidone","sider","tachycardia",5,10,0.00993321782079448,0.125
+"ziprasidone","sider","respiratory tract infection",2.66666666666667,10,0.00755644806081035,0.125
+"ziprasidone","sider","somnolence",2.58333333333333,10,0.000136350541872554,0.125
+"ziprasidone","sider","somnolence",2,10,0.00381904525768029,0.125
+"ziprasidone","sider","fungal dermatitis",5,10,0.00993321782079448,0.125
+"ziprasidone","sider","chest pain",2.5,10,0.0437867153429659,0.125
+"ziprasidone","sider","accidental injury",2.5,10,0.0437867153429659,0.125
+"ziprasidone","sider","extrapyramidal symptoms *",2.58333333333333,10,0.000136350541872554,0.125
+"ziprasidone","sider","dry mouth",2.5,10,0.0437867153429659,0.125
+"ziprasidone","sider","anorexia",5,10,0.00993321782079448,0.125
+"ziprasidone","sider","omnolence",2.58333333333333,10,0.000136350541872554,0.125
+"ziprasidone","sider","abnormal vision",2.5,10,0.0437867153429659,0.125
+"ziprasidone","sider","dizziness * *",2.28571428571429,10,0.0154382229556833,0.125
+"zonisamide","sider","difficulty concentrating",3,100,0.0349211625639934,1.25
+"zonisamide","sider","difficulty concentrating",3,400,0.0349211625639934,5
+"zonisamide","sider","agitation / irritability",2.25,100,0.0313600798290128,1.25
+"zonisamide","sider","dizziness",1.85714285714286,100,0.0312904186342737,1.25
+"zonisamide","sider","somnolence",2.42857142857143,400,0.00128007442400913,5
+"zonisamide","sider","somnolence",2.42857142857143,100,0.00128007442400913,1.25
+"zonisamide","sider","difficulty with memory",3,100,0.0349211625639934,1.25
+"zonisamide","sider","anorexia",2.16666666666667,400,0.0112297914181232,5
+"zonisamide","sider","agitation / irritability",2.25,400,0.0313600798290128,5
+"zonisamide","sider","dizziness",1.85714285714286,400,0.0312904186342737,5
+"zonisamide","sider","ataxia",6,100,0.010373507933507,1.25
+"zonisamide","sider","ataxia",6,400,0.010373507933507,5
+"zonisamide","sider","anorexia",2.16666666666667,100,0.0112297914181232,1.25
+"zonisamide","sider","difficulty with memory",3,400,0.0349211625639934,5
